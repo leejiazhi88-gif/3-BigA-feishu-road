@@ -5,8 +5,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / 'dividend-estimates'))
-import build as d
 from industry_colors import style_payload
+import build as d
 
 
 SHEET = 'cXtmBx'
