@@ -3,7 +3,11 @@ from __future__ import annotations
 import collections
 import importlib.util
 import json
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from industry_colors import style_payload as industry_style_payload
 
 
 ROOT = Path(__file__).resolve().parent
@@ -12,6 +16,7 @@ TITLE = '2026-10-8（全部）'
 ASOF = '20261008'
 ASOF_DISPLAY = '2026-10-08'
 OUT_ROOT = ROOT / 'refresh-all-20261008'
+INDUSTRY_COLORS = ROOT / 'industry_color_map_20260928.json'
 
 
 def load_worker():
@@ -61,6 +66,13 @@ def apply_values_only(worker):
         f'{worker.BASE}/styles_batch_update', token, method='PUT',
         body={'data': worker.previous.style_payload(visible_values)},
     )
+    industry_styles, industry_result = industry_style_payload(
+        visible_values, TARGET, INDUSTRY_COLORS
+    )
+    worker.api(
+        f'{worker.BASE}/styles_batch_update', token, method='PUT',
+        body={'data': industry_styles},
+    )
 
     after = worker.read_values(token)
     rows = [worker.padded(row) for row in after[1:] if row and row[0]]
@@ -95,6 +107,7 @@ def apply_values_only(worker):
         'frozen_rows': sheet_after['grid_properties']['frozen_row_count'],
         'frozen_columns': sheet_after['grid_properties']['frozen_column_count'],
         'values_verified': True,
+        'industry_colors': industry_result,
     }
     (worker.OUT / 'verification.json').write_text(
         json.dumps(result, ensure_ascii=False, indent=2)

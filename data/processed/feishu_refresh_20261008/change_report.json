@@ -1,0 +1,260 @@
+{
+  "from": "2026-09-28",
+  "to": "2026-10-08",
+  "previous_count": 449,
+  "current_count": 446,
+  "net_change": -3,
+  "added": [
+    {
+      "code": "001246.SZ",
+      "name": "C力勤资源",
+      "market_cap_yi": 925.8,
+      "sw_l2": "能源金属",
+      "l2_market_cap_rank": 2,
+      "reason": "市值超过600亿元"
+    },
+    {
+      "code": "001872.SZ",
+      "name": "招商港口",
+      "market_cap_yi": 610.9,
+      "sw_l2": "航运港口",
+      "l2_market_cap_rank": 7,
+      "reason": "市值超过600亿元"
+    },
+    {
+      "code": "002266.SZ",
+      "name": "浙富控股",
+      "market_cap_yi": 253.7,
+      "sw_l2": "环境治理",
+      "l2_market_cap_rank": 2,
+      "reason": "补足环境治理市值前二"
+    },
+    {
+      "code": "002414.SZ",
+      "name": "高德红外",
+      "market_cap_yi": 478.3,
+      "sw_l2": "军工电子Ⅱ",
+      "l2_market_cap_rank": 2,
+      "reason": "补足军工电子Ⅱ市值前二"
+    },
+    {
+      "code": "002967.SZ",
+      "name": "广电计量",
+      "market_cap_yi": 109.2,
+      "sw_l2": "专业服务",
+      "l2_market_cap_rank": 2,
+      "reason": "补足专业服务市值前二"
+    },
+    {
+      "code": "300450.SZ",
+      "name": "先导智能",
+      "market_cap_yi": 629.3,
+      "sw_l2": "电池",
+      "l2_market_cap_rank": 5,
+      "reason": "市值超过600亿元"
+    },
+    {
+      "code": "600170.SH",
+      "name": "上海建工",
+      "market_cap_yi": 197.3,
+      "sw_l2": "房屋建设Ⅱ",
+      "l2_market_cap_rank": 2,
+      "reason": "补足房屋建设Ⅱ市值前二"
+    },
+    {
+      "code": "600968.SH",
+      "name": "海油发展",
+      "market_cap_yi": 409.7,
+      "sw_l2": "油服工程",
+      "l2_market_cap_rank": 2,
+      "reason": "补足油服工程市值前二"
+    },
+    {
+      "code": "601179.SH",
+      "name": "中国西电",
+      "market_cap_yi": 604.3,
+      "sw_l2": "电网设备",
+      "l2_market_cap_rank": 4,
+      "reason": "市值超过600亿元"
+    },
+    {
+      "code": "603033.SH",
+      "name": "三维股份",
+      "market_cap_yi": 78.9,
+      "sw_l2": "橡胶",
+      "l2_market_cap_rank": 2,
+      "reason": "补足橡胶市值前二"
+    },
+    {
+      "code": "603366.SH",
+      "name": "日出东方",
+      "market_cap_yi": 59.4,
+      "sw_l2": "厨卫电器",
+      "l2_market_cap_rank": 2,
+      "reason": "补足厨卫电器市值前二"
+    },
+    {
+      "code": "688809.SH",
+      "name": "强一股份",
+      "market_cap_yi": 608.9,
+      "sw_l2": "半导体",
+      "l2_market_cap_rank": 42,
+      "reason": "市值超过600亿元"
+    }
+  ],
+  "removed": [
+    {
+      "code": "000628.SZ",
+      "name": "高新发展",
+      "previous_market_cap_yi": 192.9,
+      "current_market_cap_yi": 180.8,
+      "sw_l2": "房屋建设Ⅱ",
+      "l2_market_cap_rank": 3,
+      "reason": "市值低于600亿元，且房屋建设Ⅱ市值排名第3"
+    },
+    {
+      "code": "300454.SZ",
+      "name": "深信服",
+      "previous_market_cap_yi": 601.5,
+      "current_market_cap_yi": 552.0,
+      "sw_l2": "软件开发",
+      "l2_market_cap_rank": 5,
+      "reason": "市值低于600亿元，且软件开发市值排名第5"
+    },
+    {
+      "code": "300548.SZ",
+      "name": "长芯博创",
+      "previous_market_cap_yi": 628.0,
+      "current_market_cap_yi": 561.5,
+      "sw_l2": "通信设备",
+      "l2_market_cap_rank": 13,
+      "reason": "市值低于600亿元，且通信设备市值排名第13"
+    },
+    {
+      "code": "300666.SZ",
+      "name": "江丰电子",
+      "previous_market_cap_yi": 642.0,
+      "current_market_cap_yi": 578.5,
+      "sw_l2": "半导体",
+      "l2_market_cap_rank": 43,
+      "reason": "市值低于600亿元，且半导体市值排名第43"
+    },
+    {
+      "code": "300731.SZ",
+      "name": "科创新源",
+      "previous_market_cap_yi": 81.2,
+      "current_market_cap_yi": 73.3,
+      "sw_l2": "橡胶",
+      "l2_market_cap_rank": 3,
+      "reason": "市值低于600亿元，且橡胶市值排名第3"
+    },
+    {
+      "code": "300911.SZ",
+      "name": "亿田智能",
+      "previous_market_cap_yi": 60.2,
+      "current_market_cap_yi": 57.7,
+      "sw_l2": "厨卫电器",
+      "l2_market_cap_rank": 3,
+      "reason": "市值低于600亿元，且厨卫电器市值排名第3"
+    },
+    {
+      "code": "600871.SH",
+      "name": "石化油服",
+      "previous_market_cap_yi": 396.2,
+      "current_market_cap_yi": 409.5,
+      "sw_l2": "油服工程",
+      "l2_market_cap_rank": 3,
+      "reason": "市值低于600亿元，且油服工程市值排名第3"
+    },
+    {
+      "code": "603459.SH",
+      "name": "红板科技",
+      "previous_market_cap_yi": 633.7,
+      "current_market_cap_yi": 566.1,
+      "sw_l2": "元件",
+      "l2_market_cap_rank": 16,
+      "reason": "市值低于600亿元，且元件市值排名第16"
+    },
+    {
+      "code": "603588.SH",
+      "name": "高能环境",
+      "previous_market_cap_yi": 250.9,
+      "current_market_cap_yi": 239.8,
+      "sw_l2": "环境治理",
+      "l2_market_cap_rank": 4,
+      "reason": "市值低于600亿元，且环境治理市值排名第4"
+    },
+    {
+      "code": "688036.SH",
+      "name": "传音控股",
+      "previous_market_cap_yi": 618.4,
+      "current_market_cap_yi": 530.7,
+      "sw_l2": "消费电子",
+      "l2_market_cap_rank": 10,
+      "reason": "市值低于600亿元，且消费电子市值排名第10"
+    },
+    {
+      "code": "688172.SH",
+      "name": "燕东微",
+      "previous_market_cap_yi": 624.4,
+      "current_market_cap_yi": 576.0,
+      "sw_l2": "半导体",
+      "l2_market_cap_rank": 44,
+      "reason": "市值低于600亿元，且半导体市值排名第44"
+    },
+    {
+      "code": "688313.SH",
+      "name": "仕佳光子",
+      "previous_market_cap_yi": 657.6,
+      "current_market_cap_yi": 576.7,
+      "sw_l2": "通信设备",
+      "l2_market_cap_rank": 12,
+      "reason": "市值低于600亿元，且通信设备市值排名第12"
+    },
+    {
+      "code": "688432.SH",
+      "name": "有研硅",
+      "previous_market_cap_yi": 664.5,
+      "current_market_cap_yi": 561.8,
+      "sw_l2": "半导体",
+      "l2_market_cap_rank": 45,
+      "reason": "市值低于600亿元，且半导体市值排名第45"
+    },
+    {
+      "code": "688629.SH",
+      "name": "华丰科技",
+      "previous_market_cap_yi": 497.4,
+      "current_market_cap_yi": 456.3,
+      "sw_l2": "军工电子Ⅱ",
+      "l2_market_cap_rank": 3,
+      "reason": "市值低于600亿元，且军工电子Ⅱ市值排名第3"
+    },
+    {
+      "code": "688757.SH",
+      "name": "胜科纳米",
+      "previous_market_cap_yi": 116.1,
+      "current_market_cap_yi": 105.1,
+      "sw_l2": "专业服务",
+      "l2_market_cap_rank": 3,
+      "reason": "市值低于600亿元，且专业服务市值排名第3"
+    }
+  ],
+  "threshold_crossings_retained": [
+    {
+      "code": "600803.SH",
+      "name": "新奥股份",
+      "previous_market_cap_yi": 580.0,
+      "current_market_cap_yi": 603.3,
+      "direction": "升破600亿元",
+      "still_selected": true
+    },
+    {
+      "code": "601607.SH",
+      "name": "上海医药",
+      "previous_market_cap_yi": 589.3,
+      "current_market_cap_yi": 610.8,
+      "direction": "升破600亿元",
+      "still_selected": true
+    }
+  ]
+}
