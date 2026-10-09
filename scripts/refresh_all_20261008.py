@@ -53,6 +53,15 @@ def apply_values_only(worker):
     audit = json.loads((worker.OUT / 'audit.json').read_text())
     worker.api(f'{worker.BASE}/values', token, method='PUT', body=payload)
 
+    # These colors depend on the refreshed values and must be recalculated
+    # after every update. Data bars and other conditional formats stay intact.
+    visible_values = payload['valueRange']['values'][:len(audit) + 1]
+    worker.previous.SHEET = TARGET
+    worker.api(
+        f'{worker.BASE}/styles_batch_update', token, method='PUT',
+        body={'data': worker.previous.style_payload(visible_values)},
+    )
+
     after = worker.read_values(token)
     rows = [worker.padded(row) for row in after[1:] if row and row[0]]
     condition_after = worker.api(

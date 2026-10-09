@@ -1,0 +1,24 @@
+{
+  "pe_font_colors": {
+    "black": 362,
+    "green": 1134,
+    "red": 288
+  },
+  "profit_yoy_font_colors": {
+    "red": 301,
+    "green": 532,
+    "blue": 481,
+    "black": 470
+  },
+  "actual_vs_forecast_font_colors": {
+    "red": 101,
+    "green": 68,
+    "blue": 64,
+    "black": 1105
+  },
+  "g10": {
+    "value": 29.7,
+    "font": "green"
+  },
+  "conditional_format_rules": 12
+}
