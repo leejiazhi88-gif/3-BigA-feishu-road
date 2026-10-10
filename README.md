@@ -46,3 +46,29 @@ The current scoring model uses:
 Funding persistence and event/catalyst evidence are the next validation layers.
 The report already separates confirmation from refutation so those evidence
 sources can be added without hiding the reasoning in a single score.
+
+## Feishu all-stock business composition
+
+The `2026-10-8（全部）` sheet now includes four business-composition columns in
+`AX:BA`: 2025 revenue, 2025 profit, 2026 revenue forecast, and 2026 profit
+forecast. The result covers 446 companies and is available in
+`exports/business_composition/2026-10-08-all.json`.
+
+The calculation follows the reviewed `3.2 飞书筛选器（精选）` method. It uses
+Tushare `fina_mainbz` and `income`, removes duplicate parent/child disclosures,
+reconciles segment totals, uses gross-profit composition for non-financial
+companies and operating-profit composition for banks, brokers, and insurers.
+2026 uses comparable half-year growth where reliable and otherwise retains the
+latest defensible structure with an explicit assumption in the cell text.
+
+Run the four phases below. Raw responses and Feishu snapshots stay under the
+ignored `work/` directory. `apply_composition.py` writes only `AX:BA`, verifies
+all cells by reading them back, preserves `A:AW`, and checks conditional formats,
+filters, and frozen panes.
+
+```bash
+.venv/bin/python scripts/business_composition/prepare_source.py
+.venv/bin/python scripts/business_composition/fetch_raw.py
+.venv/bin/python scripts/business_composition/build_composition.py
+.venv/bin/python scripts/business_composition/apply_composition.py
+```

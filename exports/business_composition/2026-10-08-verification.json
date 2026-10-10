@@ -1,0 +1,21 @@
+{
+  "sheet_id": "cXtmBx",
+  "url": "https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=cXtmBx",
+  "range": "cXtmBx!AX1:BA447",
+  "stocks": 446,
+  "cells_verified": 1788,
+  "selected_rows_reused_exactly": 92,
+  "previous_columns_preserved": true,
+  "conditional_format_rules": 13,
+  "conditional_formats_preserved": true,
+  "filter_preserved": true,
+  "frozen_rows": 1,
+  "frozen_columns": 2,
+  "industry_background_extended_to": "BA",
+  "unavailable": {
+    "25_revenue": 7,
+    "25_profit": 13,
+    "26_revenue": 4,
+    "26_profit": 10
+  }
+}
