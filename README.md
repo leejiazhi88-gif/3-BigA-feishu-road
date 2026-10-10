@@ -60,6 +60,8 @@ reconciles segment totals, uses gross-profit composition for non-financial
 companies and operating-profit composition for banks, brokers, and insurers.
 2026 uses comparable half-year growth where reliable and otherwise retains the
 latest defensible structure with an explicit assumption in the cell text.
+Tushare is the default source and is therefore omitted from cell text; only
+non-default sources are labeled explicitly.
 
 Run the four phases below. Raw responses and Feishu snapshots stay under the
 ignored `work/` directory. `apply_composition.py` writes only `AX:BA`, verifies

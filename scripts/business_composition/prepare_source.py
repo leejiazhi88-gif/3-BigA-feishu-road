@@ -9,35 +9,25 @@ HERE = Path(os.environ.get(
     SCRIPT_DIR.parents[1] / 'work' / 'business-composition-all-20261008',
 ))
 HERE.mkdir(parents=True, exist_ok=True)
-sys.path.insert(0, str(SCRIPT_DIR.parent))
-import refresh_all_20261008 as refresh
+sys.path.insert(0, str(SCRIPT_DIR))
+import feishu_client as feishu
 
 
 def save(name, value):
     (HERE / name).write_text(json.dumps(value, ensure_ascii=False, indent=2, allow_nan=False))
 
 
-worker = refresh.load_worker()
-token = worker.old.b.get_feishu_token(worker.old.b.DEFAULT_FEISHU_ENV)
-values = worker.read_values(token)
-values_with_notes = worker.api(
-    f'{worker.BASE}/values/{refresh.TARGET}!A1:AW500?valueRenderOption=UnformattedValue', token
-)['data']['valueRange']['values']
+token = feishu.get_token()
+values = feishu.read_range(token, f'{feishu.TARGET}!A1:AV500')
+values_with_notes = feishu.read_range(token, f'{feishu.TARGET}!A1:AW500')
 rows = [row for row in values[1:] if row and row[0]]
 assert len(rows) == 446
 assert len(values[0]) == 48
 assert len({str(row[3]) for row in rows}) == len(rows)
 
-metadata = worker.api(
-    f'sheets/v3/spreadsheets/{worker.old.SPREADSHEET}/sheets/query', token
-)
-sheet = next(x for x in metadata['data']['sheets'] if x['sheet_id'] == refresh.TARGET)
-conditions = worker.api(
-    f'{worker.BASE}/condition_formats?sheet_ids={refresh.TARGET}', token
-)
-sheet_filter = worker.api(
-    f'sheets/v3/spreadsheets/{worker.old.SPREADSHEET}/sheets/{refresh.TARGET}/filter', token
-)
+sheet = feishu.metadata(token)
+conditions = feishu.condition_formats(token)
+sheet_filter = feishu.sheet_filter(token)
 
 save('before.json', {'values': values})
 save('before_with_notes.json', {'values': values_with_notes})

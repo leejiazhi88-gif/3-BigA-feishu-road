@@ -17,5 +17,8 @@
     "25_profit": 13,
     "26_revenue": 4,
     "26_profit": 10
-  }
+  },
+  "default_source_labels_removed": 885,
+  "default_source_omitted": "Tushare",
+  "non_default_sources_labeled": true
 }

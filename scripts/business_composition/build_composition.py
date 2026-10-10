@@ -178,7 +178,10 @@ def actual_text(code,v,metric):
  if v['total']<=0:text+=f"合计{v['total']/1e8:.2f}亿元；负合计占比仅表示损益贡献。"
  if any(x<0 and abs(x/v['total'])>=.0005 for x in v['items'].values()):text+='负项为亏损或合并抵销。'
  if code in {'600519.SH','000333.SZ','000651.SZ'}:text+='营业业务口径，不含财务子公司利息收入。'
- return text+'来源：2025年报（Tushare）。'
+ return text
+
+def strip_default_source(text):
+ return text.replace('来源：2025年报（Tushare）。','').replace('来源：2025年报主营构成。','')
 
 def forecast(code,metric,vs):
  annual=vs['20251231'][metric];half=vs['20260630'][metric]
@@ -224,6 +227,7 @@ def main():
   preds=[forecast(code,m,vs) for m in ['revenue','profit']];texts += [x['text'] for x in preds]
   # Preserve every reviewed cell from the 3.2 selected-sheet project exactly.
   if code in selected:texts=selected[code]['values']
+  texts=[strip_default_source(text) for text in texts]
   result.append({'row':rn,'name':r[0],'code':code,'values':texts,'actual':vs['20251231'],'forecasts':preds})
   audit.append({'row':rn,'name':r[0],'code':code,'views':vs,'forecast_methods':[x['method'] for x in preds]})
  (ROOT/'prepared.json').write_text(json.dumps(result,ensure_ascii=False,indent=2,allow_nan=False))
