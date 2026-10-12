@@ -55,6 +55,16 @@ for change in changes:
 for code in by_code:
     by_code[code].sort(key=lambda item: item['field'])
 
+
+def color_for(changes):
+    if not changes:
+        return '#000000'
+    nearest = changes[0]
+    old, new = nearest['old'], nearest['new']
+    if old in ('', None) or new in ('', None) or float(new) == float(old):
+        return '#000000'
+    return '#00B050' if float(new) > float(old) else '#C00000'
+
 if column_already_present:
     inserted = before
 else:
@@ -88,6 +98,19 @@ feishu.api(feishu.BASE + '/dimension_range', token, method='PUT', body={
                   'startIndex': 16, 'endIndex': 17},
     'dimensionProperties': {'fixedSize': 260},
 })
+color_groups = defaultdict(list)
+for row_number, row in enumerate(inserted[1:], 2):
+    row = list(row) + [''] * (len(inserted[0]) - len(row))
+    if row and row[0]:
+        color_groups[color_for(by_code.get(str(row[code_index]), []))].append(
+            f'{TARGET}!Q{row_number}:Q{row_number}')
+style_payload = []
+for color, ranges in color_groups.items():
+    for start in range(0, len(ranges), 100):
+        style_payload.append({'ranges': ranges[start:start + 100],
+                              'style': {'foreColor': color}})
+feishu.api(feishu.BASE + '/styles_batch_update', token, method='PUT',
+           body={'data': style_payload})
 
 after = feishu.read_range(token, f'{TARGET}!A1:BD500')
 assert after[0][16] == HEADER
@@ -118,6 +141,12 @@ result = {
     'header': HEADER,
     'changed_companies': changed_rows,
     'annual_change_records': annual_changes,
+    'font_colors': {
+        'green_increase': len(color_groups.get('#00B050', [])),
+        'red_decrease': len(color_groups.get('#C00000', [])),
+        'black_no_comparable_old_or_no_change': len(color_groups.get('#000000', [])),
+    },
+    'multiple_year_rule': 'use_nearest_year',
     'used_existing_column': column_already_present,
     'other_values_preserved': True,
     'conditional_format_rule_count_before': len(cf_before['data']['sheet_condition_formats']),

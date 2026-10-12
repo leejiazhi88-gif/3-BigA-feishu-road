@@ -286,6 +286,45 @@ def annual_change_text(changes):
     return '；'.join(parts)
 
 
+def annual_change_colors(changes):
+    annual_fields = {f'{year}净利润(预测,亿元)' for year in (2026, 2027, 2028)}
+    by_code = {}
+    for change in changes:
+        if change['field'] not in annual_fields:
+            continue
+        code = str(change['code'])
+        current = by_code.get(code)
+        if current is None or change['field'] < current['field']:
+            by_code[code] = change
+    colors = {}
+    for code, change in by_code.items():
+        old, new = number(change['old']), number(change['new'])
+        colors[code] = ('#000000' if old is None or new is None or new == old
+                        else '#00B050' if new > old else '#C00000')
+    return colors
+
+
+def annual_change_style_payload(values, changes):
+    headers = values[0]
+    idx = {header: i for i, header in enumerate(headers)}
+    colors = annual_change_colors(changes)
+    groups = {}
+    for row_number, row in enumerate(values[1:], 2):
+        if not row or not row[0]:
+            continue
+        row = list(row) + [''] * (len(headers) - len(row))
+        color = colors.get(str(row[idx['代码']]), '#000000')
+        groups.setdefault(color, []).append(
+            f'{TARGET}!{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}:'
+            f'{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}')
+    styles = []
+    for color, ranges in groups.items():
+        for start in range(0, len(ranges), 100):
+            styles.append({'ranges': ranges[start:start + 100],
+                           'style': {'foreColor': color}})
+    return styles
+
+
 def column_name(index):
     result = ''
     while index:
@@ -515,6 +554,9 @@ def apply():
         l1_index=2, l2_index=3, column_count=len(headers),
         excluded_columns={2})
     feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT', {'data': industry_styles})
+    changes = json.loads((WORK / 'forecast_changes.json').read_text())
+    feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
+               {'data': annual_change_style_payload(visible, changes)})
 
     after = feishu.read_range(token, f'{TARGET}!A1:BD500')
     for rn, (expected, actual) in enumerate(zip(values, after), 1):

@@ -95,7 +95,10 @@ Industry row coloring explicitly excludes column B, whose personal-note
 background and font colors are preserved independently by stock code.
 Column Q records every annual forecast changed by the current refresh in the
 form `20XX年（旧值XXX，+X.X%）`; multiple years are separated with a Chinese
-semicolon, and a newly available forecast is labeled `新增预测`.
+semicolon, and a newly available forecast is labeled `新增预测`. Its font is
+green for an increase and red for a decrease. When multiple years changed,
+the nearest changed year determines the color; a change without an old value
+uses black.
 
 ```bash
 .venv/bin/python scripts/refresh_all_20261012.py prepare

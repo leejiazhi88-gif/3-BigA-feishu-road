@@ -4,6 +4,12 @@
   "header": "本次刷新年度预测变化",
   "changed_companies": 187,
   "annual_change_records": 456,
+  "font_colors": {
+    "green_increase": 88,
+    "red_decrease": 93,
+    "black_no_comparable_old": 6
+  },
+  "multiple_year_rule": "use_nearest_year",
   "used_existing_column": true,
   "other_values_preserved": true,
   "conditional_format_rule_count_before": 13,
