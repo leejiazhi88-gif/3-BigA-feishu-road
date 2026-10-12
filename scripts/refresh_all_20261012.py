@@ -40,6 +40,7 @@ TARGET = 'avlLqL'
 TITLE = '2026-10-12（全部）'
 ASOF = '20261009'
 ASOF_DISPLAY = '2026-10-09'
+ANNUAL_CHANGE_HEADER = '本次刷新年度预测变化'
 PERIODS = (10, 30, 60, 90, 250, 360, 720, 1080)
 REUSE_RAW = os.environ.get('REUSE_REFRESH_RAW') == '1'
 EXPECTED_HEADERS = [
@@ -47,6 +48,7 @@ EXPECTED_HEADERS = [
     '公司产品简介', '市值(亿元)', 'PE(TTM)', '2026 PE(预测)', '2027 PE(预测)',
     '2028 PE(预测)', '未来三年增速均值', '2025净利润(实际/预测,亿元)',
     '2026净利润(预测,亿元)', '2027净利润(预测,亿元)', '2028净利润(预测,亿元)',
+    ANNUAL_CHANGE_HEADER,
     '2025净利润同比%(实际/预测)', '2026净利润同比%(预测)',
     '2027净利润同比%(预测)', '2028净利润同比%(预测)', '最新交易日', '当日涨幅%',
     '10日涨幅%', '30日涨幅%', '60日涨幅%', '90日涨幅%', '250日涨幅%',
@@ -268,6 +270,22 @@ def make_changes(code, name, old_row, new_row, idx):
     return changes
 
 
+def annual_change_text(changes):
+    parts = []
+    for change in changes:
+        match = re.match(r'(20\d{2})净利润\(预测,亿元\)', change['field'])
+        if not match:
+            continue
+        year = match.group(1)
+        old = change['old']
+        ratio = change['change_ratio']
+        if number(old) is None or ratio is None:
+            parts.append(f'{year}年（旧值无，新增预测）')
+        else:
+            parts.append(f'{year}年（旧值{fmt_number(number(old))}，{ratio:+.1%}）')
+    return '；'.join(parts)
+
+
 def column_name(index):
     result = ''
     while index:
@@ -320,11 +338,11 @@ def font_style_payload(values):
 
 def prepare():
     token = feishu.get_token()
-    before = feishu.read_range(token, f'{TARGET}!A1:BC500')
+    before = feishu.read_range(token, f'{TARGET}!A1:BD500')
     headers = before[0]
     assert headers == EXPECTED_HEADERS
     rows = [list(row) + [''] * (len(headers) - len(row)) for row in before[1:] if row and row[0]]
-    assert len(rows) == 446
+    assert len(rows) >= 446
     idx = {header: i for i, header in enumerate(headers)}
     existing = {str(row[idx['代码']]): row for row in rows}
     assert len(existing) == len(rows)
@@ -434,7 +452,9 @@ def prepare():
         old_yield = number(old_row[idx['本财年预估全年股息率（26年）']]) if code in existing else None
         if old_yield is not None and old_cap and cap > 0:
             row[idx['本财年预估全年股息率（26年）']] = old_yield * old_cap / cap
-        changes.extend(make_changes(code, name, old_row, row, idx) if code in existing else [])
+        row_changes = make_changes(code, name, old_row, row, idx) if code in existing else []
+        row[idx[ANNUAL_CHANGE_HEADER]] = annual_change_text(row_changes)
+        changes.extend(row_changes)
         if code in additions:
             qualified_row = qualified[qualified.ts_code.astype(str).eq(code)].iloc[0]
             l2_peers = eligible[eligible.l2_code.eq(qualified_row.l2_code)].sort_values('cap_yi', ascending=False)
@@ -447,7 +467,7 @@ def prepare():
 
     payload = [headers] + output_rows + [[''] * len(headers) for _ in range(len(before) - len(output_rows) - 1)]
     assert len(payload) == len(before)
-    save('payload.json', {'valueRange': {'range': f'{TARGET}!A1:BC{len(before)}', 'values': payload}})
+    save('payload.json', {'valueRange': {'range': f'{TARGET}!A1:BD{len(before)}', 'values': payload}})
     save('forecast_changes.json', changes)
     save('additions.json', addition_details)
     save('summary.json', {'asof': ASOF_DISPLAY, 'existing': len(existing), 'added': len(additions),
@@ -466,12 +486,13 @@ def equivalent(a, b):
 def apply():
     token = feishu.get_token()
     before = json.loads((WORK / 'before.json').read_text())
-    current = feishu.read_range(token, f'{TARGET}!A1:BC500')
+    current = feishu.read_range(token, f'{TARGET}!A1:BD500')
     assert current == before, 'Sheet changed after preparation'
     payload = json.loads((WORK / 'payload.json').read_text())
     values = payload['valueRange']['values']
     headers, idx = values[0], {h: i for i, h in enumerate(values[0])}
-    old_by_code = {str((list(r) + [''] * 55)[idx['代码']]): list(r) + [''] * (55-len(r))
+    width = len(headers)
+    old_by_code = {str((list(r) + [''] * width)[idx['代码']]): list(r) + [''] * (width-len(r))
                    for r in before[1:] if r and r[0]}
     for row in values[1:]:
         if not row or not row[0] or str(row[idx['代码']]) not in old_by_code:
@@ -495,10 +516,10 @@ def apply():
         excluded_columns={2})
     feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT', {'data': industry_styles})
 
-    after = feishu.read_range(token, f'{TARGET}!A1:BC500')
+    after = feishu.read_range(token, f'{TARGET}!A1:BD500')
     for rn, (expected, actual) in enumerate(zip(values, after), 1):
-        expected = list(expected) + [''] * (55-len(expected))
-        actual = list(actual) + [''] * (55-len(actual))
+        expected = list(expected) + [''] * (width-len(expected))
+        actual = list(actual) + [''] * (width-len(actual))
         for cn, (a, b) in enumerate(zip(expected, actual), 1):
             assert equivalent(a, b), (rn, cn, a, b)
     cf_after = feishu.condition_formats(token)

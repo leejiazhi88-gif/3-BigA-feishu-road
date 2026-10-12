@@ -93,6 +93,9 @@ composition remains unchanged on daily refreshes; it is recalculated for new
 entrants once and otherwise only after interim or annual reports.
 Industry row coloring explicitly excludes column B, whose personal-note
 background and font colors are preserved independently by stock code.
+Column Q records every annual forecast changed by the current refresh in the
+form `20XX年（旧值XXX，+X.X%）`; multiple years are separated with a Chinese
+semicolon, and a newly available forecast is labeled `新增预测`.
 
 ```bash
 .venv/bin/python scripts/refresh_all_20261012.py prepare
