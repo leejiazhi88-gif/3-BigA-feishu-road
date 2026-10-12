@@ -1,0 +1,9 @@
+{
+  "source_sheet": "2026-10-8（全部）",
+  "target_sheet": "2026-10-12（全部）",
+  "column": "B",
+  "matched_existing_codes": 446,
+  "color_mismatches": 0,
+  "new_codes_white_background_black_font": 5,
+  "conditional_formats_preserved": true
+}

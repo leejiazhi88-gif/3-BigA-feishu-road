@@ -11,8 +11,10 @@ def column_name(index):
 
 
 def style_payload(values, sheet_id, mapping_path, clear_to=500,
-                  l1_index=1, l2_index=2, column_count=48):
+                  l1_index=1, l2_index=2, column_count=48,
+                  excluded_columns=None):
     mapping = json.loads(Path(mapping_path).read_text())
+    excluded_columns = set(excluded_columns or [])
     rows = [list(row) for row in values[1:] if row and row[0]]
     groups = {}
     missing = set()
@@ -29,6 +31,7 @@ def style_payload(values, sheet_id, mapping_path, clear_to=500,
         groups.setdefault(color, []).extend(
             f'{sheet_id}!{column_name(column)}{row_number}:{column_name(column)}{row_number}'
             for column in range(1, column_count + 1)
+            if column not in excluded_columns
         )
     assert not missing, missing
 
@@ -42,6 +45,7 @@ def style_payload(values, sheet_id, mapping_path, clear_to=500,
             f'{sheet_id}!{column_name(column)}{row}:{column_name(column)}{row}'
             for row in range(last_row + 1, clear_to + 1)
             for column in range(1, column_count + 1)
+            if column not in excluded_columns
         ]
         for start in range(0, len(blank_ranges), 100):
             styles.append({
@@ -54,5 +58,6 @@ def style_payload(values, sheet_id, mapping_path, clear_to=500,
         'sw_l2_categories': len({str(row[l2_index]) for row in rows}),
         'colors_used': len(groups),
         'columns_colored': f'A:{column_name(column_count)}',
+        'excluded_columns': sorted(excluded_columns),
         'reference_sheet': mapping['reference_sheet'],
     }

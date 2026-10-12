@@ -1,0 +1,1790 @@
+{
+  "source_sheet": "2026-10-8（全部）",
+  "column": "B",
+  "codes": {
+    "688825.SH": {
+      "backColor": "#BACEFD",
+      "foreColor": "#000000"
+    },
+    "688981.SH": {
+      "backColor": "#BACEFD",
+      "foreColor": "#000000"
+    },
+    "688256.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "688041.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "002371.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688347.SH": {
+      "backColor": "#BACEFD",
+      "foreColor": "#000000"
+    },
+    "688012.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688008.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "603986.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "688820.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "688802.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "688801.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#AD82F7"
+    },
+    "688072.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688795.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "688498.SH": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "300604.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "301666.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "301308.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "688082.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688361.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600584.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "688120.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688702.SH": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "688783.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "603501.SH": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "688146.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "002156.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "688525.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "603893.SH": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "688521.SH": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "688002.SH": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "001309.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "688200.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688126.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "688469.SH": {
+      "backColor": "#BACEFD",
+      "foreColor": "#000000"
+    },
+    "688396.SH": {
+      "backColor": "#BACEFD",
+      "foreColor": "#000000"
+    },
+    "688249.SH": {
+      "backColor": "#BACEFD",
+      "foreColor": "#000000"
+    },
+    "300661.SZ": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "688037.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300223.SZ": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "688729.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688809.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600183.SH": {
+      "backColor": "#DC9B04",
+      "foreColor": "#000000"
+    },
+    "002384.SZ": {
+      "backColor": "#FAD355",
+      "foreColor": "#000000"
+    },
+    "002916.SZ": {
+      "backColor": "#FFC60A",
+      "foreColor": "#000000"
+    },
+    "300408.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "002463.SZ": {
+      "backColor": "#FFC60A",
+      "foreColor": "#000000"
+    },
+    "300476.SZ": {
+      "backColor": "#FFC60A",
+      "foreColor": "#000000"
+    },
+    "002938.SZ": {
+      "backColor": "#FAD355",
+      "foreColor": "#000000"
+    },
+    "603228.SH": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "001232.SZ": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "688183.SH": {
+      "backColor": "#FFC60A",
+      "foreColor": "#000000"
+    },
+    "001389.SZ": {
+      "backColor": "#FFC60A",
+      "foreColor": "#000000"
+    },
+    "002436.SZ": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "688519.SH": {
+      "backColor": "#DC9B04",
+      "foreColor": "#000000"
+    },
+    "601138.SH": {
+      "backColor": "#FFC60A",
+      "foreColor": "#000000"
+    },
+    "002475.SZ": {
+      "backColor": "#FFC60A",
+      "foreColor": "#000000"
+    },
+    "300433.SZ": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "300857.SZ": {
+      "backColor": "#FFC60A",
+      "foreColor": "#000000"
+    },
+    "603296.SH": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "002600.SZ": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "002241.SZ": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "300866.SZ": {
+      "backColor": "#FAF1D1",
+      "foreColor": "#000000"
+    },
+    "000725.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "001399.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "000100.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "300054.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "300285.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "300475.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "002859.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "601398.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601939.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601288.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601988.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601328.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601658.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600036.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601998.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601166.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600000.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "000001.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601818.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600016.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600015.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601916.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "002142.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600919.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601009.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601229.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600926.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601169.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601838.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601825.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601077.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "300308.SZ": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "300502.SZ": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "601869.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "300394.SZ": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "000063.SZ": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "600487.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "002281.SZ": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "301165.SZ": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "600522.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "603083.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "300620.SZ": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "600941.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "601728.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "600050.SH": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "300442.SZ": {
+      "backColor": "#D5F6F2",
+      "foreColor": "#000000"
+    },
+    "300750.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "300014.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "301217.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "002709.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "300450.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600406.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "002028.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600089.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "601179.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "300274.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "605117.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "601012.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "601727.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600875.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600482.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "002851.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "002202.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "002487.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600580.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "301696.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "688235.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600276.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "688506.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "002653.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600196.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "300765.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "002422.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "300760.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "688271.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "603259.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "300759.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "300015.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "002821.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "688331.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "603087.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "000538.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600436.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "601607.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "603939.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600030.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601211.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "300059.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601066.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601688.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "000776.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600999.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601995.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601881.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "000166.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "002736.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600958.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601788.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601628.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601318.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601319.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601601.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601336.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "000617.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600901.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "688808.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "301377.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "301689.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "002353.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "301200.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601091.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "002837.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "688836.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "300124.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "300757.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "000988.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "002008.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "688777.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "600031.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601100.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "000425.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601766.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "688187.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601857.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600028.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002493.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600346.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000301.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000703.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600938.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600777.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601808.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600968.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601899.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603993.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002379.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601600.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600362.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000807.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601168.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000630.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "001280.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600111.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000657.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600549.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601958.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600547.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600489.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600988.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000975.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002460.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "001246.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002466.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603799.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300748.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300811.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600309.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600160.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002001.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000792.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000408.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600989.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002648.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601208.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688585.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002064.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688295.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603650.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603033.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "688300.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603688.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600900.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "003816.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "601985.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600025.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600930.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "001248.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600886.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "001289.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600011.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600905.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "601991.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600795.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "000958.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600674.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600236.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600023.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600803.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "605090.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "000338.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600660.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "601689.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002594.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600104.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "601633.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "601127.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "000625.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600066.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600418.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "603129.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "601777.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "601965.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600335.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "300033.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "688111.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "002230.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601360.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "000938.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "301638.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "002415.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "603019.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "000977.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "600519.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "000858.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600809.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "000568.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600887.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "605499.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "603288.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600298.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600600.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "000729.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "000895.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "603345.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "002847.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "002557.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "601919.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601872.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "600018.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "600026.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601018.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601298.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "001872.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601816.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601006.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "001965.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "600377.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "002352.SZ": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "600233.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "601111.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "600029.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "600115.SH": {
+      "backColor": "#D9F3FD",
+      "foreColor": "#000000"
+    },
+    "302132.SZ": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "600760.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "600893.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "000768.SZ": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "002179.SZ": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "002414.SZ": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "600150.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "603268.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "601698.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "688818.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "600118.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "601606.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "600967.SH": {
+      "backColor": "#FBBFBC",
+      "foreColor": "#000000"
+    },
+    "601088.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601225.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600188.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601898.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002128.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000723.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600740.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000333.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "000651.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600690.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002050.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002290.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002032.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "688169.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002429.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600060.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "301362.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "603303.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002508.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "603366.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002614.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "603579.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "601868.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601390.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601800.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601186.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601669.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600039.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601618.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601117.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601668.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600170.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600667.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600629.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "601886.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "002081.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "002602.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300418.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601811.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "601928.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002027.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300058.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300251.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600977.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600637.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600959.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300413.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603000.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002714.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "300498.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "300999.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600737.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "002311.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "000876.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "601118.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600598.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600201.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "300119.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "000592.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600265.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "000798.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600467.SH": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "002556.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "300021.SZ": {
+      "backColor": "#D9F5D6",
+      "foreColor": "#000000"
+    },
+    "600176.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "603256.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "301526.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "002080.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600585.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600801.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "000786.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "002271.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "001979.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "600048.SH": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "001914.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "000560.SZ": {
+      "backColor": "#E1EAFF",
+      "foreColor": "#000000"
+    },
+    "603195.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603816.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002831.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "003018.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002078.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603733.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603899.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002348.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600415.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "300972.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "601061.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600710.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "603613.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002024.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "601888.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600185.SH": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "002416.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "000829.SZ": {
+      "backColor": "#FED4A4",
+      "foreColor": "#000000"
+    },
+    "600019.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600010.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000708.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600282.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600295.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "001203.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603568.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002266.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "000967.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600388.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600177.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600398.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "300979.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "002003.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600612.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600916.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "300012.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002967.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300144.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603099.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002607.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "300192.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600754.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600258.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "600158.SH": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "002858.SZ": {
+      "backColor": "#ECE2FE",
+      "foreColor": "#000000"
+    },
+    "603605.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "300957.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "300888.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "003006.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "300896.SZ": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "688363.SH": {
+      "backColor": "#FDDDEF",
+      "foreColor": "#000000"
+    },
+    "600673.SH": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    },
+    "000833.SZ": {
+      "backColor": "#EEF6C6",
+      "foreColor": "#000000"
+    }
+  }
+}

@@ -491,7 +491,8 @@ def apply():
     mapping = ROOT / 'config/industry_color_map_20260928.json'
     industry_styles, industry_result = industry_style_payload(
         visible, TARGET, mapping, clear_to=500,
-        l1_index=2, l2_index=3, column_count=len(headers))
+        l1_index=2, l2_index=3, column_count=len(headers),
+        excluded_columns={2})
     feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT', {'data': industry_styles})
 
     after = feishu.read_range(token, f'{TARGET}!A1:BC500')

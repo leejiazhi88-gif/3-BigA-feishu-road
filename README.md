@@ -91,6 +91,8 @@ and quarterly actual/forecast profit for every company. The change audit in
 value, and percentage change for every changed forecast. Existing business
 composition remains unchanged on daily refreshes; it is recalculated for new
 entrants once and otherwise only after interim or annual reports.
+Industry row coloring explicitly excludes column B, whose personal-note
+background and font colors are preserved independently by stock code.
 
 ```bash
 .venv/bin/python scripts/refresh_all_20261012.py prepare
