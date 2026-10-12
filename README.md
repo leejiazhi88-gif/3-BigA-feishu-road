@@ -74,3 +74,25 @@ filters, and frozen panes.
 .venv/bin/python scripts/business_composition/build_composition.py
 .venv/bin/python scripts/business_composition/apply_composition.py
 ```
+
+## 2026-10-09 all-stock refresh
+
+The `2026-10-12（全部）` copied sheet was refreshed with the latest complete
+close from 2026-10-09. Selection is additive: all 446 prior companies remain,
+and newly qualifying companies are appended before the full list is resorted
+by Shenwan L1 market capitalization, Shenwan L2 market capitalization, and
+company market capitalization. A company that later falls below the threshold
+is retained.
+
+The refresh preserves personal notes in column B and the Q3 locked comparison
+value in column AK by stock code. It refreshes annual actual/consensus profit
+and quarterly actual/forecast profit for every company. The change audit in
+`exports/refresh_20261009/forecast_changes.csv` records the old value, new
+value, and percentage change for every changed forecast. Existing business
+composition remains unchanged on daily refreshes; it is recalculated for new
+entrants once and otherwise only after interim or annual reports.
+
+```bash
+.venv/bin/python scripts/refresh_all_20261012.py prepare
+.venv/bin/python scripts/refresh_all_20261012.py apply
+```

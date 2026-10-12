@@ -10,15 +10,16 @@ def column_name(index):
     return ''.join(reversed(result))
 
 
-def style_payload(values, sheet_id, mapping_path, clear_to=500):
+def style_payload(values, sheet_id, mapping_path, clear_to=500,
+                  l1_index=1, l2_index=2, column_count=48):
     mapping = json.loads(Path(mapping_path).read_text())
     rows = [list(row) for row in values[1:] if row and row[0]]
     groups = {}
     missing = set()
 
     for row_number, row in enumerate(rows, 2):
-        row += [''] * max(0, 3 - len(row))
-        l1, l2 = str(row[1] or '').strip(), str(row[2] or '').strip()
+        row += [''] * max(0, max(l1_index, l2_index) + 1 - len(row))
+        l1, l2 = str(row[l1_index] or '').strip(), str(row[l2_index] or '').strip()
         pair = mapping['industry_pairs'].get(l1 + '\t' + l2)
         if pair is None:
             missing.add((l1, l2))
@@ -27,7 +28,7 @@ def style_payload(values, sheet_id, mapping_path, clear_to=500):
         color = pair['b_color']
         groups.setdefault(color, []).extend(
             f'{sheet_id}!{column_name(column)}{row_number}:{column_name(column)}{row_number}'
-            for column in range(1, 49)
+            for column in range(1, column_count + 1)
         )
     assert not missing, missing
 
@@ -40,7 +41,7 @@ def style_payload(values, sheet_id, mapping_path, clear_to=500):
         blank_ranges = [
             f'{sheet_id}!{column_name(column)}{row}:{column_name(column)}{row}'
             for row in range(last_row + 1, clear_to + 1)
-            for column in range(1, 49)
+            for column in range(1, column_count + 1)
         ]
         for start in range(0, len(blank_ranges), 100):
             styles.append({
@@ -49,9 +50,9 @@ def style_payload(values, sheet_id, mapping_path, clear_to=500):
             })
     return styles, {
         'rows': len(rows),
-        'sw_l1_categories': len({str(row[1]) for row in rows}),
-        'sw_l2_categories': len({str(row[2]) for row in rows}),
+        'sw_l1_categories': len({str(row[l1_index]) for row in rows}),
+        'sw_l2_categories': len({str(row[l2_index]) for row in rows}),
         'colors_used': len(groups),
-        'columns_colored': 'A:AV',
+        'columns_colored': f'A:{column_name(column_count)}',
         'reference_sheet': mapping['reference_sheet'],
     }

@@ -1,0 +1,72 @@
+{
+  "asof": "2026-10-09",
+  "existing": 446,
+  "added": 5,
+  "removed": 0,
+  "final": 451,
+  "additions": [
+    {
+      "code": "600871.SH",
+      "name": "石化油服",
+      "market_cap_yi": 413.3,
+      "sw_l1": "石油石化",
+      "sw_l2": "油服工程",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "000933.SZ",
+      "name": "神火股份",
+      "market_cap_yi": 611.1,
+      "sw_l1": "有色金属",
+      "sw_l2": "工业金属",
+      "l2_rank": 9,
+      "reason": "市值超过600亿元"
+    },
+    {
+      "code": "600027.SH",
+      "name": "华电国际",
+      "market_cap_yi": 602.7,
+      "sw_l1": "公用事业",
+      "sw_l2": "电力",
+      "l2_rank": 17,
+      "reason": "市值超过600亿元"
+    },
+    {
+      "code": "603486.SH",
+      "name": "科沃斯",
+      "market_cap_yi": 281.9,
+      "sw_l1": "家用电器",
+      "sw_l2": "小家电",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "603588.SH",
+      "name": "高能环境",
+      "market_cap_yi": 252.7,
+      "sw_l1": "环保",
+      "sw_l2": "环境治理",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    }
+  ],
+  "forecast_changes": 1975,
+  "sheet_id": "avlLqL",
+  "url": "https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=avlLqL",
+  "values_verified": true,
+  "conditional_formats": 13,
+  "conditional_formats_preserved": true,
+  "filter_preserved": true,
+  "notes_preserved": true,
+  "q3_archive_preserved": true,
+  "composition_preserved_for_existing": true,
+  "industry_colors": {
+    "rows": 451,
+    "sw_l1_categories": 31,
+    "sw_l2_categories": 131,
+    "colors_used": 10,
+    "columns_colored": "A:BC",
+    "reference_sheet": "2026-09-28（全部）（新）"
+  }
+}

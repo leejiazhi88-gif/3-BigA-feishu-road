@@ -7,3 +7,4 @@
 # caches and generated raw dumps
 __pycache__/
 *.pyc
+/work/
