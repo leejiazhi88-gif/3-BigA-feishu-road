@@ -48,16 +48,16 @@ def read_range(token, address):
     )['data']['valueRange']['values']
 
 
-def metadata(token):
+def metadata(token, sheet_id=None):
     data = api(f'sheets/v3/spreadsheets/{SPREADSHEET}/sheets/query', token)
-    return next(x for x in data['data']['sheets'] if x['sheet_id'] == TARGET)
+    return next(x for x in data['data']['sheets'] if x['sheet_id'] == (sheet_id or TARGET))
 
 
-def condition_formats(token):
-    return api(f'{BASE}/condition_formats?sheet_ids={TARGET}', token)
+def condition_formats(token, sheet_id=None):
+    return api(f'{BASE}/condition_formats?sheet_ids={sheet_id or TARGET}', token)
 
 
-def sheet_filter(token):
+def sheet_filter(token, sheet_id=None):
     return api(
-        f'sheets/v3/spreadsheets/{SPREADSHEET}/sheets/{TARGET}/filter', token
+        f'sheets/v3/spreadsheets/{SPREADSHEET}/sheets/{sheet_id or TARGET}/filter', token
     )

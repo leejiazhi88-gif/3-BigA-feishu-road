@@ -104,3 +104,23 @@ uses black.
 .venv/bin/python scripts/refresh_all_20261012.py prepare
 .venv/bin/python scripts/refresh_all_20261012.py apply
 ```
+
+## 2026-10-13 intraday refresh
+
+The `实时数据（26.10.13 11点30分）` sheet uses the 11:30 intraday snapshot.
+Selection remains additive: 451 existing companies were retained and two new
+qualifiers were added. Only market fields in `G:Q` are recalculated for
+existing companies; `A:F` are preserved by stock code, with identification
+fields populated once for new entrants. Intraday market capitalization comes
+from the live quote, TTM PE scales the latest Tushare daily PE by the intraday
+price, and trailing returns use the intraday price against historical closes.
+
+Industry background colors are keyed by Shenwan L1 and L2 using the most
+recent dated all-stock sheet, `2026-10-12（全部）`, as the reference. Column B
+keeps its independent personal-note colors. The sheet title includes the quote
+timestamp after every refresh.
+
+```bash
+.venv/bin/python scripts/refresh_realtime_20261013.py prepare
+.venv/bin/python scripts/refresh_realtime_20261013.py apply
+```
