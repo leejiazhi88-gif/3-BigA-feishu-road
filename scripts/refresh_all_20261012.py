@@ -453,8 +453,14 @@ def prepare():
             if code in composition_by_code:
                 for header, value in zip(EXPECTED_HEADERS[-4:], composition_by_code[code]):
                     row[idx[header]] = value
-        row[idx['申万一级']] = str(item.get('l1_name') or row[idx['申万一级']])
-        row[idx['申万二级']] = str(item.get('l2_name') or row[idx['申万二级']])
+        l1_name = item.get('l1_name')
+        l2_name = item.get('l2_name')
+        if pd.isna(l1_name) or str(l1_name).strip().lower() == 'nan':
+            l1_name = row[idx['申万一级']]
+        if pd.isna(l2_name) or str(l2_name).strip().lower() == 'nan':
+            l2_name = row[idx['申万二级']]
+        row[idx['申万一级']] = str(l1_name)
+        row[idx['申万二级']] = str(l2_name)
         row[idx['代码']] = code
         cap = float(item.cap_yi)
         row[idx['市值(亿元)']] = round(cap, 1)
@@ -548,7 +554,7 @@ def apply():
     visible = [values[0]] + [row for row in values[1:] if row and row[0]]
     feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
                {'data': font_style_payload(visible)})
-    mapping = ROOT / 'config/industry_color_map_20260928.json'
+    mapping = ROOT / 'config/industry_color_map_20261012.json'
     industry_styles, industry_result = industry_style_payload(
         visible, TARGET, mapping, clear_to=500,
         l1_index=2, l2_index=3, column_count=len(headers),

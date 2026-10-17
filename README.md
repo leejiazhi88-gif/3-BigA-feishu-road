@@ -124,3 +124,21 @@ timestamp after every refresh.
 .venv/bin/python scripts/refresh_realtime_20261013.py prepare
 .venv/bin/python scripts/refresh_realtime_20261013.py apply
 ```
+
+## 2026-10-16 all-stock refresh
+
+The copied `2026-10-16（全部）` sheet was refreshed with the 2026-10-16 close.
+The refresh is additive: all 451 companies from `2026-10-12（全部）` remain, and
+`301660.SZ` was added because its market value exceeded CNY 600bn while
+`600323.SH` was added as the second-largest company in the Shenwan level-2
+environmental-governance group. The final sheet contains 453 companies.
+
+Annual and quarterly profit values were refreshed. The annual forecast audit
+contains 143 changes across 60 companies in
+`exports/refresh_20261016/forecast_changes.json`; the annual-change column uses
+the nearest changed year for the font direction: 29 green, 30 red, and one
+black entry with no comparable old value. Personal notes, decision notes, the
+Q3 archive, and business-composition columns are preserved. Industry row
+colors use `2026-10-12（全部）` as the reference. Returns are formatted as
+percentages with one decimal place, and the 13 existing conditional-format
+rules remain in place.
