@@ -42,6 +42,7 @@ ASOF = '20261009'
 ASOF_DISPLAY = '2026-10-09'
 ANNUAL_CHANGE_HEADER = '本次刷新年度预测变化'
 DECISION_NOTE_HEADER = '笔记2 决策（AI也别刷新）'
+PEAK_RETURN_HEADER = '360日内峰值距今涨幅%'
 PERIODS = (10, 30, 60, 90, 250, 360, 720, 1080)
 REUSE_RAW = os.environ.get('REUSE_REFRESH_RAW') == '1'
 INDUSTRY_COLOR_MAP = ROOT / 'config/industry_color_map_20261012.json'
@@ -68,10 +69,15 @@ EXPECTED_HEADERS = [
 
 
 def validate_headers(headers):
-    variants = [EXPECTED_HEADERS]
-    with_decision_note = list(EXPECTED_HEADERS)
-    with_decision_note.insert(2, DECISION_NOTE_HEADER)
-    variants.append(with_decision_note)
+    variants = []
+    for include_decision_note in (False, True):
+        for include_peak_return in (False, True):
+            variant = list(EXPECTED_HEADERS)
+            if include_decision_note:
+                variant.insert(2, DECISION_NOTE_HEADER)
+            if include_peak_return:
+                variant.insert(variant.index('360日涨幅%') + 1, PEAK_RETURN_HEADER)
+            variants.append(variant)
     assert headers in variants, headers
 
 
@@ -205,6 +211,16 @@ def return_value(history, days):
     if len(history) <= days:
         return None
     return float(history.iloc[-1].close / history.iloc[-days - 1].close - 1)
+
+
+def peak_return_value(history, days=360):
+    history = history.sort_values('trade_date').drop_duplicates('trade_date', keep='last')
+    if len(history) < days:
+        return None
+    window = pd.to_numeric(history.iloc[-days:].close, errors='coerce').dropna()
+    if len(window) != days or window.max() <= 0:
+        return None
+    return float(window.iloc[-1] / window.max() - 1)
 
 
 def annotate_actual(actual, locked, label='锁定预测'):
@@ -525,6 +541,9 @@ def prepare():
         for days in PERIODS:
             value = return_value(history, days)
             row[idx[f'{days}日涨幅%']] = fmt_pct_fraction(value) if value is not None else '历史不足'
+        if PEAK_RETURN_HEADER in idx:
+            value = peak_return_value(history)
+            row[idx[PEAK_RETURN_HEADER]] = fmt_pct_fraction(value) if value is not None else '历史不足'
         dv = number(item.get('dv_ttm'))
         row[idx['股息率%']] = round(dv / 100, 6) if dv is not None else ''
 
