@@ -41,8 +41,11 @@ TITLE = '2026-10-12（全部）'
 ASOF = '20261009'
 ASOF_DISPLAY = '2026-10-09'
 ANNUAL_CHANGE_HEADER = '本次刷新年度预测变化'
+DECISION_NOTE_HEADER = '笔记2 决策（AI也别刷新）'
 PERIODS = (10, 30, 60, 90, 250, 360, 720, 1080)
 REUSE_RAW = os.environ.get('REUSE_REFRESH_RAW') == '1'
+INDUSTRY_COLOR_MAP = ROOT / 'config/industry_color_map_20261012.json'
+PERSONAL_NOTE_STYLE_MAP = None
 EXPECTED_HEADERS = [
     '名称', '笔记（AI别刷新这部分，我自己记录）', '申万一级', '申万二级', '代码',
     '公司产品简介', '市值(亿元)', 'PE(TTM)', '2026 PE(预测)', '2027 PE(预测)',
@@ -62,6 +65,18 @@ EXPECTED_HEADERS = [
     '本财年预估全年股息率（26年）', '2026年股息率估算备注', '25年收入构成',
     '25年利润构成', '26年收入构成', '26年利润构成',
 ]
+
+
+def validate_headers(headers):
+    variants = [EXPECTED_HEADERS]
+    with_decision_note = list(EXPECTED_HEADERS)
+    with_decision_note.insert(2, DECISION_NOTE_HEADER)
+    variants.append(with_decision_note)
+    assert headers in variants, headers
+
+
+def sheet_range(headers, end_row=500):
+    return f'{TARGET}!A1:{column_name(len(headers))}{end_row}'
 
 
 def save(name, value):
@@ -375,20 +390,56 @@ def font_style_payload(values):
     return styles
 
 
+def personal_note_style_payload(values):
+    path = PERSONAL_NOTE_STYLE_MAP or WORK / 'personal_note_styles.json'
+    if not path.exists():
+        return []
+    data = json.loads(path.read_text())
+    saved = data.get('codes', data)
+    headers = values[0]
+    idx = {header: i for i, header in enumerate(headers)}
+    note_headers = [h for h in (
+        '笔记（AI别刷新这部分，我自己记录）', DECISION_NOTE_HEADER,
+    ) if h in idx]
+    groups = {}
+    for row_number, row in enumerate(values[1:], 2):
+        if not row or not row[0]:
+            continue
+        row = list(row) + [''] * (len(headers) - len(row))
+        code = str(row[idx['代码']])
+        for header in note_headers:
+            style = saved.get(code, {}).get(header, {
+                'backColor': '#FFFFFF', 'foreColor': '#000000',
+            })
+            key = (style['backColor'], style['foreColor'])
+            cell = f'{column_name(idx[header] + 1)}{row_number}'
+            groups.setdefault(key, []).append(f'{TARGET}!{cell}:{cell}')
+    result = []
+    for (back_color, fore_color), ranges in groups.items():
+        for start in range(0, len(ranges), 100):
+            result.append({
+                'ranges': ranges[start:start + 100],
+                'style': {'backColor': back_color, 'foreColor': fore_color},
+            })
+    return result
+
+
 def prepare():
     token = feishu.get_token()
-    before = feishu.read_range(token, f'{TARGET}!A1:BD500')
+    metadata = feishu.metadata(token, TARGET)
+    column_count = metadata['grid_properties']['column_count']
+    before = feishu.read_range(token, f'{TARGET}!A1:{column_name(column_count)}500')
     headers = before[0]
-    assert headers == EXPECTED_HEADERS
+    validate_headers(headers)
     rows = [list(row) + [''] * (len(headers) - len(row)) for row in before[1:] if row and row[0]]
     assert len(rows) >= 446
     idx = {header: i for i, header in enumerate(headers)}
     existing = {str(row[idx['代码']]): row for row in rows}
     assert len(existing) == len(rows)
     save('before.json', before)
-    save('cf_before.json', feishu.condition_formats(token))
-    save('filter_before.json', feishu.sheet_filter(token))
-    save('metadata_before.json', feishu.metadata(token))
+    save('cf_before.json', feishu.condition_formats(token, TARGET))
+    save('filter_before.json', feishu.sheet_filter(token, TARGET))
+    save('metadata_before.json', metadata)
 
     pro = ts.pro_api(os.environ.get('TUSHARE_TOKEN')) if os.environ.get('TUSHARE_TOKEN') else ts.pro_api()
     daily, stocks, companies = fetch_market(pro)
@@ -447,6 +498,8 @@ def prepare():
         row[idx['名称']] = name
         if code not in existing:
             row[idx['笔记（AI别刷新这部分，我自己记录）']] = ''
+            if DECISION_NOTE_HEADER in idx:
+                row[idx[DECISION_NOTE_HEADER]] = ''
             row[idx['2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础']] = ''
             description = str(item.get('main_business') or '').replace('\n', ' ').strip()
             row[idx['公司产品简介']] = '' if description == 'nan' else description[:180]
@@ -512,7 +565,7 @@ def prepare():
 
     payload = [headers] + output_rows + [[''] * len(headers) for _ in range(len(before) - len(output_rows) - 1)]
     assert len(payload) == len(before)
-    save('payload.json', {'valueRange': {'range': f'{TARGET}!A1:BD{len(before)}', 'values': payload}})
+    save('payload.json', {'valueRange': {'range': sheet_range(headers, len(before)), 'values': payload}})
     save('forecast_changes.json', changes)
     save('additions.json', addition_details)
     save('summary.json', {'asof': ASOF_DISPLAY, 'existing': len(existing), 'added': len(additions),
@@ -531,7 +584,7 @@ def equivalent(a, b):
 def apply():
     token = feishu.get_token()
     before = json.loads((WORK / 'before.json').read_text())
-    current = feishu.read_range(token, f'{TARGET}!A1:BD500')
+    current = feishu.read_range(token, sheet_range(before[0]))
     assert current == before, 'Sheet changed after preparation'
     payload = json.loads((WORK / 'payload.json').read_text())
     values = payload['valueRange']['values']
@@ -544,6 +597,8 @@ def apply():
             continue
         old = old_by_code[str(row[idx['代码']])]
         assert row[idx['笔记（AI别刷新这部分，我自己记录）']] == old[idx['笔记（AI别刷新这部分，我自己记录）']]
+        if DECISION_NOTE_HEADER in idx:
+            assert row[idx[DECISION_NOTE_HEADER]] == old[idx[DECISION_NOTE_HEADER]]
         assert row[idx['2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础']] == old[idx['2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础']]
         assert row[idx['25年收入构成']:idx['26年利润构成']+1] == old[idx['25年收入构成']:idx['26年利润构成']+1]
     cf_before = json.loads((WORK / 'cf_before.json').read_text())
@@ -554,25 +609,33 @@ def apply():
     visible = [values[0]] + [row for row in values[1:] if row and row[0]]
     feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
                {'data': font_style_payload(visible)})
-    mapping = ROOT / 'config/industry_color_map_20261012.json'
+    mapping = INDUSTRY_COLOR_MAP
+    note_columns = {
+        idx[header] + 1 for header in (
+            '笔记（AI别刷新这部分，我自己记录）', DECISION_NOTE_HEADER,
+        ) if header in idx
+    }
     industry_styles, industry_result = industry_style_payload(
         visible, TARGET, mapping, clear_to=500,
-        l1_index=2, l2_index=3, column_count=len(headers),
-        excluded_columns={2})
+        l1_index=idx['申万一级'], l2_index=idx['申万二级'],
+        column_count=len(headers), excluded_columns=note_columns)
     feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT', {'data': industry_styles})
+    note_styles = personal_note_style_payload(visible)
+    if note_styles:
+        feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT', {'data': note_styles})
     changes = json.loads((WORK / 'forecast_changes.json').read_text())
     feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
                {'data': annual_change_style_payload(visible, changes)})
 
-    after = feishu.read_range(token, f'{TARGET}!A1:BD500')
+    after = feishu.read_range(token, sheet_range(headers))
     for rn, (expected, actual) in enumerate(zip(values, after), 1):
         expected = list(expected) + [''] * (width-len(expected))
         actual = list(actual) + [''] * (width-len(actual))
         for cn, (a, b) in enumerate(zip(expected, actual), 1):
             assert equivalent(a, b), (rn, cn, a, b)
-    cf_after = feishu.condition_formats(token)
-    filter_after = feishu.sheet_filter(token)
-    meta_after = feishu.metadata(token)
+    cf_after = feishu.condition_formats(token, TARGET)
+    filter_after = feishu.sheet_filter(token, TARGET)
+    meta_after = feishu.metadata(token, TARGET)
     assert cf_after == cf_before and filter_after == filter_before
     for key in ('frozen_column_count', 'frozen_row_count', 'column_count', 'row_count'):
         assert meta_after['grid_properties'][key] == meta_before['grid_properties'][key]
@@ -581,7 +644,9 @@ def apply():
               'url': 'https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=' + TARGET,
               'values_verified': True, 'conditional_formats': len(cf_after['data']['sheet_condition_formats']),
               'conditional_formats_preserved': True, 'filter_preserved': True,
-              'notes_preserved': True, 'q3_archive_preserved': True,
+              'notes_preserved': True, 'decision_notes_preserved': DECISION_NOTE_HEADER in idx,
+              'personal_note_styles_restored_by_code': bool(note_styles),
+              'q3_archive_preserved': True,
               'composition_preserved_for_existing': True, 'industry_colors': industry_result}
     save('verification.json', result)
     print(json.dumps(result, ensure_ascii=False, indent=2))

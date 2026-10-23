@@ -1,0 +1,33 @@
+{
+  "asof": "2026-10-23",
+  "source_sheet": "2026-10-16（全部）",
+  "target_sheet": "2026-10-23（全部）",
+  "sheet_id": "K3baGL",
+  "url": "https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=K3baGL",
+  "existing": 453,
+  "added": 7,
+  "removed": 0,
+  "final": 460,
+  "all_profit_change_records": 1126,
+  "annual_forecast_change_companies": 109,
+  "annual_forecast_change_records": 280,
+  "annual_change_font_colors": {
+    "green_increase": 56,
+    "red_decrease": 53
+  },
+  "values_verified": true,
+  "conditional_formats": 15,
+  "conditional_formats_preserved": true,
+  "freeze": "E2",
+  "personal_note_values_and_styles_verified_by_code": true,
+  "decision_note_values_and_styles_verified_by_code": true,
+  "q3_archive_preserved": true,
+  "composition_preserved_for_existing": true,
+  "industry_colors_verified": true,
+  "industry_color_reference": "2026-10-16（全部）",
+  "industry_color_scope": "A and D:BE; B and C excluded",
+  "pe_and_profit_font_rules_verified": true,
+  "market_cap_format": "#,##0",
+  "growth_yoy_and_return_format": "0.0%",
+  "dividend_yield_format": "0.00%"
+}

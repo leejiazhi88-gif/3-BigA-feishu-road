@@ -142,3 +142,20 @@ Q3 archive, and business-composition columns are preserved. Industry row
 colors use `2026-10-12（全部）` as the reference. Returns are formatted as
 percentages with one decimal place, and the 13 existing conditional-format
 rules remain in place.
+
+## 2026-10-23 all-stock refresh
+
+`2026-10-23（全部）` was copied from the latest dated sheet before its values
+were refreshed with the 2026-10-23 close. All 453 existing companies remain
+and seven newly qualified companies were added, producing a final list of 460.
+The additions are recorded in `exports/refresh_20261023/additions.json`.
+
+Annual and quarterly profits were refreshed together. The complete old value,
+new value, and percentage change audit is stored in
+`exports/refresh_20261023/forecast_changes.json`. There are 280 annual forecast
+changes across 109 companies; the annual-change column is green for 56 nearest
+year increases and red for 53 decreases. Both personal-note columns, the Q3
+archive, and existing business composition are preserved by stock code.
+Industry colors use `2026-10-16（全部）` as the latest reference. Market value,
+growth, year-on-year profit, return, and dividend-yield number formats were
+verified across all 460 rows, together with the 15 conditional-format rules.

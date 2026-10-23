@@ -1,0 +1,4539 @@
+{
+  "source_sheet": "2026-10-16（全部）",
+  "columns": [
+    "B",
+    "C"
+  ],
+  "codes": {
+    "688825.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688981.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688256.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688041.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "002371.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688347.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688012.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688008.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "603986.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#F54A45"
+      }
+    },
+    "688072.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688801.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#1F2329"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688820.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688802.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688795.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "300604.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688498.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688082.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688120.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "301666.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688361.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "301308.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600584.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "301660.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688702.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "603501.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688783.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688146.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "002156.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688002.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688525.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "603893.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688521.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "001309.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688396.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688469.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688200.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688126.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "300661.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688249.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688037.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688809.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688729.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "300223.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#F54A45"
+      }
+    },
+    "601138.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      }
+    },
+    "002475.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      }
+    },
+    "300433.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      }
+    },
+    "300857.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      }
+    },
+    "603296.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      }
+    },
+    "002600.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      }
+    },
+    "002241.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      }
+    },
+    "300866.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      }
+    },
+    "600183.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#DC9B04",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "002384.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAD355",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "002463.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "002916.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "300408.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "300476.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "002938.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAD355",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "603228.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "001232.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "688183.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "688519.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#DC9B04",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "002436.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "001389.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "000725.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "001399.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "000100.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "300054.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "300285.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "300475.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFBA6B",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "002859.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "601398.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601939.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601288.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601988.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601328.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601658.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600036.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601998.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601166.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600000.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "000001.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601818.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600016.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600015.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601916.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "002142.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600919.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601009.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601229.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600926.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601169.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601838.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601825.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601077.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "300308.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "300502.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "601869.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "300394.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "000063.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "600487.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "002281.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "301165.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "600522.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "603083.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "300620.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "600941.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "601728.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "600050.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "300442.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000"
+      }
+    },
+    "300750.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "300014.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "301217.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "002709.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "300450.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600406.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "002028.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600089.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "601179.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "300274.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "605117.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "601012.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "601727.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600875.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600482.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "002851.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "002202.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "002487.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600580.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "301696.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "688235.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600276.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "688506.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "002653.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "002422.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "300765.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600196.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "300760.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#036356",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "688271.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#036356",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "603259.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#64E8D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "300015.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#036356",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "300759.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#64E8D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "002821.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#64E8D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "000538.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600436.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "688331.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "603087.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#036356",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "601607.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "603939.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600030.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601211.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "300059.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601066.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601688.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601995.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "000776.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600999.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601881.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "000166.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "002736.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600958.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601788.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601628.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601318.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601319.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601601.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601336.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "000617.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600901.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "688808.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "301377.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "301689.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "301200.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "002353.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601091.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "002837.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688836.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "300124.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "300757.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "000988.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "002008.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688777.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600031.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601100.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "000425.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601766.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688187.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601857.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600028.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002493.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600346.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000301.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000703.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600938.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600777.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601808.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600968.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600871.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601899.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#F54A45"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603993.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002379.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601600.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600362.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000807.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601168.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000630.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000933.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600111.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "001280.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000657.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600549.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601958.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600547.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600489.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600988.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000975.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002460.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002466.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603799.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#F54A45"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "001246.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "300748.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "300811.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600309.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002001.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600160.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000792.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000408.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600989.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002648.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "688585.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601208.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002064.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "688295.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603650.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603033.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "688300.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603688.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600900.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "003816.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "601985.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600025.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600930.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "001248.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600886.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "001289.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600011.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600905.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600795.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "601991.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "000958.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600674.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600236.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600023.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600027.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600803.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "605090.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "000338.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600660.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "601689.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002594.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600104.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "601633.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "601127.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "000625.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600066.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600418.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "603129.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "601777.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "601965.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600335.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "300033.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "688111.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "002230.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601360.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "000938.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "301638.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "002415.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "603019.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "000977.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#037EAA",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600519.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "000858.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600809.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "000568.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600887.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "605499.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "603288.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600298.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "000895.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "603345.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600600.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "000729.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "002847.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "002557.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "601919.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601872.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600018.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600026.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601018.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601298.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "001872.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601816.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601006.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "001965.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600377.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "002352.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600233.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "601111.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600029.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "600115.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000"
+      }
+    },
+    "302132.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "600760.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "600893.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "000768.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "002179.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "002414.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "600150.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "603268.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "601698.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "688818.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "600118.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "600967.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "601606.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000"
+      }
+    },
+    "601088.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601225.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601898.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600188.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002128.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000723.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600740.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000333.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "000651.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600690.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002050.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#DE7802",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002290.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002032.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "688169.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "603486.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600060.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002429.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "301362.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "603303.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002508.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "603366.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002614.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "603579.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "601390.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601868.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601800.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601186.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601669.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600039.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601618.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601117.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601668.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600170.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600667.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600629.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "601886.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "002081.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "002602.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "300418.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601811.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "601928.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002027.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "300058.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "300251.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600977.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600637.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600959.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "300413.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603000.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600176.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "603256.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "301526.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "002080.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600585.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600801.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "000786.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "002271.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "001979.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "600048.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "001914.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "000560.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000"
+      }
+    },
+    "603195.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603816.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002831.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "003018.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002078.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603733.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603899.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002348.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600415.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "300972.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "601061.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600710.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "603613.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002024.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "601888.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600185.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "002416.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "000829.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000"
+      }
+    },
+    "600019.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600010.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000708.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600282.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600295.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "001203.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603568.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600323.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002266.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603588.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "000967.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600388.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600177.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600398.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "300979.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "002003.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600612.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600916.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "300012.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002967.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "300144.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603099.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002607.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "300192.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600754.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600258.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "600158.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "002858.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000"
+      }
+    },
+    "603605.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "300957.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "300888.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "003006.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "300896.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "688363.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000"
+      }
+    },
+    "600673.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "000833.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000"
+      }
+    },
+    "002714.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "300999.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "300498.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "002311.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "000876.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600737.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "601118.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600598.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "000592.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600201.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "300119.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "002556.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "300021.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "000798.SZ": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600467.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    },
+    "600265.SH": {
+      "笔记（AI别刷新这部分，我自己记录）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      },
+      "笔记2 决策（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000"
+      }
+    }
+  }
+}

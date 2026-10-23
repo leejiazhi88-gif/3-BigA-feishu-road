@@ -24,12 +24,11 @@ worker.RAW.mkdir(parents=True, exist_ok=True)
 def assert_supported_layout():
     """Stop before writing when users add columns to the copied sheet."""
     token = worker.feishu.get_token()
-    headers = worker.feishu.read_range(token, f'{worker.TARGET}!A1:BZ1')[0]
-    if headers != worker.EXPECTED_HEADERS:
-        raise RuntimeError(
-            'Sheet columns changed after this refresh script was prepared. '
-            'Update the column mapping before running prepare/apply again.'
-        )
+    metadata = worker.feishu.metadata(token, worker.TARGET)
+    columns = metadata['grid_properties']['column_count']
+    headers = worker.feishu.read_range(
+        token, f'{worker.TARGET}!A1:{worker.column_name(columns)}1')[0]
+    worker.validate_headers(headers)
 
 if __name__ == '__main__':
     if len(sys.argv) != 2 or sys.argv[1] not in {'prepare', 'apply'}:
