@@ -35,18 +35,19 @@ def main():
 
     output = []
     numeric = []
-    insufficient = []
+    shorter_history = []
     for row in populated:
         code = str(row[indices['代码']])
         path = PRICE_DIR / f'{worker.code_file(code)}.csv'
         history = pd.read_csv(path, dtype={'trade_date': str})
+        available_days = len(history.sort_values('trade_date').drop_duplicates('trade_date', keep='last'))
         value = worker.peak_return_value(history)
         cell = worker.fmt_pct_fraction(value) if value is not None else '历史不足'
         output.append([cell])
-        if value is None:
-            insufficient.append(code)
-        else:
+        if value is not None:
             numeric.append(cell)
+        if available_days < 360:
+            shorter_history.append({'code': code, 'available_days': available_days})
 
     column = worker.column_name(indices[HEADER] + 1)
     end_row = len(output) + 1
@@ -70,13 +71,13 @@ def main():
         'as_of': AS_OF,
         'column': column,
         'header': HEADER,
-        'definition': '当日收盘价 / 最近360个交易日内最高收盘价 - 1',
+        'definition': '当日收盘价 / 最近最多360个交易日内最高收盘价 - 1；不足360日时使用全部可用交易日',
         'window_includes_as_of_date': True,
         'written_range': f'{column}2:{column}{end_row}',
         'company_count': len(output),
         'numeric_count': len(numeric),
-        'insufficient_history_count': len(insufficient),
-        'insufficient_history_codes': insufficient,
+        'shorter_than_360_days_count': len(shorter_history),
+        'shorter_history': shorter_history,
         'minimum': min(numeric) if numeric else None,
         'maximum': max(numeric) if numeric else None,
         'changed_cells': sum(a != b for a, b in zip(before_column, output)),

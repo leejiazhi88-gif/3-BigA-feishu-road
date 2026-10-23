@@ -215,10 +215,11 @@ def return_value(history, days):
 
 def peak_return_value(history, days=360):
     history = history.sort_values('trade_date').drop_duplicates('trade_date', keep='last')
-    if len(history) < days:
+    if history.empty:
         return None
-    window = pd.to_numeric(history.iloc[-days:].close, errors='coerce').dropna()
-    if len(window) != days or window.max() <= 0:
+    window_size = min(days, len(history))
+    window = pd.to_numeric(history.iloc[-window_size:].close, errors='coerce').dropna()
+    if len(window) != window_size or window.max() <= 0:
         return None
     return float(window.iloc[-1] / window.max() - 1)
 

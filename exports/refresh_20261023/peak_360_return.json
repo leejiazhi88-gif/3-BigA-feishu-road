@@ -4,40 +4,109 @@
   "as_of": "2026-10-23",
   "column": "AE",
   "header": "360日内峰值距今涨幅%",
-  "definition": "当日收盘价 / 最近360个交易日内最高收盘价 - 1",
+  "definition": "当日收盘价 / 最近最多360个交易日内最高收盘价 - 1；不足360日时使用全部可用交易日",
   "window_includes_as_of_date": true,
   "written_range": "AE2:AE461",
   "company_count": 460,
-  "numeric_count": 437,
-  "insufficient_history_count": 23,
-  "insufficient_history_codes": [
-    "688825.SH",
-    "688801.SH",
-    "688802.SH",
-    "688795.SH",
-    "688820.SH",
-    "301666.SZ",
-    "301660.SZ",
-    "688783.SH",
-    "688729.SH",
-    "688809.SH",
-    "001232.SZ",
-    "001399.SZ",
-    "301696.SZ",
-    "688808.SH",
-    "301689.SZ",
-    "601091.SH",
-    "688836.SH",
-    "001280.SZ",
-    "001246.SZ",
-    "600930.SH",
-    "001248.SZ",
-    "301638.SZ",
-    "688818.SH"
+  "numeric_count": 460,
+  "shorter_than_360_days_count": 23,
+  "shorter_history": [
+    {
+      "code": "688825.SH",
+      "available_days": 59
+    },
+    {
+      "code": "688801.SH",
+      "available_days": 25
+    },
+    {
+      "code": "688802.SH",
+      "available_days": 204
+    },
+    {
+      "code": "688795.SH",
+      "available_days": 212
+    },
+    {
+      "code": "688820.SH",
+      "available_days": 124
+    },
+    {
+      "code": "301666.SZ",
+      "available_days": 124
+    },
+    {
+      "code": "301660.SZ",
+      "available_days": 9
+    },
+    {
+      "code": "688783.SH",
+      "available_days": 240
+    },
+    {
+      "code": "688729.SH",
+      "available_days": 314
+    },
+    {
+      "code": "688809.SH",
+      "available_days": 195
+    },
+    {
+      "code": "001232.SZ",
+      "available_days": 53
+    },
+    {
+      "code": "001399.SZ",
+      "available_days": 80
+    },
+    {
+      "code": "301696.SZ",
+      "available_days": 131
+    },
+    {
+      "code": "688808.SH",
+      "available_days": 121
+    },
+    {
+      "code": "301689.SZ",
+      "available_days": 26
+    },
+    {
+      "code": "601091.SH",
+      "available_days": 21
+    },
+    {
+      "code": "688836.SH",
+      "available_days": 42
+    },
+    {
+      "code": "001280.SZ",
+      "available_days": 214
+    },
+    {
+      "code": "001246.SZ",
+      "available_days": 13
+    },
+    {
+      "code": "600930.SH",
+      "available_days": 308
+    },
+    {
+      "code": "001248.SZ",
+      "available_days": 76
+    },
+    {
+      "code": "301638.SZ",
+      "available_days": 225
+    },
+    {
+      "code": "688818.SH",
+      "available_days": 167
+    }
   ],
   "minimum": -0.799,
   "maximum": -0.017,
-  "changed_cells": 460,
+  "changed_cells": 23,
   "values_verified": true,
   "exported_number_format": "0.0%",
   "formatted_cell_count": 460,
