@@ -1,0 +1,400 @@
+{
+  "sheet_id": "K3baGL",
+  "sheet_name": "2026-10-23（全部）",
+  "range": "AN2:AO461",
+  "reported_q3_companies": 55,
+  "changed_companies_this_run": 0,
+  "locked_comparison_column": "AN",
+  "rolling_comparison_column": "AO",
+  "values_verified": true,
+  "conditional_formats_preserved": true,
+  "filter_preserved": true,
+  "comparisons": [
+    {
+      "row": 5,
+      "code": "688041.SH",
+      "name": "海光信息",
+      "locked_comparison": "10.5（锁定预测14.9）",
+      "rolling_comparison": "10.5（未锁定预测14.8）"
+    },
+    {
+      "row": 21,
+      "code": "600584.SH",
+      "name": "长电科技",
+      "locked_comparison": "7.7（锁定预测5.7）",
+      "rolling_comparison": "7.7（未锁定预测5.8）"
+    },
+    {
+      "row": 28,
+      "code": "688783.SH",
+      "name": "西安奕材",
+      "locked_comparison": "4.4（锁定预测-0.9）",
+      "rolling_comparison": "4.4（未锁定预测-0.9）"
+    },
+    {
+      "row": 30,
+      "code": "688146.SH",
+      "name": "中船特气",
+      "locked_comparison": "3.1（锁定预测1.7）",
+      "rolling_comparison": "3.1（未锁定预测1.7）"
+    },
+    {
+      "row": 35,
+      "code": "688469.SH",
+      "name": "芯联集成",
+      "locked_comparison": "4.1（锁定预测0.9）",
+      "rolling_comparison": "4.1（未锁定预测0.9）"
+    },
+    {
+      "row": 57,
+      "code": "002916.SZ",
+      "name": "深南电路",
+      "locked_comparison": "18.8（锁定预测19.2）",
+      "rolling_comparison": "18.8（未锁定预测19.1）"
+    },
+    {
+      "row": 111,
+      "code": "002821.SZ",
+      "name": "凯莱英",
+      "locked_comparison": "3.3（锁定预测3.1）",
+      "rolling_comparison": "3.3（未锁定预测3.1）"
+    },
+    {
+      "row": 126,
+      "code": "301165.SZ",
+      "name": "锐捷网络",
+      "locked_comparison": "3.9（锁定预测5.3）",
+      "rolling_comparison": "3.9（未锁定预测5.3）"
+    },
+    {
+      "row": 127,
+      "code": "300620.SZ",
+      "name": "光库科技",
+      "locked_comparison": "1.4（锁定预测0.1）",
+      "rolling_comparison": "1.4（未锁定预测1.2）"
+    },
+    {
+      "row": 129,
+      "code": "600941.SH",
+      "name": "中国移动",
+      "locked_comparison": "272.6（锁定预测297.4）",
+      "rolling_comparison": "272.6（未锁定预测292.8）"
+    },
+    {
+      "row": 130,
+      "code": "601728.SH",
+      "name": "中国电信",
+      "locked_comparison": "66.2（锁定预测71.2）",
+      "rolling_comparison": "66.2（未锁定预测72.6）"
+    },
+    {
+      "row": 132,
+      "code": "300442.SZ",
+      "name": "润泽科技",
+      "locked_comparison": "6.0（锁定预测13.6）",
+      "rolling_comparison": "6.0（未锁定预测12.3）"
+    },
+    {
+      "row": 133,
+      "code": "300750.SZ",
+      "name": "宁德时代",
+      "locked_comparison": "212.5（锁定预测234.3）",
+      "rolling_comparison": "212.5（未锁定预测234.5）"
+    },
+    {
+      "row": 141,
+      "code": "601179.SH",
+      "name": "中国西电",
+      "locked_comparison": "4.7（锁定预测4.5）",
+      "rolling_comparison": "4.7（未锁定预测4.5）"
+    },
+    {
+      "row": 176,
+      "code": "002353.SZ",
+      "name": "杰瑞股份",
+      "locked_comparison": "6.9（锁定预测9.2）",
+      "rolling_comparison": "6.9（未锁定预测9.2）"
+    },
+    {
+      "row": 177,
+      "code": "301200.SZ",
+      "name": "大族数控",
+      "locked_comparison": "5.9（锁定预测4.9）",
+      "rolling_comparison": "5.9（未锁定预测4.7）"
+    },
+    {
+      "row": 184,
+      "code": "002008.SZ",
+      "name": "大族激光",
+      "locked_comparison": "8.9（锁定预测9.3）",
+      "rolling_comparison": "8.9（未锁定预测9.2）"
+    },
+    {
+      "row": 204,
+      "code": "002379.SZ",
+      "name": "宏桥控股",
+      "locked_comparison": "76.5（锁定预测77.4）",
+      "rolling_comparison": "76.5（未锁定预测76.8）"
+    },
+    {
+      "row": 208,
+      "code": "601168.SH",
+      "name": "西部矿业",
+      "locked_comparison": "26.2（锁定预测21.8）",
+      "rolling_comparison": "26.2（未锁定预测21.9）"
+    },
+    {
+      "row": 210,
+      "code": "000933.SZ",
+      "name": "神火股份",
+      "locked_comparison": "27.1（锁定预测无）",
+      "rolling_comparison": "27.1（未锁定预测32.0）"
+    },
+    {
+      "row": 213,
+      "code": "000657.SZ",
+      "name": "中钨高新",
+      "locked_comparison": "9.0（锁定预测9.8）",
+      "rolling_comparison": "9.0（未锁定预测9.2）"
+    },
+    {
+      "row": 220,
+      "code": "002460.SZ",
+      "name": "赣锋锂业",
+      "locked_comparison": "7.6（锁定预测17.6）",
+      "rolling_comparison": "7.6（未锁定预测17.6）"
+    },
+    {
+      "row": 230,
+      "code": "000408.SZ",
+      "name": "藏格矿业",
+      "locked_comparison": "24.7（锁定预测21.1）",
+      "rolling_comparison": "24.7（未锁定预测20.8）"
+    },
+    {
+      "row": 231,
+      "code": "600989.SH",
+      "name": "宝丰能源",
+      "locked_comparison": "45.9（锁定预测40.9）",
+      "rolling_comparison": "45.9（未锁定预测41.7）"
+    },
+    {
+      "row": 232,
+      "code": "002648.SZ",
+      "name": "卫星化学",
+      "locked_comparison": "28.3（锁定预测18.7）",
+      "rolling_comparison": "28.3（未锁定预测18.7）"
+    },
+    {
+      "row": 236,
+      "code": "688295.SH",
+      "name": "中复神鹰",
+      "locked_comparison": "0.4（锁定预测0.7）",
+      "rolling_comparison": "0.4（未锁定预测0.6）"
+    },
+    {
+      "row": 254,
+      "code": "600674.SH",
+      "name": "川投能源",
+      "locked_comparison": "20.8（锁定预测19.9）",
+      "rolling_comparison": "20.8（未锁定预测19.9）"
+    },
+    {
+      "row": 261,
+      "code": "600660.SH",
+      "name": "福耀玻璃",
+      "locked_comparison": "20.4（锁定预测30.1）",
+      "rolling_comparison": "20.4（未锁定预测29.4）"
+    },
+    {
+      "row": 268,
+      "code": "600066.SH",
+      "name": "宇通客车",
+      "locked_comparison": "13.2（锁定预测15.9）",
+      "rolling_comparison": "13.2（未锁定预测15.9）"
+    },
+    {
+      "row": 270,
+      "code": "603129.SH",
+      "name": "春风动力",
+      "locked_comparison": "9.6（锁定预测7.6）",
+      "rolling_comparison": "9.6（未锁定预测7.6）"
+    },
+    {
+      "row": 273,
+      "code": "600335.SH",
+      "name": "国机汽车",
+      "locked_comparison": "1.7（锁定预测1.8）",
+      "rolling_comparison": "1.7（未锁定预测1.7）"
+    },
+    {
+      "row": 274,
+      "code": "300033.SZ",
+      "name": "同花顺",
+      "locked_comparison": "10.8（锁定预测18.7）",
+      "rolling_comparison": "10.8（未锁定预测18.7）"
+    },
+    {
+      "row": 276,
+      "code": "002230.SZ",
+      "name": "科大讯飞",
+      "locked_comparison": "2.3（锁定预测6.2）",
+      "rolling_comparison": "2.3（未锁定预测6.3）"
+    },
+    {
+      "row": 281,
+      "code": "002415.SZ",
+      "name": "海康威视",
+      "locked_comparison": "50.2（锁定预测44.4）",
+      "rolling_comparison": "50.2（未锁定预测44.4）"
+    },
+    {
+      "row": 297,
+      "code": "002557.SZ",
+      "name": "洽洽食品",
+      "locked_comparison": "1.4（锁定预测2.1）",
+      "rolling_comparison": "1.4（未锁定预测2.2）"
+    },
+    {
+      "row": 310,
+      "code": "600233.SH",
+      "name": "圆通速递",
+      "locked_comparison": "14.5（锁定预测12.9）",
+      "rolling_comparison": "14.5（未锁定预测13.2）"
+    },
+    {
+      "row": 326,
+      "code": "601606.SH",
+      "name": "长城军工",
+      "locked_comparison": "-0.2（锁定预测-0.5）",
+      "rolling_comparison": "-0.2（未锁定预测-0.5）"
+    },
+    {
+      "row": 331,
+      "code": "002128.SZ",
+      "name": "电投能源",
+      "locked_comparison": "23.9（锁定预测23.8）",
+      "rolling_comparison": "23.9（未锁定预测23.8）"
+    },
+    {
+      "row": 340,
+      "code": "002032.SZ",
+      "name": "苏泊尔",
+      "locked_comparison": "4.1（锁定预测4.4）",
+      "rolling_comparison": "4.1（未锁定预测4.4）"
+    },
+    {
+      "row": 348,
+      "code": "300911.SZ",
+      "name": "亿田智能",
+      "locked_comparison": "-0.3（锁定预测无）",
+      "rolling_comparison": "-0.3（未锁定预测0.8）"
+    },
+    {
+      "row": 379,
+      "code": "300498.SZ",
+      "name": "温氏股份",
+      "locked_comparison": "-6.0（锁定预测3.6）",
+      "rolling_comparison": "-6.0（未锁定预测3.5）"
+    },
+    {
+      "row": 391,
+      "code": "000798.SZ",
+      "name": "中水渔业",
+      "locked_comparison": "-0.1（锁定预测0.5）",
+      "rolling_comparison": "-0.1（未锁定预测0.5）"
+    },
+    {
+      "row": 394,
+      "code": "600176.SH",
+      "name": "中国巨石",
+      "locked_comparison": "24.1（锁定预测26.7）",
+      "rolling_comparison": "24.1（未锁定预测26.9）"
+    },
+    {
+      "row": 395,
+      "code": "603256.SH",
+      "name": "宏和科技",
+      "locked_comparison": "3.6（锁定预测2.4）",
+      "rolling_comparison": "3.6（未锁定预测2.4）"
+    },
+    {
+      "row": 400,
+      "code": "000786.SZ",
+      "name": "北新建材",
+      "locked_comparison": "5.3（锁定预测10.0）",
+      "rolling_comparison": "5.3（未锁定预测9.9）"
+    },
+    {
+      "row": 408,
+      "code": "002831.SZ",
+      "name": "裕同科技",
+      "locked_comparison": "5.8（锁定预测6.8）",
+      "rolling_comparison": "5.8（未锁定预测6.9）"
+    },
+    {
+      "row": 414,
+      "code": "600415.SH",
+      "name": "小商品城",
+      "locked_comparison": "14.8（锁定预测20.4）",
+      "rolling_comparison": "14.8（未锁定预测20.3）"
+    },
+    {
+      "row": 423,
+      "code": "002416.SZ",
+      "name": "爱施德",
+      "locked_comparison": "0.7（锁定预测2.8）",
+      "rolling_comparison": "0.7（未锁定预测2.8）"
+    },
+    {
+      "row": 427,
+      "code": "000708.SZ",
+      "name": "中信特钢",
+      "locked_comparison": "11.7（锁定预测16.5）",
+      "rolling_comparison": "11.7（未锁定预测16.5）"
+    },
+    {
+      "row": 428,
+      "code": "600282.SH",
+      "name": "南钢股份",
+      "locked_comparison": "4.8（锁定预测8.7）",
+      "rolling_comparison": "4.8（未锁定预测8.7）"
+    },
+    {
+      "row": 434,
+      "code": "603588.SH",
+      "name": "高能环境",
+      "locked_comparison": "1.8（锁定预测无）",
+      "rolling_comparison": "1.8（未锁定预测2.9）"
+    },
+    {
+      "row": 435,
+      "code": "600388.SH",
+      "name": "紫金龙净",
+      "locked_comparison": "3.9（锁定预测4.3）",
+      "rolling_comparison": "3.9（未锁定预测4.3）"
+    },
+    {
+      "row": 443,
+      "code": "300012.SZ",
+      "name": "华测检测",
+      "locked_comparison": "4.0（锁定预测3.8）",
+      "rolling_comparison": "4.0（未锁定预测3.8）"
+    },
+    {
+      "row": 444,
+      "code": "002967.SZ",
+      "name": "广电计量",
+      "locked_comparison": "1.7（锁定预测2.0）",
+      "rolling_comparison": "1.7（未锁定预测2.0）"
+    },
+    {
+      "row": 460,
+      "code": "600673.SH",
+      "name": "东阳光",
+      "locked_comparison": "2.5（锁定预测6.8）",
+      "rolling_comparison": "2.5（未锁定预测6.8）"
+    }
+  ],
+  "changes": []
+}

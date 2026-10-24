@@ -43,10 +43,17 @@ ASOF_DISPLAY = '2026-10-09'
 ANNUAL_CHANGE_HEADER = '本次刷新年度预测变化'
 DECISION_NOTE_HEADER = '笔记2 决策（AI也别刷新）'
 PEAK_RETURN_HEADER = '360日内峰值距今涨幅%'
+Q3_LOCK_HEADER = '2026 Q3净利润(亿元) 锁定比较基础'
+LEGACY_Q3_LOCK_HEADER = '2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础'
+Q3_NORMAL_HEADER = '2026Q3净利润(亿元)'
+Q4_LOCK_HEADER = '2026Q4锁定预测(亿元)'
+Q4_NORMAL_HEADER = '2026Q4净利润(亿元)'
 PERIODS = (10, 30, 60, 90, 250, 360, 720, 1080)
 REUSE_RAW = os.environ.get('REUSE_REFRESH_RAW') == '1'
 INDUSTRY_COLOR_MAP = ROOT / 'config/industry_color_map_20261012.json'
 PERSONAL_NOTE_STYLE_MAP = None
+Q3_ROLLING_BASELINE_MAP = ROOT / 'config/q3_rolling_baselines_2026.json'
+Q3_LOCKED_BASELINE_MAP = ROOT / 'config/q3_locked_baselines_2026.json'
 EXPECTED_HEADERS = [
     '名称', '笔记（AI别刷新这部分，我自己记录）', '申万一级', '申万二级', '代码',
     '公司产品简介', '市值(亿元)', 'PE(TTM)', '2026 PE(预测)', '2027 PE(预测)',
@@ -58,7 +65,7 @@ EXPECTED_HEADERS = [
     '10日涨幅%', '30日涨幅%', '60日涨幅%', '90日涨幅%', '250日涨幅%',
     '360日涨幅%', '720日涨幅%', '1080日涨幅%', '预测来源', '数据状态', '备注',
     '2026Q1净利润(亿元)', '2026Q2锁定预测(亿元)', '2026Q2净利润(亿元)',
-    '2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础', '2026Q3净利润(亿元)',
+    Q3_LOCK_HEADER, '2026Q3净利润(亿元)',
     '2026Q4净利润(亿元)', '2027Q1净利润(亿元)', '2027Q2净利润(亿元)',
     '2027Q3净利润(亿元)', '2027Q4净利润(亿元)', '2028Q1净利润(亿元)',
     '2028Q2净利润(亿元)', '2028Q3净利润(亿元)', '2028Q4净利润(亿元)',
@@ -70,15 +77,25 @@ EXPECTED_HEADERS = [
 
 def validate_headers(headers):
     variants = []
-    for include_decision_note in (False, True):
-        for include_peak_return in (False, True):
-            variant = list(EXPECTED_HEADERS)
-            if include_decision_note:
-                variant.insert(2, DECISION_NOTE_HEADER)
-            if include_peak_return:
-                variant.insert(variant.index('360日涨幅%') + 1, PEAK_RETURN_HEADER)
-            variants.append(variant)
+    for q3_lock_header in (Q3_LOCK_HEADER, LEGACY_Q3_LOCK_HEADER):
+        for include_decision_note in (False, True):
+            for include_peak_return in (False, True):
+                for include_q4_lock in (False, True):
+                    variant = list(EXPECTED_HEADERS)
+                    variant[variant.index(Q3_LOCK_HEADER)] = q3_lock_header
+                    if include_decision_note:
+                        variant.insert(2, DECISION_NOTE_HEADER)
+                    if include_peak_return:
+                        variant.insert(variant.index('360日涨幅%') + 1, PEAK_RETURN_HEADER)
+                    if include_q4_lock:
+                        variant.insert(variant.index(Q4_NORMAL_HEADER), Q4_LOCK_HEADER)
+                    variants.append(variant)
     assert headers in variants, headers
+
+
+def q3_lock_header(indices):
+    return next(header for header in (Q3_LOCK_HEADER, LEGACY_Q3_LOCK_HEADER)
+                if header in indices)
 
 
 def sheet_range(headers, end_row=500):
@@ -224,20 +241,57 @@ def peak_return_value(history, days=360):
     return float(window.iloc[-1] / window.max() - 1)
 
 
-def annotate_actual(actual, locked, label='锁定预测'):
+def annotate_actual(actual, locked, label='锁定预测', show_missing=False):
     if actual is None:
         return ''
     value = fmt_number(actual)
     prior = number(locked)
-    return f'{value}（{label}{prior:.1f}）' if prior is not None else value
+    if prior is not None:
+        return f'{value}（{label}{prior:.1f}）'
+    return f'{value}（{label}无）' if show_missing else value
 
 
 def prior_forecast(cell):
-    match = re.search(r'（(?:上个Q预测|锁定预测)([-+]?\d+(?:\.\d+)?)）', str(cell or ''))
-    return match.group(1) if match else None
+    match = re.search(
+        r'（(?:上个Q预测|锁定预测|未锁定预测)([-+]?\d+(?:\.\d+)?)）',
+        str(cell or ''),
+    )
+    return number(match.group(1)) if match else None
 
 
-def quarterly_values(row, idx, income, annual):
+def comparison_forecast(cell):
+    return prior_forecast(cell) if '（' in str(cell or '') else number(cell)
+
+
+def q3_rolling_forecast(code, cell):
+    if Q3_ROLLING_BASELINE_MAP.exists() and code:
+        archive = json.loads(Q3_ROLLING_BASELINE_MAP.read_text())
+        entry = archive.get(str(code))
+        if entry:
+            return number(entry.get('baseline'))
+    match = re.search(
+        r'（(上个Q预测|锁定预测|未锁定预测)([-+]?\d+(?:\.\d+)?)）',
+        str(cell or ''),
+    )
+    if not match:
+        return number(cell)
+    label, value = match.groups()
+    if label != '锁定预测':
+        return number(value)
+    return None
+
+
+def q3_locked_forecast(code, cell):
+    if '（' in str(cell or ''):
+        return prior_forecast(cell)
+    if Q3_LOCKED_BASELINE_MAP.exists() and code:
+        archive = json.loads(Q3_LOCKED_BASELINE_MAP.read_text())
+        if str(code) in archive:
+            return number(archive[str(code)].get('baseline'))
+    return number(cell)
+
+
+def quarterly_values(row, idx, income, annual, code=None):
     actuals = finance.actual_quarter_profit_yi(income)
     weights = quarter.quarter_weights(income)
     quarter_annual = dict(annual)
@@ -253,23 +307,36 @@ def quarterly_values(row, idx, income, annual):
     result['2026Q2净利润(亿元)'] = annotate_actual(
         actuals.get('2026Q2'), prior_forecast(row[idx['2026Q2净利润(亿元)']]), '上个Q预测')
     q3_actual = actuals.get('2026Q3')
-    archive = row[idx['2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础']]
+    locked_header = q3_lock_header(idx)
+    q3_locked = row[idx[locked_header]]
+    q3_normal = row[idx[Q3_NORMAL_HEADER]]
     if q3_actual is not None:
-        result['2026Q3净利润(亿元)'] = annotate_actual(q3_actual, archive)
+        result[locked_header] = annotate_actual(
+            q3_actual, q3_locked_forecast(code, q3_locked), '锁定预测', show_missing=True)
+        result[Q3_NORMAL_HEADER] = annotate_actual(
+            q3_actual, q3_rolling_forecast(code, q3_normal), '未锁定预测')
     else:
         used = sum(v for v in (actuals.get('2026Q1'), actuals.get('2026Q2')) if v is not None)
         remainder = quarter_annual[2026] - used if quarter_annual.get(2026) is not None else None
         denom = weights[3] + weights[4]
-        result['2026Q3净利润(亿元)'] = fmt_number(remainder * weights[3] / denom) if remainder is not None and denom else ''
+        result[Q3_NORMAL_HEADER] = fmt_number(remainder * weights[3] / denom) if remainder is not None and denom else ''
     used = sum(v for v in (actuals.get('2026Q1'), actuals.get('2026Q2'), q3_actual) if v is not None)
-    if quarter_annual.get(2026) is None:
-        result['2026Q4净利润(亿元)'] = ''
+    q4_actual = actuals.get('2026Q4')
+    if q4_actual is not None:
+        if Q4_LOCK_HEADER in idx:
+            result[Q4_LOCK_HEADER] = annotate_actual(
+                q4_actual, comparison_forecast(row[idx[Q4_LOCK_HEADER]]), '锁定预测',
+                show_missing=True)
+        result[Q4_NORMAL_HEADER] = annotate_actual(
+            q4_actual, comparison_forecast(row[idx[Q4_NORMAL_HEADER]]), '未锁定预测')
+    elif quarter_annual.get(2026) is None:
+        result[Q4_NORMAL_HEADER] = ''
     elif q3_actual is not None:
-        result['2026Q4净利润(亿元)'] = fmt_number(quarter_annual[2026] - used)
+        result[Q4_NORMAL_HEADER] = fmt_number(quarter_annual[2026] - used)
     else:
         remainder = quarter_annual[2026] - used
         denom = weights[3] + weights[4]
-        result['2026Q4净利润(亿元)'] = fmt_number(remainder * weights[4] / denom) if denom else ''
+        result[Q4_NORMAL_HEADER] = fmt_number(remainder * weights[4] / denom) if denom else ''
     for year in (2027, 2028):
         parts = (quarter.split_annual(quarter_annual[year], weights)
                  if quarter_annual.get(year) is not None else [''] * 4)
@@ -365,10 +432,59 @@ def column_name(index):
     return result
 
 
+def append_and_move_column(token, destination_index):
+    metadata = feishu.metadata(token, TARGET)
+    old_count = metadata['grid_properties']['column_count']
+    feishu.api(feishu.BASE + '/dimension_range', token, 'POST', {
+        'dimension': {'sheetId': TARGET, 'majorDimension': 'COLUMNS', 'length': 1},
+    })
+    feishu.api(
+        f'sheets/v3/spreadsheets/{feishu.SPREADSHEET}/sheets/{TARGET}/move_dimension',
+        token, 'POST', {
+            'source': {'major_dimension': 'COLUMNS', 'start_index': old_count,
+                       'end_index': old_count},
+            'destination_index': destination_index,
+        },
+    )
+
+
+def shifted_column_name(name, insertion_index):
+    value = 0
+    for char in name:
+        value = value * 26 + ord(char) - ord('A') + 1
+    if value - 1 >= insertion_index:
+        value += 1
+    return column_name(value)
+
+
+def shifted_range(address, insertion_index):
+    if not isinstance(address, str) or '!' not in address:
+        return address
+    sheet, cells = address.split('!', 1)
+
+    def replace(match):
+        absolute, letters = match.groups()
+        return absolute + shifted_column_name(letters, insertion_index)
+
+    cells = re.sub(r'(?<![A-Z])([$]?)([A-Z]+)(?=[$]?\d)', replace, cells)
+    return sheet + '!' + cells
+
+
+def shifted_range_payload(value, insertion_index):
+    if isinstance(value, dict):
+        return {key: shifted_range_payload(item, insertion_index)
+                for key, item in value.items()}
+    if isinstance(value, list):
+        return [shifted_range_payload(item, insertion_index) for item in value]
+    return shifted_range(value, insertion_index)
+
+
 def font_style_payload(values):
     headers, rows = values[0], values[1:]
     idx = {header: i for i, header in enumerate(headers)}
-    pattern = re.compile(r'([-+]?\d+(?:\.\d+)?)（(?:上个Q预测|锁定预测)([-+]?\d+(?:\.\d+)?)）')
+    pattern = re.compile(
+        r'([-+]?\d+(?:\.\d+)?)（(?:上个Q预测|锁定预测|未锁定预测)'
+        r'([-+]?\d+(?:\.\d+)?)）')
     groups = {}
 
     def add(row_number, header, color):
@@ -378,7 +494,12 @@ def font_style_payload(values):
     pe_headers = ['PE(TTM)', '2026 PE(预测)', '2027 PE(预测)', '2028 PE(预测)']
     yoy_headers = ['2025净利润同比%(实际/预测)', '2026净利润同比%(预测)',
                    '2027净利润同比%(预测)', '2028净利润同比%(预测)']
-    actual_headers = ['2026Q1净利润(亿元)', '2026Q2净利润(亿元)', '2026Q3净利润(亿元)']
+    actual_headers = [
+        header for header in (
+            '2026Q1净利润(亿元)', '2026Q2锁定预测(亿元)', '2026Q2净利润(亿元)',
+            q3_lock_header(idx), Q3_NORMAL_HEADER, Q4_LOCK_HEADER, Q4_NORMAL_HEADER,
+        ) if header in idx
+    ]
     for row_number, row in enumerate(rows, 2):
         row = list(row) + [''] * (len(headers) - len(row))
         for header in pe_headers:
@@ -507,6 +628,7 @@ def prepare():
             (ROOT / 'exports/business_composition/2026-10-08-all.json').read_text())
     }
     output_rows, changes, addition_details = [], [], []
+    q3_actual_count = q4_actual_count = 0
     for _, item in selected.iterrows():
         code = str(item.ts_code)
         old_row = copy.deepcopy(existing.get(code, [''] * len(headers)))
@@ -517,7 +639,7 @@ def prepare():
             row[idx['笔记（AI别刷新这部分，我自己记录）']] = ''
             if DECISION_NOTE_HEADER in idx:
                 row[idx[DECISION_NOTE_HEADER]] = ''
-            row[idx['2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础']] = ''
+            row[idx[q3_lock_header(idx)]] = ''
             description = str(item.get('main_business') or '').replace('\n', ' ').strip()
             row[idx['公司产品简介']] = '' if description == 'nan' else description[:180]
             if code in composition_by_code:
@@ -549,6 +671,11 @@ def prepare():
         row[idx['股息率%']] = round(dv / 100, 6) if dv is not None else ''
 
         income, report = read_csv('income', code), read_csv('report_rc', code)
+        quarter_actuals = finance.actual_quarter_profit_yi(income)
+        if quarter_actuals.get('2026Q3') is not None:
+            q3_actual_count += 1
+        if quarter_actuals.get('2026Q4') is not None:
+            q4_actual_count += 1
         profits, yoy, pes, provenance = finance.profit_cells(report, income, cap)
         annual = {year: number(profits[year]) for year in (2025, 2026, 2027, 2028)}
         for year in (2025, 2026, 2027, 2028):
@@ -563,8 +690,10 @@ def prepare():
         row[idx['预测来源']] = provenance
         missing = [str(y) for y in (2026, 2027, 2028) if annual[y] is None]
         row[idx['数据状态']] = '缺预测：' + ','.join(missing) if missing else 'OK'
-        for header, value in quarterly_values(row, idx, income, annual).items():
+        for header, value in quarterly_values(row, idx, income, annual, code).items():
             row[idx[header]] = value
+        if code not in existing and Q4_LOCK_HEADER in idx and quarter_actuals.get('2026Q4') is None:
+            row[idx[Q4_LOCK_HEADER]] = row[idx[Q4_NORMAL_HEADER]]
 
         old_cap = number(old_row[idx['市值(亿元)']]) if code in existing else None
         old_yield = number(old_row[idx['本财年预估全年股息率（26年）']]) if code in existing else None
@@ -583,6 +712,16 @@ def prepare():
                                      'reason': '市值超过600亿元' if cap > 600 else '申万二级市值前二'})
         output_rows.append(row)
 
+    q3_actual_complete = bool(output_rows) and q3_actual_count == len(output_rows)
+    if q3_actual_complete and Q4_LOCK_HEADER not in headers and q4_actual_count:
+        raise RuntimeError('Cannot create a valid Q4 lock after Q4 actuals have started')
+    q4_lock_column_inserted = q3_actual_complete and Q4_LOCK_HEADER not in headers
+    if q4_lock_column_inserted:
+        q4_index = headers.index(Q4_NORMAL_HEADER)
+        headers.insert(q4_index, Q4_LOCK_HEADER)
+        for row in output_rows:
+            row.insert(q4_index, copy.deepcopy(row[q4_index]))
+
     payload = [headers] + output_rows + [[''] * len(headers) for _ in range(len(before) - len(output_rows) - 1)]
     assert len(payload) == len(before)
     save('payload.json', {'valueRange': {'range': sheet_range(headers, len(before)), 'values': payload}})
@@ -590,7 +729,11 @@ def prepare():
     save('additions.json', addition_details)
     save('summary.json', {'asof': ASOF_DISPLAY, 'existing': len(existing), 'added': len(additions),
                           'removed': 0, 'final': len(output_rows), 'additions': addition_details,
-                          'forecast_changes': len(changes)})
+                          'forecast_changes': len(changes),
+                          'q3_actual_count': q3_actual_count,
+                          'q3_actual_complete': q3_actual_complete,
+                          'q4_actual_count': q4_actual_count,
+                          'q4_lock_column_inserted': q4_lock_column_inserted})
 
 
 def equivalent(a, b):
@@ -610,20 +753,32 @@ def apply():
     values = payload['valueRange']['values']
     headers, idx = values[0], {h: i for i, h in enumerate(values[0])}
     width = len(headers)
-    old_by_code = {str((list(r) + [''] * width)[idx['代码']]): list(r) + [''] * (width-len(r))
+    old_headers = before[0]
+    old_idx = {h: i for i, h in enumerate(old_headers)}
+    old_width = len(old_headers)
+    old_by_code = {str((list(r) + [''] * old_width)[old_idx['代码']]):
+                   list(r) + [''] * (old_width-len(r))
                    for r in before[1:] if r and r[0]}
     for row in values[1:]:
         if not row or not row[0] or str(row[idx['代码']]) not in old_by_code:
             continue
         old = old_by_code[str(row[idx['代码']])]
-        assert row[idx['笔记（AI别刷新这部分，我自己记录）']] == old[idx['笔记（AI别刷新这部分，我自己记录）']]
-        if DECISION_NOTE_HEADER in idx:
-            assert row[idx[DECISION_NOTE_HEADER]] == old[idx[DECISION_NOTE_HEADER]]
-        assert row[idx['2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础']] == old[idx['2026 Q3净利润(亿元) 复制备忘用，后续锁定比较基础']]
-        assert row[idx['25年收入构成']:idx['26年利润构成']+1] == old[idx['25年收入构成']:idx['26年利润构成']+1]
+        note_header = '笔记（AI别刷新这部分，我自己记录）'
+        assert row[idx[note_header]] == old[old_idx[note_header]]
+        if DECISION_NOTE_HEADER in idx and DECISION_NOTE_HEADER in old_idx:
+            assert row[idx[DECISION_NOTE_HEADER]] == old[old_idx[DECISION_NOTE_HEADER]]
+        new_q3_lock_header = q3_lock_header(idx)
+        old_q3_lock_header = q3_lock_header(old_idx)
+        if row[idx[new_q3_lock_header]] != old[old_idx[old_q3_lock_header]]:
+            assert '（锁定预测' in str(row[idx[new_q3_lock_header]])
+        for header in ('25年收入构成', '25年利润构成', '26年收入构成', '26年利润构成'):
+            assert row[idx[header]] == old[old_idx[header]]
     cf_before = json.loads((WORK / 'cf_before.json').read_text())
     filter_before = json.loads((WORK / 'filter_before.json').read_text())
     meta_before = json.loads((WORK / 'metadata_before.json').read_text())
+    summary = json.loads((WORK / 'summary.json').read_text())
+    if summary['q4_lock_column_inserted']:
+        append_and_move_column(token, idx[Q4_LOCK_HEADER])
     feishu.api(feishu.BASE + '/values', token, 'PUT', payload)
 
     visible = [values[0]] + [row for row in values[1:] if row and row[0]]
@@ -656,17 +811,25 @@ def apply():
     cf_after = feishu.condition_formats(token, TARGET)
     filter_after = feishu.sheet_filter(token, TARGET)
     meta_after = feishu.metadata(token, TARGET)
-    assert cf_after == cf_before and filter_after == filter_before
+    if summary['q4_lock_column_inserted']:
+        insertion_index = idx[Q4_LOCK_HEADER]
+        assert cf_after == shifted_range_payload(cf_before, insertion_index)
+        assert filter_after == shifted_range_payload(filter_before, insertion_index)
+    else:
+        assert cf_after == cf_before and filter_after == filter_before
     for key in ('frozen_column_count', 'frozen_row_count', 'column_count', 'row_count'):
-        assert meta_after['grid_properties'][key] == meta_before['grid_properties'][key]
-    summary = json.loads((WORK / 'summary.json').read_text())
+        expected = meta_before['grid_properties'][key]
+        if key == 'column_count' and summary['q4_lock_column_inserted']:
+            expected += 1
+        assert meta_after['grid_properties'][key] == expected
     result = {**summary, 'sheet_id': TARGET,
               'url': 'https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=' + TARGET,
               'values_verified': True, 'conditional_formats': len(cf_after['data']['sheet_condition_formats']),
               'conditional_formats_preserved': True, 'filter_preserved': True,
               'notes_preserved': True, 'decision_notes_preserved': DECISION_NOTE_HEADER in idx,
               'personal_note_styles_restored_by_code': bool(note_styles),
-              'q3_archive_preserved': True,
+              'q3_locked_comparison_rows': summary['q3_actual_count'],
+              'q4_lock_column_ready': Q4_LOCK_HEADER in idx,
               'composition_preserved_for_existing': True, 'industry_colors': industry_result}
     save('verification.json', result)
     print(json.dumps(result, ensure_ascii=False, indent=2))

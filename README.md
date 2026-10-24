@@ -85,7 +85,7 @@ company market capitalization. A company that later falls below the threshold
 is retained.
 
 The refresh preserves personal notes in column B and the Q3 locked comparison
-value in column AK by stock code. It refreshes annual actual/consensus profit
+baseline by stock code. It refreshes annual actual/consensus profit
 and quarterly actual/forecast profit for every company. The change audit in
 `exports/refresh_20261009/forecast_changes.csv` records the old value, new
 value, and percentage change for every changed forecast. Existing business
@@ -99,6 +99,15 @@ semicolon, and a newly available forecast is labeled `新增预测`. Its font is
 green for an increase and red for a decrease. When multiple years changed,
 the nearest changed year determines the color; a change without an old value
 uses black.
+
+Q3 profit uses two adjacent comparison columns. The locked column compares the
+reported actual with the fixed Q3 snapshot (`锁定预测`), while the normal Q3
+column compares the same actual with the last rolling forecast immediately
+before disclosure (`未锁定预测`). Repeated refreshes retain both original
+baselines. Once every selected company has a Q3 actual and Q4 actuals have not
+started, the refresh inserts `2026Q4锁定预测(亿元)` immediately before the normal
+Q4 column and copies that refresh's Q4 forecasts into it. Later Q4 actuals use
+the same locked-versus-rolling two-column comparison.
 
 ```bash
 .venv/bin/python scripts/refresh_all_20261012.py prepare
