@@ -41,6 +41,11 @@ TITLE = '2026-10-12（全部）'
 ASOF = '20261009'
 ASOF_DISPLAY = '2026-10-09'
 ANNUAL_CHANGE_HEADER = '本次刷新年度预测变化'
+ANNUAL_CHANGE_RATE_HEADERS = {
+    2026: '26年预测变化率',
+    2027: '27年预测变化率',
+    2028: '28年预测变化率',
+}
 DECISION_NOTE_HEADER = '笔记2 决策（AI也别刷新）'
 PEAK_RETURN_HEADER = '360日内峰值距今涨幅%'
 Q3_LOCK_HEADER = '2026 Q3净利润(亿元) 锁定比较基础'
@@ -81,15 +86,20 @@ def validate_headers(headers):
         for include_decision_note in (False, True):
             for include_peak_return in (False, True):
                 for include_q4_lock in (False, True):
-                    variant = list(EXPECTED_HEADERS)
-                    variant[variant.index(Q3_LOCK_HEADER)] = q3_lock_header
-                    if include_decision_note:
-                        variant.insert(2, DECISION_NOTE_HEADER)
-                    if include_peak_return:
-                        variant.insert(variant.index('360日涨幅%') + 1, PEAK_RETURN_HEADER)
-                    if include_q4_lock:
-                        variant.insert(variant.index(Q4_NORMAL_HEADER), Q4_LOCK_HEADER)
-                    variants.append(variant)
+                    for include_annual_rates in (False, True):
+                        variant = list(EXPECTED_HEADERS)
+                        variant[variant.index(Q3_LOCK_HEADER)] = q3_lock_header
+                        if include_decision_note:
+                            variant.insert(2, DECISION_NOTE_HEADER)
+                        if include_annual_rates:
+                            position = variant.index(ANNUAL_CHANGE_HEADER) + 1
+                            for offset, header in enumerate(ANNUAL_CHANGE_RATE_HEADERS.values()):
+                                variant.insert(position + offset, header)
+                        if include_peak_return:
+                            variant.insert(variant.index('360日涨幅%') + 1, PEAK_RETURN_HEADER)
+                        if include_q4_lock:
+                            variant.insert(variant.index(Q4_NORMAL_HEADER), Q4_LOCK_HEADER)
+                        variants.append(variant)
     assert headers in variants, headers
 
 
@@ -399,6 +409,46 @@ def annual_change_color_from_text(text):
     return '#00B050' if ratio > 0 else '#C00000' if ratio < 0 else '#000000'
 
 
+def annual_change_rates_from_text(text):
+    rates = {year: '' for year in ANNUAL_CHANGE_RATE_HEADERS}
+    matches = re.findall(
+        r'(20\d{2})年（旧值[^，]*，(新增预测|[-+]?\d+(?:\.\d+)?%)）',
+        str(text or ''),
+    )
+    for year_text, movement in matches:
+        year = int(year_text)
+        if year in rates and movement != '新增预测':
+            rates[year] = round(float(movement.rstrip('%')) / 100, 6)
+    return rates
+
+
+def annual_change_rate_style_payload(values):
+    headers = values[0]
+    idx = {header: i for i, header in enumerate(headers)}
+    groups = {}
+    for row_number, row in enumerate(values[1:], 2):
+        if not row or not row[0]:
+            continue
+        row = list(row) + [''] * (len(headers) - len(row))
+        for header in ANNUAL_CHANGE_RATE_HEADERS.values():
+            if header not in idx:
+                continue
+            value = number(row[idx[header]])
+            color = ('#000000' if value is None or value == 0
+                     else '#00B050' if value > 0 else '#C00000')
+            groups.setdefault(color, []).append(
+                f'{TARGET}!{column_name(idx[header] + 1)}{row_number}:'
+                f'{column_name(idx[header] + 1)}{row_number}')
+    styles = []
+    for color, ranges in groups.items():
+        for start in range(0, len(ranges), 100):
+            styles.append({
+                'ranges': ranges[start:start + 100],
+                'style': {'foreColor': color, 'formatter': '0.00%'},
+            })
+    return styles
+
+
 def annual_change_style_payload(values, changes=None):
     headers = values[0]
     idx = {header: i for i, header in enumerate(headers)}
@@ -696,6 +746,10 @@ def prepare():
             row[idx['本财年预估全年股息率（26年）']] = old_yield * old_cap / cap
         row_changes = make_changes(code, name, old_row, row, idx) if code in existing else []
         row[idx[ANNUAL_CHANGE_HEADER]] = annual_change_text(row_changes)
+        annual_rates = annual_change_rates_from_text(row[idx[ANNUAL_CHANGE_HEADER]])
+        for year, header in ANNUAL_CHANGE_RATE_HEADERS.items():
+            if header in idx:
+                row[idx[header]] = annual_rates[year]
         changes.extend(row_changes)
         if code in additions:
             qualified_row = qualified[qualified.ts_code.astype(str).eq(code)].iloc[0]
@@ -796,6 +850,10 @@ def apply():
     changes = json.loads((WORK / 'forecast_changes.json').read_text())
     feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
                {'data': annual_change_style_payload(visible, changes)})
+    annual_rate_styles = annual_change_rate_style_payload(visible)
+    if annual_rate_styles:
+        feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
+                   {'data': annual_rate_styles})
 
     after = feishu.read_range(token, sheet_range(headers))
     for rn, (expected, actual) in enumerate(zip(values, after), 1):

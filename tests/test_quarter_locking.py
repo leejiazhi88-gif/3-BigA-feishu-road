@@ -106,6 +106,14 @@ class AnnualChangeColorTest(unittest.TestCase):
             with self.subTest(text=text):
                 self.assertEqual(refresh.annual_change_color_from_text(text), expected)
 
+    def test_extracts_each_year_as_numeric_percentage(self):
+        self.assertEqual(
+            refresh.annual_change_rates_from_text(
+                '2026年（旧值44.2，-4.8%）；2027年（旧值65.7，+9.7%）；'
+                '2028年（旧值无，新增预测）'),
+            {2026: -0.048, 2027: 0.097, 2028: ''},
+        )
+
 
 if __name__ == '__main__':
     unittest.main()

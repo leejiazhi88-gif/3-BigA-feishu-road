@@ -1,0 +1,20 @@
+{
+  "sheet_id": "K3baGL",
+  "sheet_name": "2026-10-23（全部）",
+  "range": "S2:U461",
+  "rows": 460,
+  "positive": 135,
+  "negative": 143,
+  "zero": 0,
+  "blank": 1102,
+  "nonempty_values_written": 278,
+  "other_value_changes": 0,
+  "conditional_formats_preserved": true,
+  "filter_preserved": true,
+  "export_file": "outputs/annual-change-color-fix/2026-10-23-all.xlsx",
+  "nonempty_values_checked": 278,
+  "value_mismatches": 0,
+  "style_mismatches": 0,
+  "number_format_mismatches": 0,
+  "export_verified": true
+}
