@@ -82,5 +82,30 @@ class QuarterLockingTest(unittest.TestCase):
         self.assertEqual(refresh.shifted_range('sheet!AQ2:AQ10', 41), 'sheet!AR2:AR10')
 
 
+class AnnualChangeColorTest(unittest.TestCase):
+    def test_uses_earliest_year_when_later_year_moves_opposite_direction(self):
+        self.assertEqual(
+            refresh.annual_change_color_from_text(
+                '2026年（旧值44.2，-4.8%）；2027年（旧值65.7，+9.7%）'),
+            '#C00000',
+        )
+        self.assertEqual(
+            refresh.annual_change_color_from_text(
+                '2026年（旧值-5.2，+36.5%）；2028年（旧值45.0，-7.6%）'),
+            '#00B050',
+        )
+
+    def test_handles_later_start_new_forecast_zero_and_blank(self):
+        cases = {
+            '2027年（旧值106.3，+8.6%）；2028年（旧值147.5，+4.3%）': '#00B050',
+            '2026年（旧值无，新增预测）；2027年（旧值10.0，-2.0%）': '#000000',
+            '2026年（旧值10.0，0.0%）': '#000000',
+            '': '#000000',
+        }
+        for text, expected in cases.items():
+            with self.subTest(text=text):
+                self.assertEqual(refresh.annual_change_color_from_text(text), expected)
+
+
 if __name__ == '__main__':
     unittest.main()

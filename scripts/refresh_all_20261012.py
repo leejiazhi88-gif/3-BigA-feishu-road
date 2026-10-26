@@ -385,34 +385,29 @@ def annual_change_text(changes):
     return '；'.join(parts)
 
 
-def annual_change_colors(changes):
-    annual_fields = {f'{year}净利润(预测,亿元)' for year in (2026, 2027, 2028)}
-    by_code = {}
-    for change in changes:
-        if change['field'] not in annual_fields:
-            continue
-        code = str(change['code'])
-        current = by_code.get(code)
-        if current is None or change['field'] < current['field']:
-            by_code[code] = change
-    colors = {}
-    for code, change in by_code.items():
-        old, new = number(change['old']), number(change['new'])
-        colors[code] = ('#000000' if old is None or new is None or new == old
-                        else '#00B050' if new > old else '#C00000')
-    return colors
+def annual_change_color_from_text(text):
+    matches = re.findall(
+        r'(20\d{2})年（旧值[^，]*，(新增预测|[-+]?\d+(?:\.\d+)?%)）',
+        str(text or ''),
+    )
+    if not matches:
+        return '#000000'
+    _, movement = min(matches, key=lambda item: int(item[0]))
+    if movement == '新增预测':
+        return '#000000'
+    ratio = float(movement.rstrip('%'))
+    return '#00B050' if ratio > 0 else '#C00000' if ratio < 0 else '#000000'
 
 
-def annual_change_style_payload(values, changes):
+def annual_change_style_payload(values, changes=None):
     headers = values[0]
     idx = {header: i for i, header in enumerate(headers)}
-    colors = annual_change_colors(changes)
     groups = {}
     for row_number, row in enumerate(values[1:], 2):
         if not row or not row[0]:
             continue
         row = list(row) + [''] * (len(headers) - len(row))
-        color = colors.get(str(row[idx['代码']]), '#000000')
+        color = annual_change_color_from_text(row[idx[ANNUAL_CHANGE_HEADER]])
         groups.setdefault(color, []).append(
             f'{TARGET}!{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}:'
             f'{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}')
