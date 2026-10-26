@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import sys
 import time
 from pathlib import Path
@@ -15,9 +16,10 @@ sys.path.insert(0, str(ROOT / 'scripts'))
 import refresh_all_20261012 as worker
 from business_composition import feishu_client as feishu
 
-SHEET_ID = 'K3baGL'
-SHEET_NAME = '2026-10-23（全部）'
-OUTPUT = ROOT / 'exports' / 'refresh_20261023' / 'annual_change_colors.json'
+SHEET_ID = os.environ.get('ANNUAL_CHANGE_SHEET_ID', 'K3baGL')
+SHEET_NAME = os.environ.get('ANNUAL_CHANGE_SHEET_NAME', '2026-10-23（全部）')
+OUTPUT = ROOT / os.environ.get(
+    'ANNUAL_CHANGE_AUDIT', 'exports/refresh_20261023/annual_change_colors.json')
 
 
 def retry(call):

@@ -14,13 +14,15 @@ import openpyxl
 
 ROOT = Path(__file__).resolve().parents[1]
 SPREADSHEET = 'UJJesUWvehxTbNtNpV2cHuDcnIc'
-SHEET_NAME = '2026-10-23（全部）'
+SHEET_NAME = os.environ.get('ANNUAL_CHANGE_SHEET_NAME', '2026-10-23（全部）')
 ENV_FILE = Path(os.environ.get(
     'FEISHU_ENV',
     '/Users/fuguiplus/Documents/Codex/2026-04-30/new-chat/xiaoniuma-feishu/.env',
 ))
-OUTPUT = ROOT / 'outputs' / 'annual-change-color-fix' / '2026-10-23-all.xlsx'
-AUDIT = ROOT / 'exports' / 'refresh_20261023' / 'annual_change_colors.json'
+OUTPUT = ROOT / os.environ.get(
+    'ANNUAL_CHANGE_EXPORT', 'outputs/annual-change-color-fix/2026-10-23-all.xlsx')
+AUDIT = ROOT / os.environ.get(
+    'ANNUAL_CHANGE_AUDIT', 'exports/refresh_20261023/annual_change_colors.json')
 
 
 def request_json(path, token=None, method='GET', body=None):
