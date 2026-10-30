@@ -33,6 +33,9 @@ sys.path.insert(0, str(ROOT / 'scripts' / 'business_composition'))
 
 import build_ai_chain_feishu as finance
 import repair_quarter_profit_columns as quarter
+import forecast_quality
+from forecast_quality_sheet import apply_result as apply_quality_result
+from supplement_forecast_reports import fetch as supplement_report
 from business_composition import feishu_client as feishu
 from industry_colors import style_payload as industry_style_payload
 
@@ -359,7 +362,7 @@ def percent_change(old, new):
     old_num, new_num = number(old), number(new)
     if old_num is None or new_num is None or abs(old_num) < 1e-12:
         return None
-    return new_num / old_num - 1
+    return (new_num - old_num) / abs(old_num)
 
 
 def make_changes(code, name, old_row, new_row, idx):
@@ -673,6 +676,7 @@ def prepare():
             (ROOT / 'exports/business_composition/2026-10-08-all.json').read_text())
     }
     output_rows, changes, addition_details = [], [], []
+    quality_audits = []
     q3_actual_count = q4_actual_count = 0
     for _, item in selected.iterrows():
         code = str(item.ts_code)
@@ -737,6 +741,20 @@ def prepare():
         row[idx['数据状态']] = '缺预测：' + ','.join(missing) if missing else 'OK'
         for header, value in quarterly_values(row, idx, income, annual, code).items():
             row[idx[header]] = value
+        quality_result, needs_external = forecast_quality.build(
+            report, income, ASOF, str(l2_name), annual.get(2025))
+        external_check = None
+        if needs_external:
+            external_check = supplement_report({'code': code, 'name': name}, ASOF, WORK / 'external')
+            if external_check['records']:
+                augmented = pd.concat([report, pd.DataFrame(external_check['records'])], ignore_index=True)
+                quality_result, _ = forecast_quality.build(
+                    augmented, income, ASOF, str(l2_name), annual.get(2025))
+        apply_quality_result(row, idx, quality_result)
+        if external_check and external_check['status'] != 'ok':
+            row[idx['数据状态']] += '；外部补查失败，未视为无更新'
+        quality_audits.append({'code': code, 'name': name, 'years': quality_result,
+                               'external_check': external_check})
         if code not in existing and Q4_LOCK_HEADER in idx and quarter_actuals.get('2026Q4') is None:
             row[idx[Q4_LOCK_HEADER]] = row[idx[Q4_NORMAL_HEADER]]
 
@@ -775,6 +793,7 @@ def prepare():
     assert len(payload) == len(before)
     save('payload.json', {'valueRange': {'range': sheet_range(headers, len(before)), 'values': payload}})
     save('forecast_changes.json', changes)
+    save('forecast_quality_audit.json', quality_audits)
     save('additions.json', addition_details)
     save('summary.json', {'asof': ASOF_DISPLAY, 'existing': len(existing), 'added': len(additions),
                           'removed': 0, 'final': len(output_rows), 'additions': addition_details,

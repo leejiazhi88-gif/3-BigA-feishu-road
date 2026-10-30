@@ -1,0 +1,3698 @@
+[
+  {
+    "code": "688825.SH",
+    "rows": 53,
+    "fetched_at": "2026-10-30T16:13:27.836669",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688981.SH",
+    "rows": 297,
+    "fetched_at": "2026-10-30T16:13:27.843060",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688256.SH",
+    "rows": 363,
+    "fetched_at": "2026-10-30T16:13:27.881167",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688041.SH",
+    "rows": 618,
+    "fetched_at": "2026-10-30T16:13:27.892475",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002371.SZ",
+    "rows": 569,
+    "fetched_at": "2026-10-30T16:13:28.026704",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688347.SH",
+    "rows": 91,
+    "fetched_at": "2026-10-30T16:13:27.949749",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688012.SH",
+    "rows": 587,
+    "fetched_at": "2026-10-30T16:13:28.087091",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688008.SH",
+    "rows": 303,
+    "fetched_at": "2026-10-30T16:13:28.062921",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603986.SH",
+    "rows": 465,
+    "fetched_at": "2026-10-30T16:13:28.160526",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688802.SH",
+    "rows": 64,
+    "fetched_at": "2026-10-30T16:13:28.137236",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688801.SH",
+    "rows": 18,
+    "fetched_at": "2026-10-30T16:13:28.177182",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688795.SH",
+    "rows": 63,
+    "fetched_at": "2026-10-30T16:13:28.187001",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688820.SH",
+    "rows": 18,
+    "fetched_at": "2026-10-30T16:13:28.277318",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301666.SZ",
+    "rows": 4,
+    "fetched_at": "2026-10-30T16:13:28.279541",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688072.SH",
+    "rows": 288,
+    "fetched_at": "2026-10-30T16:13:28.323633",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300604.SZ",
+    "rows": 104,
+    "fetched_at": "2026-10-30T16:13:28.309104",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603501.SH",
+    "rows": 343,
+    "fetched_at": "2026-10-30T16:13:28.448632",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301308.SZ",
+    "rows": 113,
+    "fetched_at": "2026-10-30T16:13:28.401295",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600584.SH",
+    "rows": 291,
+    "fetched_at": "2026-10-30T16:13:28.447958",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688498.SH",
+    "rows": 208,
+    "fetched_at": "2026-10-30T16:13:28.455598",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688120.SH",
+    "rows": 194,
+    "fetched_at": "2026-10-30T16:13:28.502023",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688082.SH",
+    "rows": 90,
+    "fetched_at": "2026-10-30T16:13:28.604547",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603893.SH",
+    "rows": 284,
+    "fetched_at": "2026-10-30T16:13:28.547957",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688361.SH",
+    "rows": 181,
+    "fetched_at": "2026-10-30T16:13:28.557309",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301660.SZ",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:28.645110",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688702.SH",
+    "rows": 160,
+    "fetched_at": "2026-10-30T16:13:28.668577",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688146.SH",
+    "rows": 52,
+    "fetched_at": "2026-10-30T16:13:28.667388",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001309.SZ",
+    "rows": 64,
+    "fetched_at": "2026-10-30T16:13:28.719276",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002156.SZ",
+    "rows": 182,
+    "fetched_at": "2026-10-30T16:13:28.768621",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688525.SH",
+    "rows": 135,
+    "fetched_at": "2026-10-30T16:13:28.768583",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688002.SH",
+    "rows": 192,
+    "fetched_at": "2026-10-30T16:13:28.774555",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688396.SH",
+    "rows": 94,
+    "fetched_at": "2026-10-30T16:13:28.820377",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688469.SH",
+    "rows": 81,
+    "fetched_at": "2026-10-30T16:13:28.880811",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300661.SZ",
+    "rows": 159,
+    "fetched_at": "2026-10-30T16:13:28.900251",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688783.SH",
+    "rows": 7,
+    "fetched_at": "2026-10-30T16:13:28.880350",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688249.SH",
+    "rows": 110,
+    "fetched_at": "2026-10-30T16:13:28.941708",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300223.SZ",
+    "rows": 102,
+    "fetched_at": "2026-10-30T16:13:28.989837",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688126.SH",
+    "rows": 53,
+    "fetched_at": "2026-10-30T16:13:29.115932",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688521.SH",
+    "rows": 258,
+    "fetched_at": "2026-10-30T16:13:29.027395",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688729.SH",
+    "rows": 32,
+    "fetched_at": "2026-10-30T16:13:29.109058",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688200.SH",
+    "rows": 226,
+    "fetched_at": "2026-10-30T16:13:29.091482",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688037.SH",
+    "rows": 168,
+    "fetched_at": "2026-10-30T16:13:29.121123",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688809.SH",
+    "rows": 28,
+    "fetched_at": "2026-10-30T16:13:29.183715",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601138.SH",
+    "rows": 463,
+    "fetched_at": "2026-10-30T16:13:29.264943",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002475.SZ",
+    "rows": 343,
+    "fetched_at": "2026-10-30T16:13:29.264235",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300433.SZ",
+    "rows": 368,
+    "fetched_at": "2026-10-30T16:13:29.294208",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603296.SH",
+    "rows": 349,
+    "fetched_at": "2026-10-30T16:13:29.334495",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002600.SZ",
+    "rows": 307,
+    "fetched_at": "2026-10-30T16:13:29.398333",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002241.SZ",
+    "rows": 301,
+    "fetched_at": "2026-10-30T16:13:29.398198",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300857.SZ",
+    "rows": 105,
+    "fetched_at": "2026-10-30T16:13:29.383435",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688036.SH",
+    "rows": 243,
+    "fetched_at": "2026-10-30T16:13:29.455258",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300866.SZ",
+    "rows": 474,
+    "fetched_at": "2026-10-30T16:13:29.548829",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600183.SH",
+    "rows": 362,
+    "fetched_at": "2026-10-30T16:13:29.572658",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002384.SZ",
+    "rows": 251,
+    "fetched_at": "2026-10-30T16:13:29.544356",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002463.SZ",
+    "rows": 467,
+    "fetched_at": "2026-10-30T16:13:29.627696",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002916.SZ",
+    "rows": 357,
+    "fetched_at": "2026-10-30T16:13:29.689508",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300408.SZ",
+    "rows": 198,
+    "fetched_at": "2026-10-30T16:13:29.710966",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300476.SZ",
+    "rows": 349,
+    "fetched_at": "2026-10-30T16:13:29.709412",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002938.SZ",
+    "rows": 321,
+    "fetched_at": "2026-10-30T16:13:29.812239",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001232.SZ",
+    "rows": 16,
+    "fetched_at": "2026-10-30T16:13:29.799385",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603228.SH",
+    "rows": 151,
+    "fetched_at": "2026-10-30T16:13:29.824174",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688183.SH",
+    "rows": 152,
+    "fetched_at": "2026-10-30T16:13:29.824107",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002436.SZ",
+    "rows": 143,
+    "fetched_at": "2026-10-30T16:13:29.914815",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688519.SH",
+    "rows": 85,
+    "fetched_at": "2026-10-30T16:13:29.919019",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001389.SZ",
+    "rows": 83,
+    "fetched_at": "2026-10-30T16:13:29.917760",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000725.SZ",
+    "rows": 248,
+    "fetched_at": "2026-10-30T16:13:29.938374",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001399.SZ",
+    "rows": 7,
+    "fetched_at": "2026-10-30T16:13:30.048462",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000100.SZ",
+    "rows": 186,
+    "fetched_at": "2026-10-30T16:13:30.054004",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300054.SZ",
+    "rows": 311,
+    "fetched_at": "2026-10-30T16:13:30.051158",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300285.SZ",
+    "rows": 328,
+    "fetched_at": "2026-10-30T16:13:30.057614",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300475.SZ",
+    "rows": 80,
+    "fetched_at": "2026-10-30T16:13:30.147972",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000062.SZ",
+    "rows": 6,
+    "fetched_at": "2026-10-30T16:13:30.140282",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002859.SZ",
+    "rows": 163,
+    "fetched_at": "2026-10-30T16:13:30.153088",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601939.SH",
+    "rows": 175,
+    "fetched_at": "2026-10-30T16:13:30.161692",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601398.SH",
+    "rows": 241,
+    "fetched_at": "2026-10-30T16:13:30.254564",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601288.SH",
+    "rows": 222,
+    "fetched_at": "2026-10-30T16:13:30.282167",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601988.SH",
+    "rows": 235,
+    "fetched_at": "2026-10-30T16:13:30.288015",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601328.SH",
+    "rows": 176,
+    "fetched_at": "2026-10-30T16:13:30.272343",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601658.SH",
+    "rows": 328,
+    "fetched_at": "2026-10-30T16:13:30.374003",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600036.SH",
+    "rows": 554,
+    "fetched_at": "2026-10-30T16:13:30.434733",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601998.SH",
+    "rows": 225,
+    "fetched_at": "2026-10-30T16:13:30.419946",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601166.SH",
+    "rows": 382,
+    "fetched_at": "2026-10-30T16:13:30.441179",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600000.SH",
+    "rows": 337,
+    "fetched_at": "2026-10-30T16:13:30.488284",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000001.SZ",
+    "rows": 498,
+    "fetched_at": "2026-10-30T16:13:30.564326",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601818.SH",
+    "rows": 150,
+    "fetched_at": "2026-10-30T16:13:30.534362",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600016.SH",
+    "rows": 47,
+    "fetched_at": "2026-10-30T16:13:30.622024",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600015.SH",
+    "rows": 85,
+    "fetched_at": "2026-10-30T16:13:30.627858",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601916.SH",
+    "rows": 102,
+    "fetched_at": "2026-10-30T16:13:30.671317",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600919.SH",
+    "rows": 394,
+    "fetched_at": "2026-10-30T16:13:30.706808",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002142.SZ",
+    "rows": 581,
+    "fetched_at": "2026-10-30T16:13:30.781450",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601009.SH",
+    "rows": 347,
+    "fetched_at": "2026-10-30T16:13:30.748216",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601229.SH",
+    "rows": 193,
+    "fetched_at": "2026-10-30T16:13:30.787913",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600926.SH",
+    "rows": 478,
+    "fetched_at": "2026-10-30T16:13:30.845779",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601169.SH",
+    "rows": 144,
+    "fetched_at": "2026-10-30T16:13:30.842334",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601838.SH",
+    "rows": 359,
+    "fetched_at": "2026-10-30T16:13:30.939838",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601825.SH",
+    "rows": 187,
+    "fetched_at": "2026-10-30T16:13:30.938108",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601077.SH",
+    "rows": 319,
+    "fetched_at": "2026-10-30T16:13:30.955754",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600030.SH",
+    "rows": 597,
+    "fetched_at": "2026-10-30T16:13:31.001187",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300059.SZ",
+    "rows": 506,
+    "fetched_at": "2026-10-30T16:13:31.110604",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601211.SH",
+    "rows": 418,
+    "fetched_at": "2026-10-30T16:13:31.086817",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601995.SH",
+    "rows": 243,
+    "fetched_at": "2026-10-30T16:13:31.053392",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601066.SH",
+    "rows": 65,
+    "fetched_at": "2026-10-30T16:13:31.110661",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601688.SH",
+    "rows": 388,
+    "fetched_at": "2026-10-30T16:13:31.206953",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000776.SZ",
+    "rows": 375,
+    "fetched_at": "2026-10-30T16:13:31.240823",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600999.SH",
+    "rows": 269,
+    "fetched_at": "2026-10-30T16:13:31.240886",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601881.SH",
+    "rows": 237,
+    "fetched_at": "2026-10-30T16:13:31.223681",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000166.SZ",
+    "rows": 29,
+    "fetched_at": "2026-10-30T16:13:31.295540",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002736.SZ",
+    "rows": 87,
+    "fetched_at": "2026-10-30T16:13:31.321005",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600958.SH",
+    "rows": 304,
+    "fetched_at": "2026-10-30T16:13:31.355829",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601788.SH",
+    "rows": 46,
+    "fetched_at": "2026-10-30T16:13:31.335745",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601628.SH",
+    "rows": 499,
+    "fetched_at": "2026-10-30T16:13:31.516494",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601318.SH",
+    "rows": 641,
+    "fetched_at": "2026-10-30T16:13:31.521903",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601319.SH",
+    "rows": 257,
+    "fetched_at": "2026-10-30T16:13:31.463361",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601601.SH",
+    "rows": 549,
+    "fetched_at": "2026-10-30T16:13:31.521117",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601336.SH",
+    "rows": 517,
+    "fetched_at": "2026-10-30T16:13:31.606742",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000617.SZ",
+    "rows": 24,
+    "fetched_at": "2026-10-30T16:13:31.604618",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600901.SH",
+    "rows": 276,
+    "fetched_at": "2026-10-30T16:13:31.648786",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688235.SH",
+    "rows": 266,
+    "fetched_at": "2026-10-30T16:13:31.672475",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600276.SH",
+    "rows": 568,
+    "fetched_at": "2026-10-30T16:13:31.799599",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688506.SH",
+    "rows": 145,
+    "fetched_at": "2026-10-30T16:13:31.886113",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002653.SZ",
+    "rows": 188,
+    "fetched_at": "2026-10-30T16:13:31.795559",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002422.SZ",
+    "rows": 211,
+    "fetched_at": "2026-10-30T16:13:31.886057",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600196.SH",
+    "rows": 79,
+    "fetched_at": "2026-10-30T16:13:31.994270",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300765.SZ",
+    "rows": 29,
+    "fetched_at": "2026-10-30T16:13:31.977905",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300760.SZ",
+    "rows": 487,
+    "fetched_at": "2026-10-30T16:13:32.055524",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688271.SH",
+    "rows": 497,
+    "fetched_at": "2026-10-30T16:13:32.043414",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603259.SH",
+    "rows": 655,
+    "fetched_at": "2026-10-30T16:13:32.192906",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300015.SZ",
+    "rows": 255,
+    "fetched_at": "2026-10-30T16:13:32.093266",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300759.SZ",
+    "rows": 322,
+    "fetched_at": "2026-10-30T16:13:32.190503",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002821.SZ",
+    "rows": 477,
+    "fetched_at": "2026-10-30T16:13:32.229596",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000538.SZ",
+    "rows": 197,
+    "fetched_at": "2026-10-30T16:13:32.196019",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600436.SH",
+    "rows": 130,
+    "fetched_at": "2026-10-30T16:13:32.313308",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688331.SH",
+    "rows": 204,
+    "fetched_at": "2026-10-30T16:13:32.302007",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603087.SH",
+    "rows": 148,
+    "fetched_at": "2026-10-30T16:13:32.313361",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601607.SH",
+    "rows": 142,
+    "fetched_at": "2026-10-30T16:13:32.381568",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603939.SH",
+    "rows": 278,
+    "fetched_at": "2026-10-30T16:13:32.415219",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600941.SH",
+    "rows": 342,
+    "fetched_at": "2026-10-30T16:13:32.467754",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601728.SH",
+    "rows": 264,
+    "fetched_at": "2026-10-30T16:13:32.465806",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600050.SH",
+    "rows": 254,
+    "fetched_at": "2026-10-30T16:13:32.486230",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300442.SZ",
+    "rows": 205,
+    "fetched_at": "2026-10-30T16:13:32.546433",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300308.SZ",
+    "rows": 676,
+    "fetched_at": "2026-10-30T16:13:32.660709",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300502.SZ",
+    "rows": 370,
+    "fetched_at": "2026-10-30T16:13:32.626027",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601869.SH",
+    "rows": 97,
+    "fetched_at": "2026-10-30T16:13:32.597153",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300394.SZ",
+    "rows": 364,
+    "fetched_at": "2026-10-30T16:13:32.695689",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000063.SZ",
+    "rows": 304,
+    "fetched_at": "2026-10-30T16:13:32.731094",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600487.SH",
+    "rows": 270,
+    "fetched_at": "2026-10-30T16:13:32.748632",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002281.SZ",
+    "rows": 167,
+    "fetched_at": "2026-10-30T16:13:32.777339",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600522.SH",
+    "rows": 201,
+    "fetched_at": "2026-10-30T16:13:32.794147",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301165.SZ",
+    "rows": 156,
+    "fetched_at": "2026-10-30T16:13:32.842564",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300620.SZ",
+    "rows": 54,
+    "fetched_at": "2026-10-30T16:13:32.848305",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603083.SH",
+    "rows": 25,
+    "fetched_at": "2026-10-30T16:13:32.866611",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300750.SZ",
+    "rows": 973,
+    "fetched_at": "2026-10-30T16:13:33.009990",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300014.SZ",
+    "rows": 463,
+    "fetched_at": "2026-10-30T16:13:32.996754",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301217.SZ",
+    "rows": 48,
+    "fetched_at": "2026-10-30T16:13:32.991556",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002709.SZ",
+    "rows": 293,
+    "fetched_at": "2026-10-30T16:13:32.977223",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300450.SZ",
+    "rows": 259,
+    "fetched_at": "2026-10-30T16:13:33.083551",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600406.SH",
+    "rows": 208,
+    "fetched_at": "2026-10-30T16:13:33.091858",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600089.SH",
+    "rows": 117,
+    "fetched_at": "2026-10-30T16:13:33.100874",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002028.SZ",
+    "rows": 500,
+    "fetched_at": "2026-10-30T16:13:33.140304",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601179.SH",
+    "rows": 221,
+    "fetched_at": "2026-10-30T16:13:33.192384",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300274.SZ",
+    "rows": 583,
+    "fetched_at": "2026-10-30T16:13:33.260613",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "605117.SH",
+    "rows": 503,
+    "fetched_at": "2026-10-30T16:13:33.250574",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601012.SH",
+    "rows": 220,
+    "fetched_at": "2026-10-30T16:13:33.250510",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601727.SH",
+    "rows": 32,
+    "fetched_at": "2026-10-30T16:13:33.278298",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600875.SH",
+    "rows": 199,
+    "fetched_at": "2026-10-30T16:13:33.374367",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600482.SH",
+    "rows": 149,
+    "fetched_at": "2026-10-30T16:13:33.373434",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002851.SZ",
+    "rows": 243,
+    "fetched_at": "2026-10-30T16:13:33.385638",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002202.SZ",
+    "rows": 339,
+    "fetched_at": "2026-10-30T16:13:33.428291",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002487.SZ",
+    "rows": 476,
+    "fetched_at": "2026-10-30T16:13:33.549088",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600580.SH",
+    "rows": 81,
+    "fetched_at": "2026-10-30T16:13:33.503885",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301696.SZ",
+    "rows": 2,
+    "fetched_at": "2026-10-30T16:13:33.484375",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688808.SH",
+    "rows": 79,
+    "fetched_at": "2026-10-30T16:13:33.535232",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301377.SZ",
+    "rows": 183,
+    "fetched_at": "2026-10-30T16:13:33.613326",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301689.SZ",
+    "rows": 3,
+    "fetched_at": "2026-10-30T16:13:33.612425",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002353.SZ",
+    "rows": 483,
+    "fetched_at": "2026-10-30T16:13:33.690066",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301200.SZ",
+    "rows": 166,
+    "fetched_at": "2026-10-30T16:13:33.673830",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601091.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:33.720513",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002837.SZ",
+    "rows": 352,
+    "fetched_at": "2026-10-30T16:13:33.778675",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688836.SH",
+    "rows": 18,
+    "fetched_at": "2026-10-30T16:13:33.778617",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300124.SZ",
+    "rows": 462,
+    "fetched_at": "2026-10-30T16:13:33.861286",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000988.SZ",
+    "rows": 195,
+    "fetched_at": "2026-10-30T16:13:34.137006",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688777.SH",
+    "rows": 317,
+    "fetched_at": "2026-10-30T16:13:33.936019",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300757.SZ",
+    "rows": 35,
+    "fetched_at": "2026-10-30T16:13:33.884390",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002008.SZ",
+    "rows": 213,
+    "fetched_at": "2026-10-30T16:13:33.964783",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600031.SH",
+    "rows": 525,
+    "fetched_at": "2026-10-30T16:13:34.063595",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601100.SH",
+    "rows": 608,
+    "fetched_at": "2026-10-30T16:13:34.090254",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000425.SZ",
+    "rows": 439,
+    "fetched_at": "2026-10-30T16:13:34.121479",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601766.SH",
+    "rows": 234,
+    "fetched_at": "2026-10-30T16:13:34.190129",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688187.SH",
+    "rows": 143,
+    "fetched_at": "2026-10-30T16:13:34.190540",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601857.SH",
+    "rows": 322,
+    "fetched_at": "2026-10-30T16:13:34.252836",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600028.SH",
+    "rows": 280,
+    "fetched_at": "2026-10-30T16:13:34.249005",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002493.SZ",
+    "rows": 315,
+    "fetched_at": "2026-10-30T16:13:34.370296",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600346.SH",
+    "rows": 429,
+    "fetched_at": "2026-10-30T16:13:34.371239",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000301.SZ",
+    "rows": 133,
+    "fetched_at": "2026-10-30T16:13:34.368939",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000703.SZ",
+    "rows": 98,
+    "fetched_at": "2026-10-30T16:13:34.387578",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600938.SH",
+    "rows": 433,
+    "fetched_at": "2026-10-30T16:13:34.549476",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600777.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:34.472447",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601808.SH",
+    "rows": 241,
+    "fetched_at": "2026-10-30T16:13:34.511553",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600968.SH",
+    "rows": 130,
+    "fetched_at": "2026-10-30T16:13:34.511226",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600871.SH",
+    "rows": 30,
+    "fetched_at": "2026-10-30T16:13:34.574085",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601899.SH",
+    "rows": 568,
+    "fetched_at": "2026-10-30T16:13:34.692721",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603993.SH",
+    "rows": 514,
+    "fetched_at": "2026-10-30T16:13:34.650676",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002379.SZ",
+    "rows": 51,
+    "fetched_at": "2026-10-30T16:13:34.652094",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601600.SH",
+    "rows": 225,
+    "fetched_at": "2026-10-30T16:13:34.717968",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600362.SH",
+    "rows": 51,
+    "fetched_at": "2026-10-30T16:13:34.776753",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000807.SZ",
+    "rows": 303,
+    "fetched_at": "2026-10-30T16:13:34.787408",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601168.SH",
+    "rows": 282,
+    "fetched_at": "2026-10-30T16:13:34.799320",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000630.SZ",
+    "rows": 55,
+    "fetched_at": "2026-10-30T16:13:34.824482",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000933.SZ",
+    "rows": 309,
+    "fetched_at": "2026-10-30T16:13:34.891455",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600111.SH",
+    "rows": 192,
+    "fetched_at": "2026-10-30T16:13:34.893724",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001280.SZ",
+    "rows": 28,
+    "fetched_at": "2026-10-30T16:13:34.891404",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000657.SZ",
+    "rows": 162,
+    "fetched_at": "2026-10-30T16:13:34.933796",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600549.SH",
+    "rows": 113,
+    "fetched_at": "2026-10-30T16:13:35.089573",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601958.SH",
+    "rows": 83,
+    "fetched_at": "2026-10-30T16:13:34.998116",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600547.SH",
+    "rows": 217,
+    "fetched_at": "2026-10-30T16:13:35.000570",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600489.SH",
+    "rows": 128,
+    "fetched_at": "2026-10-30T16:13:35.089473",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600988.SH",
+    "rows": 366,
+    "fetched_at": "2026-10-30T16:13:35.147221",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000975.SZ",
+    "rows": 312,
+    "fetched_at": "2026-10-30T16:13:35.105933",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002460.SZ",
+    "rows": 185,
+    "fetched_at": "2026-10-30T16:13:35.223878",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002466.SZ",
+    "rows": 164,
+    "fetched_at": "2026-10-30T16:13:35.232332",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603799.SH",
+    "rows": 282,
+    "fetched_at": "2026-10-30T16:13:35.224516",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001246.SZ",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:35.231746",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300748.SZ",
+    "rows": 239,
+    "fetched_at": "2026-10-30T16:13:35.323759",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300811.SZ",
+    "rows": 123,
+    "fetched_at": "2026-10-30T16:13:35.388149",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600900.SH",
+    "rows": 408,
+    "fetched_at": "2026-10-30T16:13:35.364956",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "003816.SZ",
+    "rows": 298,
+    "fetched_at": "2026-10-30T16:13:35.346746",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601985.SH",
+    "rows": 332,
+    "fetched_at": "2026-10-30T16:13:35.470926",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600025.SH",
+    "rows": 253,
+    "fetched_at": "2026-10-30T16:13:35.492104",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600930.SH",
+    "rows": 19,
+    "fetched_at": "2026-10-30T16:13:35.470893",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001248.SZ",
+    "rows": 1,
+    "fetched_at": "2026-10-30T16:13:35.485176",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600886.SH",
+    "rows": 233,
+    "fetched_at": "2026-10-30T16:13:35.588479",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001289.SZ",
+    "rows": 160,
+    "fetched_at": "2026-10-30T16:13:35.600741",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600011.SH",
+    "rows": 414,
+    "fetched_at": "2026-10-30T16:13:35.694914",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600905.SH",
+    "rows": 137,
+    "fetched_at": "2026-10-30T16:13:35.600788",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600795.SH",
+    "rows": 404,
+    "fetched_at": "2026-10-30T16:13:35.741505",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000958.SZ",
+    "rows": 5,
+    "fetched_at": "2026-10-30T16:13:35.698711",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601991.SH",
+    "rows": 224,
+    "fetched_at": "2026-10-30T16:13:35.706844",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600674.SH",
+    "rows": 228,
+    "fetched_at": "2026-10-30T16:13:35.802573",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600236.SH",
+    "rows": 146,
+    "fetched_at": "2026-10-30T16:13:35.802332",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600023.SH",
+    "rows": 109,
+    "fetched_at": "2026-10-30T16:13:35.802881",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600027.SH",
+    "rows": 314,
+    "fetched_at": "2026-10-30T16:13:35.842022",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600803.SH",
+    "rows": 183,
+    "fetched_at": "2026-10-30T16:13:35.926632",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "605090.SH",
+    "rows": 284,
+    "fetched_at": "2026-10-30T16:13:35.915994",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000338.SZ",
+    "rows": 487,
+    "fetched_at": "2026-10-30T16:13:35.964739",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600660.SH",
+    "rows": 421,
+    "fetched_at": "2026-10-30T16:13:36.002760",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601689.SH",
+    "rows": 574,
+    "fetched_at": "2026-10-30T16:13:36.260080",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002594.SZ",
+    "rows": 1317,
+    "fetched_at": "2026-10-30T16:13:36.550252",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600104.SH",
+    "rows": 409,
+    "fetched_at": "2026-10-30T16:13:36.541128",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601633.SH",
+    "rows": 699,
+    "fetched_at": "2026-10-30T16:13:36.546879",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601127.SH",
+    "rows": 522,
+    "fetched_at": "2026-10-30T16:13:36.849123",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000625.SZ",
+    "rows": 527,
+    "fetched_at": "2026-10-30T16:13:37.020257",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600066.SH",
+    "rows": 578,
+    "fetched_at": "2026-10-30T16:13:37.020167",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600418.SH",
+    "rows": 259,
+    "fetched_at": "2026-10-30T16:13:36.843857",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603129.SH",
+    "rows": 380,
+    "fetched_at": "2026-10-30T16:13:37.119864",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601777.SH",
+    "rows": 66,
+    "fetched_at": "2026-10-30T16:13:37.070859",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601965.SH",
+    "rows": 188,
+    "fetched_at": "2026-10-30T16:13:37.139531",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600335.SH",
+    "rows": 3,
+    "fetched_at": "2026-10-30T16:13:37.118173",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600309.SH",
+    "rows": 677,
+    "fetched_at": "2026-10-30T16:13:37.249131",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600160.SH",
+    "rows": 543,
+    "fetched_at": "2026-10-30T16:13:37.263991",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002001.SZ",
+    "rows": 424,
+    "fetched_at": "2026-10-30T16:13:37.337926",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000792.SZ",
+    "rows": 295,
+    "fetched_at": "2026-10-30T16:13:37.247588",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000408.SZ",
+    "rows": 254,
+    "fetched_at": "2026-10-30T16:13:37.366752",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600989.SH",
+    "rows": 637,
+    "fetched_at": "2026-10-30T16:13:37.417642",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002648.SZ",
+    "rows": 673,
+    "fetched_at": "2026-10-30T16:13:37.420390",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688585.SH",
+    "rows": 15,
+    "fetched_at": "2026-10-30T16:13:37.423833",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601208.SH",
+    "rows": 190,
+    "fetched_at": "2026-10-30T16:13:37.454338",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002064.SZ",
+    "rows": 361,
+    "fetched_at": "2026-10-30T16:13:37.602645",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603225.SH",
+    "rows": 373,
+    "fetched_at": "2026-10-30T16:13:37.554716",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688295.SH",
+    "rows": 107,
+    "fetched_at": "2026-10-30T16:13:37.530646",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603650.SH",
+    "rows": 125,
+    "fetched_at": "2026-10-30T16:13:37.600498",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603033.SH",
+    "rows": 6,
+    "fetched_at": "2026-10-30T16:13:37.630707",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688300.SH",
+    "rows": 170,
+    "fetched_at": "2026-10-30T16:13:37.671249",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603688.SH",
+    "rows": 99,
+    "fetched_at": "2026-10-30T16:13:37.739601",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600519.SH",
+    "rows": 1431,
+    "fetched_at": "2026-10-30T16:13:37.861458",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000858.SZ",
+    "rows": 659,
+    "fetched_at": "2026-10-30T16:13:37.793000",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600809.SH",
+    "rows": 717,
+    "fetched_at": "2026-10-30T16:13:37.855454",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000568.SZ",
+    "rows": 597,
+    "fetched_at": "2026-10-30T16:13:37.880270",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600887.SH",
+    "rows": 537,
+    "fetched_at": "2026-10-30T16:13:37.973531",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "605499.SH",
+    "rows": 1102,
+    "fetched_at": "2026-10-30T16:13:38.080679",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603288.SH",
+    "rows": 746,
+    "fetched_at": "2026-10-30T16:13:38.054123",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600298.SH",
+    "rows": 563,
+    "fetched_at": "2026-10-30T16:13:38.053363",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000895.SZ",
+    "rows": 206,
+    "fetched_at": "2026-10-30T16:13:38.068003",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603345.SH",
+    "rows": 672,
+    "fetched_at": "2026-10-30T16:13:38.232896",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600600.SH",
+    "rows": 717,
+    "fetched_at": "2026-10-30T16:13:38.250250",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000729.SZ",
+    "rows": 747,
+    "fetched_at": "2026-10-30T16:13:38.232121",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002847.SZ",
+    "rows": 707,
+    "fetched_at": "2026-10-30T16:13:38.243099",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002557.SZ",
+    "rows": 549,
+    "fetched_at": "2026-10-30T16:13:38.424071",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300033.SZ",
+    "rows": 437,
+    "fetched_at": "2026-10-30T16:13:38.385909",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688111.SH",
+    "rows": 612,
+    "fetched_at": "2026-10-30T16:13:38.424173",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002230.SZ",
+    "rows": 278,
+    "fetched_at": "2026-10-30T16:13:38.365808",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601360.SH",
+    "rows": 27,
+    "fetched_at": "2026-10-30T16:13:38.466443",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300454.SZ",
+    "rows": 322,
+    "fetched_at": "2026-10-30T16:13:38.502802",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000938.SZ",
+    "rows": 272,
+    "fetched_at": "2026-10-30T16:13:38.574519",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301638.SZ",
+    "rows": 10,
+    "fetched_at": "2026-10-30T16:13:38.523719",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002415.SZ",
+    "rows": 348,
+    "fetched_at": "2026-10-30T16:13:38.631249",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603019.SH",
+    "rows": 243,
+    "fetched_at": "2026-10-30T16:13:38.630002",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000977.SZ",
+    "rows": 334,
+    "fetched_at": "2026-10-30T16:13:38.665797",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601919.SH",
+    "rows": 149,
+    "fetched_at": "2026-10-30T16:13:38.683814",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601872.SH",
+    "rows": 349,
+    "fetched_at": "2026-10-30T16:13:38.775351",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600018.SH",
+    "rows": 36,
+    "fetched_at": "2026-10-30T16:13:38.740542",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600026.SH",
+    "rows": 303,
+    "fetched_at": "2026-10-30T16:13:38.823715",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601018.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:38.772023",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601298.SH",
+    "rows": 122,
+    "fetched_at": "2026-10-30T16:13:38.835322",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001872.SZ",
+    "rows": 85,
+    "fetched_at": "2026-10-30T16:13:38.882515",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601816.SH",
+    "rows": 192,
+    "fetched_at": "2026-10-30T16:13:38.893359",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601006.SH",
+    "rows": 168,
+    "fetched_at": "2026-10-30T16:13:38.941172",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001965.SZ",
+    "rows": 215,
+    "fetched_at": "2026-10-30T16:13:38.941289",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600377.SH",
+    "rows": 148,
+    "fetched_at": "2026-10-30T16:13:39.001631",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002352.SZ",
+    "rows": 421,
+    "fetched_at": "2026-10-30T16:13:39.047479",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600233.SH",
+    "rows": 322,
+    "fetched_at": "2026-10-30T16:13:39.095685",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601111.SH",
+    "rows": 219,
+    "fetched_at": "2026-10-30T16:13:39.048647",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600029.SH",
+    "rows": 203,
+    "fetched_at": "2026-10-30T16:13:39.126377",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600115.SH",
+    "rows": 142,
+    "fetched_at": "2026-10-30T16:13:39.152975",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "302132.SZ",
+    "rows": 49,
+    "fetched_at": "2026-10-30T16:13:39.152222",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600760.SH",
+    "rows": 250,
+    "fetched_at": "2026-10-30T16:13:39.207390",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600893.SH",
+    "rows": 186,
+    "fetched_at": "2026-10-30T16:13:39.220379",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000768.SZ",
+    "rows": 232,
+    "fetched_at": "2026-10-30T16:13:39.256202",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002179.SZ",
+    "rows": 223,
+    "fetched_at": "2026-10-30T16:13:39.259460",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002414.SZ",
+    "rows": 63,
+    "fetched_at": "2026-10-30T16:13:39.314040",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600150.SH",
+    "rows": 273,
+    "fetched_at": "2026-10-30T16:13:39.328936",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603268.SH",
+    "rows": 106,
+    "fetched_at": "2026-10-30T16:13:39.357835",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601698.SH",
+    "rows": 5,
+    "fetched_at": "2026-10-30T16:13:39.355793",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688818.SH",
+    "rows": 44,
+    "fetched_at": "2026-10-30T16:13:39.441363",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600118.SH",
+    "rows": 24,
+    "fetched_at": "2026-10-30T16:13:39.441532",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600967.SH",
+    "rows": 81,
+    "fetched_at": "2026-10-30T16:13:39.454672",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601606.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:39.451536",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601088.SH",
+    "rows": 718,
+    "fetched_at": "2026-10-30T16:13:39.646891",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601225.SH",
+    "rows": 322,
+    "fetched_at": "2026-10-30T16:13:39.639021",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600188.SH",
+    "rows": 384,
+    "fetched_at": "2026-10-30T16:13:39.641381",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601898.SH",
+    "rows": 490,
+    "fetched_at": "2026-10-30T16:13:39.634679",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002128.SZ",
+    "rows": 223,
+    "fetched_at": "2026-10-30T16:13:39.746834",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000723.SZ",
+    "rows": 12,
+    "fetched_at": "2026-10-30T16:13:39.745797",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600740.SH",
+    "rows": 21,
+    "fetched_at": "2026-10-30T16:13:39.725052",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000333.SZ",
+    "rows": 660,
+    "fetched_at": "2026-10-30T16:13:39.815714",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000651.SZ",
+    "rows": 448,
+    "fetched_at": "2026-10-30T16:13:39.887600",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600690.SH",
+    "rows": 628,
+    "fetched_at": "2026-10-30T16:13:39.909297",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002050.SZ",
+    "rows": 429,
+    "fetched_at": "2026-10-30T16:13:39.917207",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600619.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:39.916060",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002290.SZ",
+    "rows": 54,
+    "fetched_at": "2026-10-30T16:13:39.995370",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002032.SZ",
+    "rows": 463,
+    "fetched_at": "2026-10-30T16:13:40.077219",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688169.SH",
+    "rows": 548,
+    "fetched_at": "2026-10-30T16:13:40.109430",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603486.SH",
+    "rows": 506,
+    "fetched_at": "2026-10-30T16:13:40.070523",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600060.SH",
+    "rows": 539,
+    "fetched_at": "2026-10-30T16:13:40.177986",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002429.SZ",
+    "rows": 132,
+    "fetched_at": "2026-10-30T16:13:40.205770",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603303.SH",
+    "rows": 30,
+    "fetched_at": "2026-10-30T16:13:40.170805",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603515.SH",
+    "rows": 134,
+    "fetched_at": "2026-10-30T16:13:40.231102",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301362.SZ",
+    "rows": 48,
+    "fetched_at": "2026-10-30T16:13:40.317945",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002508.SZ",
+    "rows": 250,
+    "fetched_at": "2026-10-30T16:13:40.294018",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603366.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:40.297809",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300911.SZ",
+    "rows": 42,
+    "fetched_at": "2026-10-30T16:13:40.317998",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002614.SZ",
+    "rows": 26,
+    "fetched_at": "2026-10-30T16:13:40.396114",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603579.SH",
+    "rows": 85,
+    "fetched_at": "2026-10-30T16:13:40.443871",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601390.SH",
+    "rows": 284,
+    "fetched_at": "2026-10-30T16:13:40.445079",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601868.SH",
+    "rows": 182,
+    "fetched_at": "2026-10-30T16:13:40.444694",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601800.SH",
+    "rows": 224,
+    "fetched_at": "2026-10-30T16:13:40.506645",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601186.SH",
+    "rows": 175,
+    "fetched_at": "2026-10-30T16:13:40.579583",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601669.SH",
+    "rows": 158,
+    "fetched_at": "2026-10-30T16:13:40.552607",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600039.SH",
+    "rows": 241,
+    "fetched_at": "2026-10-30T16:13:40.544775",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601618.SH",
+    "rows": 133,
+    "fetched_at": "2026-10-30T16:13:40.602478",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601117.SH",
+    "rows": 247,
+    "fetched_at": "2026-10-30T16:13:40.666818",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601668.SH",
+    "rows": 325,
+    "fetched_at": "2026-10-30T16:13:40.677757",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600170.SH",
+    "rows": 66,
+    "fetched_at": "2026-10-30T16:13:40.700511",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600667.SH",
+    "rows": 18,
+    "fetched_at": "2026-10-30T16:13:40.712093",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600629.SH",
+    "rows": 8,
+    "fetched_at": "2026-10-30T16:13:40.768546",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601886.SH",
+    "rows": 244,
+    "fetched_at": "2026-10-30T16:13:40.777126",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002081.SZ",
+    "rows": 45,
+    "fetched_at": "2026-10-30T16:13:40.800457",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002602.SZ",
+    "rows": 155,
+    "fetched_at": "2026-10-30T16:13:40.833281",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300418.SZ",
+    "rows": 143,
+    "fetched_at": "2026-10-30T16:13:40.900370",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601928.SH",
+    "rows": 79,
+    "fetched_at": "2026-10-30T16:13:40.900313",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601811.SH",
+    "rows": 22,
+    "fetched_at": "2026-10-30T16:13:40.900167",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002027.SZ",
+    "rows": 404,
+    "fetched_at": "2026-10-30T16:13:41.000661",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300058.SZ",
+    "rows": 65,
+    "fetched_at": "2026-10-30T16:13:41.011035",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300251.SZ",
+    "rows": 208,
+    "fetched_at": "2026-10-30T16:13:41.002013",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600977.SH",
+    "rows": 71,
+    "fetched_at": "2026-10-30T16:13:40.997928",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300413.SZ",
+    "rows": 429,
+    "fetched_at": "2026-10-30T16:13:41.125619",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603000.SH",
+    "rows": 6,
+    "fetched_at": "2026-10-30T16:13:41.092004",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600637.SH",
+    "rows": 16,
+    "fetched_at": "2026-10-30T16:13:41.085379",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600959.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:41.120983",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002714.SZ",
+    "rows": 599,
+    "fetched_at": "2026-10-30T16:13:41.244764",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300498.SZ",
+    "rows": 469,
+    "fetched_at": "2026-10-30T16:13:41.236480",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300999.SZ",
+    "rows": 100,
+    "fetched_at": "2026-10-30T16:13:41.223398",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600737.SH",
+    "rows": 21,
+    "fetched_at": "2026-10-30T16:13:41.220693",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002311.SZ",
+    "rows": 369,
+    "fetched_at": "2026-10-30T16:13:41.381448",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000876.SZ",
+    "rows": 57,
+    "fetched_at": "2026-10-30T16:13:41.339467",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600598.SH",
+    "rows": 30,
+    "fetched_at": "2026-10-30T16:13:41.339376",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601118.SH",
+    "rows": 27,
+    "fetched_at": "2026-10-30T16:13:41.342469",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600201.SH",
+    "rows": 75,
+    "fetched_at": "2026-10-30T16:13:41.483820",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300119.SZ",
+    "rows": 213,
+    "fetched_at": "2026-10-30T16:13:41.478631",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000592.SZ",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:41.441212",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600265.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:41.476355",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600467.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:41.535962",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000798.SZ",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:41.560558",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002556.SZ",
+    "rows": 33,
+    "fetched_at": "2026-10-30T16:13:41.564504",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300021.SZ",
+    "rows": 3,
+    "fetched_at": "2026-10-30T16:13:41.585092",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600176.SH",
+    "rows": 667,
+    "fetched_at": "2026-10-30T16:13:41.694773",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "301526.SZ",
+    "rows": 25,
+    "fetched_at": "2026-10-30T16:13:41.656379",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603256.SH",
+    "rows": 88,
+    "fetched_at": "2026-10-30T16:13:41.670807",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002080.SZ",
+    "rows": 243,
+    "fetched_at": "2026-10-30T16:13:41.693597",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600585.SH",
+    "rows": 359,
+    "fetched_at": "2026-10-30T16:13:41.809073",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600801.SH",
+    "rows": 419,
+    "fetched_at": "2026-10-30T16:13:41.851975",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000786.SZ",
+    "rows": 508,
+    "fetched_at": "2026-10-30T16:13:41.853638",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002271.SZ",
+    "rows": 375,
+    "fetched_at": "2026-10-30T16:13:41.853682",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001979.SZ",
+    "rows": 449,
+    "fetched_at": "2026-10-30T16:13:41.953275",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600048.SH",
+    "rows": 454,
+    "fetched_at": "2026-10-30T16:13:41.988828",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001914.SZ",
+    "rows": 359,
+    "fetched_at": "2026-10-30T16:13:41.986231",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000560.SZ",
+    "rows": 117,
+    "fetched_at": "2026-10-30T16:13:41.952062",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603195.SH",
+    "rows": 351,
+    "fetched_at": "2026-10-30T16:13:42.099772",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603816.SH",
+    "rows": 384,
+    "fetched_at": "2026-10-30T16:13:42.099812",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002831.SZ",
+    "rows": 344,
+    "fetched_at": "2026-10-30T16:13:42.116627",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "003018.SZ",
+    "rows": 32,
+    "fetched_at": "2026-10-30T16:13:42.096382",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002078.SZ",
+    "rows": 506,
+    "fetched_at": "2026-10-30T16:13:42.286336",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603733.SH",
+    "rows": 156,
+    "fetched_at": "2026-10-30T16:13:42.221627",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603899.SH",
+    "rows": 439,
+    "fetched_at": "2026-10-30T16:13:42.263345",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002348.SZ",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:42.245401",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600415.SH",
+    "rows": 579,
+    "fetched_at": "2026-10-30T16:13:42.393549",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300972.SZ",
+    "rows": 543,
+    "fetched_at": "2026-10-30T16:13:42.420013",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601061.SH",
+    "rows": 18,
+    "fetched_at": "2026-10-30T16:13:42.355335",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600710.SH",
+    "rows": 153,
+    "fetched_at": "2026-10-30T16:13:42.418860",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603613.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:42.452615",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002315.SZ",
+    "rows": 286,
+    "fetched_at": "2026-10-30T16:13:42.499964",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002024.SZ",
+    "rows": 1,
+    "fetched_at": "2026-10-30T16:13:42.508623",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "601888.SH",
+    "rows": 626,
+    "fetched_at": "2026-10-30T16:13:42.578507",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600185.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:42.546793",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002416.SZ",
+    "rows": 84,
+    "fetched_at": "2026-10-30T16:13:42.596201",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000829.SZ",
+    "rows": 6,
+    "fetched_at": "2026-10-30T16:13:42.601518",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600019.SH",
+    "rows": 128,
+    "fetched_at": "2026-10-30T16:13:42.652998",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600010.SH",
+    "rows": 36,
+    "fetched_at": "2026-10-30T16:13:42.660288",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000708.SZ",
+    "rows": 138,
+    "fetched_at": "2026-10-30T16:13:42.703200",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600282.SH",
+    "rows": 151,
+    "fetched_at": "2026-10-30T16:13:42.715506",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600295.SH",
+    "rows": 12,
+    "fetched_at": "2026-10-30T16:13:42.748147",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "001203.SZ",
+    "rows": 88,
+    "fetched_at": "2026-10-30T16:13:42.754573",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603568.SH",
+    "rows": 156,
+    "fetched_at": "2026-10-30T16:13:42.867867",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600323.SH",
+    "rows": 329,
+    "fetched_at": "2026-10-30T16:13:42.892360",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002266.SZ",
+    "rows": 81,
+    "fetched_at": "2026-10-30T16:13:42.854376",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603588.SH",
+    "rows": 216,
+    "fetched_at": "2026-10-30T16:13:42.852163",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600388.SH",
+    "rows": 268,
+    "fetched_at": "2026-10-30T16:13:42.959038",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000967.SZ",
+    "rows": 54,
+    "fetched_at": "2026-10-30T16:13:42.950817",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600177.SH",
+    "rows": 42,
+    "fetched_at": "2026-10-30T16:13:42.962440",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600398.SH",
+    "rows": 456,
+    "fetched_at": "2026-10-30T16:13:43.040959",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300979.SZ",
+    "rows": 723,
+    "fetched_at": "2026-10-30T16:13:43.106730",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002003.SZ",
+    "rows": 514,
+    "fetched_at": "2026-10-30T16:13:43.122326",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600612.SH",
+    "rows": 244,
+    "fetched_at": "2026-10-30T16:13:43.069938",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600916.SH",
+    "rows": 42,
+    "fetched_at": "2026-10-30T16:13:43.138883",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300012.SZ",
+    "rows": 392,
+    "fetched_at": "2026-10-30T16:13:43.231190",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002967.SZ",
+    "rows": 291,
+    "fetched_at": "2026-10-30T16:13:43.219862",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300144.SZ",
+    "rows": 228,
+    "fetched_at": "2026-10-30T16:13:43.354006",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603099.SH",
+    "rows": 158,
+    "fetched_at": "2026-10-30T16:13:43.245027",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002607.SZ",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:43.338536",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300192.SZ",
+    "rows": 27,
+    "fetched_at": "2026-10-30T16:13:43.339953",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600754.SH",
+    "rows": 291,
+    "fetched_at": "2026-10-30T16:13:43.354273",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600258.SH",
+    "rows": 414,
+    "fetched_at": "2026-10-30T16:13:43.513092",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600158.SH",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:43.462664",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "002858.SZ",
+    "rows": 58,
+    "fetched_at": "2026-10-30T16:13:43.462871",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "603605.SH",
+    "rows": 571,
+    "fetched_at": "2026-10-30T16:13:43.514312",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300957.SZ",
+    "rows": 335,
+    "fetched_at": "2026-10-30T16:13:43.625869",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300888.SZ",
+    "rows": 436,
+    "fetched_at": "2026-10-30T16:13:43.625568",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "003006.SZ",
+    "rows": 552,
+    "fetched_at": "2026-10-30T16:13:43.664807",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "300896.SZ",
+    "rows": 500,
+    "fetched_at": "2026-10-30T16:13:43.665478",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "920982.BJ",
+    "rows": 377,
+    "fetched_at": "2026-10-30T16:13:43.780909",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "688363.SH",
+    "rows": 268,
+    "fetched_at": "2026-10-30T16:13:43.754955",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "600673.SH",
+    "rows": 90,
+    "fetched_at": "2026-10-30T16:13:43.780270",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  },
+  {
+    "code": "000833.SZ",
+    "rows": 0,
+    "fetched_at": "2026-10-30T16:13:43.765194",
+    "endpoint": "report_rc",
+    "asof": "20261029",
+    "status": "ok"
+  }
+]

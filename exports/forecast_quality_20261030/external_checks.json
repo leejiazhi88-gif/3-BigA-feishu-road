@@ -1,0 +1,3232 @@
+[
+  {
+    "code": "688802.SH",
+    "name": "沐曦股份",
+    "checked_at": "2026-10-30T16:17:08.429581",
+    "reports": [
+      {
+        "date": "20261009",
+        "org": "华鑫证券",
+        "title": "公司动态研究报告：GPU出货放量推动业绩提升，国产算力生态卡位加速兑现",
+        "url": "https://data.eastmoney.com/report/info/AP202610091830233035.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260917",
+        "org": "中邮证券",
+        "title": "沐光逐算，曦启芯程",
+        "url": "https://data.eastmoney.com/report/info/AP202609171829499762.html",
+        "parsed": true,
+        "excerpt": "预计公司2026/2027/2028年分别实现收入38/86/196亿元，归母净利润分别为2.7/25/85亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "688802.SH",
+        "report_date": "20260917",
+        "org_name": "中邮证券",
+        "quarter": "2026Q4",
+        "np": 27000.0,
+        "report_title": "沐光逐算，曦启芯程",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609171829499762.html"
+      },
+      {
+        "ts_code": "688802.SH",
+        "report_date": "20260917",
+        "org_name": "中邮证券",
+        "quarter": "2027Q4",
+        "np": 250000.0,
+        "report_title": "沐光逐算，曦启芯程",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609171829499762.html"
+      },
+      {
+        "ts_code": "688802.SH",
+        "report_date": "20260917",
+        "org_name": "中邮证券",
+        "quarter": "2028Q4",
+        "np": 850000.0,
+        "report_title": "沐光逐算，曦启芯程",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609171829499762.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "688795.SH",
+    "name": "摩尔线程",
+    "checked_at": "2026-10-30T16:17:08.429786",
+    "reports": [
+      {
+        "date": "20260822",
+        "org": "国金证券",
+        "title": "全功能GPU领军迈入规模化增长阶段",
+        "url": "https://data.eastmoney.com/report/info/AP202608221828313285.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260813",
+        "org": "中邮证券",
+        "title": "词元时代，万物智能",
+        "url": "https://data.eastmoney.com/report/info/AP202608131827941896.html",
+        "parsed": true,
+        "excerpt": "预计公司2026/2027/2028年分别实现收入35/60/90亿元，分别实现归母净利润-1.5/6.3/17.2亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "688795.SH",
+        "report_date": "20260813",
+        "org_name": "中邮证券",
+        "quarter": "2026Q4",
+        "np": -15000.0,
+        "report_title": "词元时代，万物智能",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608131827941896.html"
+      },
+      {
+        "ts_code": "688795.SH",
+        "report_date": "20260813",
+        "org_name": "中邮证券",
+        "quarter": "2027Q4",
+        "np": 63000.0,
+        "report_title": "词元时代，万物智能",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608131827941896.html"
+      },
+      {
+        "ts_code": "688795.SH",
+        "report_date": "20260813",
+        "org_name": "中邮证券",
+        "quarter": "2028Q4",
+        "np": 172000.0,
+        "report_title": "词元时代，万物智能",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608131827941896.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "301666.SZ",
+    "name": "大普微",
+    "checked_at": "2026-10-30T16:17:08.429929",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "688072.SH",
+    "name": "拓荆科技",
+    "checked_at": "2026-10-30T16:17:08.430004",
+    "reports": [
+      {
+        "date": "20260902",
+        "org": "山西证券",
+        "title": "先进产品放量收入高增，盈利能力显著提升",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828919710.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260827",
+        "org": "东海证券",
+        "title": "公司简评报告：先进制程放量带动营收高增，薄膜沉积+三维集成协同并进",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828547295.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年归母净利润分别为20.39、29.78、39.29亿元"
+      },
+      {
+        "date": "20260823",
+        "org": "东吴证券",
+        "title": "2026年中报点评：业绩高速增长，薄膜&先进封装设备加速放量",
+        "url": "https://data.eastmoney.com/report/info/AP202608231828345566.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "688072.SH",
+        "report_date": "20260827",
+        "org_name": "东海证券",
+        "quarter": "2026Q4",
+        "np": 203900.0,
+        "report_title": "公司简评报告：先进制程放量带动营收高增，薄膜沉积+三维集成协同并进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828547295.html"
+      },
+      {
+        "ts_code": "688072.SH",
+        "report_date": "20260827",
+        "org_name": "东海证券",
+        "quarter": "2027Q4",
+        "np": 297800.0,
+        "report_title": "公司简评报告：先进制程放量带动营收高增，薄膜沉积+三维集成协同并进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828547295.html"
+      },
+      {
+        "ts_code": "688072.SH",
+        "report_date": "20260827",
+        "org_name": "东海证券",
+        "quarter": "2028Q4",
+        "np": 392900.0,
+        "report_title": "公司简评报告：先进制程放量带动营收高增，薄膜沉积+三维集成协同并进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828547295.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "688082.SH",
+    "name": "盛美上海",
+    "checked_at": "2026-10-30T16:17:08.562404",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "688361.SH",
+    "name": "中科飞测",
+    "checked_at": "2026-10-30T16:17:08.696612",
+    "reports": [
+      {
+        "date": "20260831",
+        "org": "东吴证券",
+        "title": "2026年中报点评：短期盈利承压，明暗场已实现批量销售",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828815574.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "301660.SZ",
+    "name": "粤芯半导体",
+    "checked_at": "2026-10-30T16:17:08.957882",
+    "reports": [
+      {
+        "date": "20261013",
+        "org": "华金证券",
+        "title": "新股覆盖研究：粤芯半导体",
+        "url": "https://data.eastmoney.com/report/info/AP202610131830399331.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "001309.SZ",
+    "name": "德明利",
+    "checked_at": "2026-10-30T16:17:08.966558",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "688469.SH",
+    "name": "芯联集成",
+    "checked_at": "2026-10-30T16:17:09.024118",
+    "reports": [
+      {
+        "date": "20260817",
+        "org": "国信证券",
+        "title": "2Q26扣非归母净利润转正，AI业务收入上半年同比增长84%",
+        "url": "https://data.eastmoney.com/report/info/AP202608171828042193.html",
+        "parsed": true,
+        "excerpt": "预计26-28年公司有望实现归母净利润6.01/8.34/17.15亿元"
+      },
+      {
+        "date": "20260812",
+        "org": "山西证券",
+        "title": "毛利率大幅提升，迎来盈利拐点",
+        "url": "https://data.eastmoney.com/report/info/AP202608121827908353.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "688469.SH",
+        "report_date": "20260817",
+        "org_name": "国信证券",
+        "quarter": "2026Q4",
+        "np": 60100.0,
+        "report_title": "2Q26扣非归母净利润转正，AI业务收入上半年同比增长84%",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608171828042193.html"
+      },
+      {
+        "ts_code": "688469.SH",
+        "report_date": "20260817",
+        "org_name": "国信证券",
+        "quarter": "2027Q4",
+        "np": 83400.0,
+        "report_title": "2Q26扣非归母净利润转正，AI业务收入上半年同比增长84%",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608171828042193.html"
+      },
+      {
+        "ts_code": "688469.SH",
+        "report_date": "20260817",
+        "org_name": "国信证券",
+        "quarter": "2028Q4",
+        "np": 171500.0,
+        "report_title": "2Q26扣非归母净利润转正，AI业务收入上半年同比增长84%",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608171828042193.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "688783.SH",
+    "name": "西安奕材",
+    "checked_at": "2026-10-30T16:17:09.182961",
+    "reports": [
+      {
+        "date": "20260830",
+        "org": "国信证券",
+        "title": "二季度毛利率同环比提高，预计年底月产能达120万片",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828740904.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年毛利率逐年提高，归母净利润分别为-4.73/-2.23/+0.63亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "688783.SH",
+        "report_date": "20260830",
+        "org_name": "国信证券",
+        "quarter": "2026Q4",
+        "np": -47300.00000000001,
+        "report_title": "二季度毛利率同环比提高，预计年底月产能达120万片",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828740904.html"
+      },
+      {
+        "ts_code": "688783.SH",
+        "report_date": "20260830",
+        "org_name": "国信证券",
+        "quarter": "2027Q4",
+        "np": -22300.0,
+        "report_title": "二季度毛利率同环比提高，预计年底月产能达120万片",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828740904.html"
+      },
+      {
+        "ts_code": "688783.SH",
+        "report_date": "20260830",
+        "org_name": "国信证券",
+        "quarter": "2028Q4",
+        "np": 6300.0,
+        "report_title": "二季度毛利率同环比提高，预计年底月产能达120万片",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828740904.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "688126.SH",
+    "name": "沪硅产业",
+    "checked_at": "2026-10-30T16:17:09.225811",
+    "reports": [
+      {
+        "date": "20260902",
+        "org": "国信证券",
+        "title": "二季度收入创季度新高，300mm硅片价格企稳回暖",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828907961.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260901",
+        "org": "中银证券",
+        "title": "硅片景气度触底，看好2026下半年价格改善",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828877354.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "688521.SH",
+    "name": "芯原股份",
+    "checked_at": "2026-10-30T16:17:09.228094",
+    "reports": [
+      {
+        "date": "20260929",
+        "org": "群益证券",
+        "title": "端侧需求将爆发，IP龙头估值低",
+        "url": "https://data.eastmoney.com/report/info/AP202609291829996066.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260818",
+        "org": "国金证券",
+        "title": "AIASIC订单高速增长，量产服务放量驱动收入高增",
+        "url": "https://data.eastmoney.com/report/info/AP202608181828082440.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "688037.SH",
+    "name": "芯源微",
+    "checked_at": "2026-10-30T16:17:09.484381",
+    "reports": [
+      {
+        "date": "20260827",
+        "org": "东吴证券",
+        "title": "2026年中报点评：营收稳步增长，看好公司前后道设备加速放量&突破",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828548797.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "002600.SZ",
+    "name": "领益智造",
+    "checked_at": "2026-10-30T16:17:09.524985",
+    "reports": [
+      {
+        "date": "20261026",
+        "org": "东吴证券",
+        "title": "精密制造平台卡位AI硬件，多终端共振释放品类复利",
+        "url": "https://data.eastmoney.com/report/info/AP202610261830909549.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年营业收入将分别达到640.3/802.7/1021.5亿元，归母净利润达到29.3/44.9/62.3亿元"
+      },
+      {
+        "date": "20260901",
+        "org": "开源证券",
+        "title": "公司信息更新报告：2026H1业绩符合预期，机器人/AI散热/AIDC电源加速放量",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828890690.html",
+        "parsed": true,
+        "excerpt": "预测，预计公司2026/2027/2028年归母净利润为30.06/42.58/55.77亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "002600.SZ",
+        "report_date": "20261026",
+        "org_name": "东吴证券",
+        "quarter": "2026Q4",
+        "np": 293000.0,
+        "report_title": "精密制造平台卡位AI硬件，多终端共振释放品类复利",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610261830909549.html"
+      },
+      {
+        "ts_code": "002600.SZ",
+        "report_date": "20261026",
+        "org_name": "东吴证券",
+        "quarter": "2027Q4",
+        "np": 449000.0,
+        "report_title": "精密制造平台卡位AI硬件，多终端共振释放品类复利",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610261830909549.html"
+      },
+      {
+        "ts_code": "002600.SZ",
+        "report_date": "20261026",
+        "org_name": "东吴证券",
+        "quarter": "2028Q4",
+        "np": 623000.0,
+        "report_title": "精密制造平台卡位AI硬件，多终端共振释放品类复利",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610261830909549.html"
+      },
+      {
+        "ts_code": "002600.SZ",
+        "report_date": "20260901",
+        "org_name": "开源证券",
+        "quarter": "2026Q4",
+        "np": 300600.0,
+        "report_title": "公司信息更新报告：2026H1业绩符合预期，机器人/AI散热/AIDC电源加速放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828890690.html"
+      },
+      {
+        "ts_code": "002600.SZ",
+        "report_date": "20260901",
+        "org_name": "开源证券",
+        "quarter": "2027Q4",
+        "np": 425800.0,
+        "report_title": "公司信息更新报告：2026H1业绩符合预期，机器人/AI散热/AIDC电源加速放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828890690.html"
+      },
+      {
+        "ts_code": "002600.SZ",
+        "report_date": "20260901",
+        "org_name": "开源证券",
+        "quarter": "2028Q4",
+        "np": 557700.0,
+        "report_title": "公司信息更新报告：2026H1业绩符合预期，机器人/AI散热/AIDC电源加速放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828890690.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "688519.SH",
+    "name": "南亚新材",
+    "checked_at": "2026-10-30T16:17:09.805780",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "001399.SZ",
+    "name": "惠科股份",
+    "checked_at": "2026-10-30T16:17:09.854514",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "000062.SZ",
+    "name": "深圳华强",
+    "checked_at": "2026-10-30T16:17:09.916599",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "002859.SZ",
+    "name": "洁美科技",
+    "checked_at": "2026-10-30T16:17:09.966923",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600016.SH",
+    "name": "民生银行",
+    "checked_at": "2026-10-30T16:17:10.063353",
+    "reports": [
+      {
+        "date": "20260913",
+        "org": "太平洋",
+        "title": "民生银行2026年中报点评：不良处置力度加大，财富中收高增",
+        "url": "https://data.eastmoney.com/report/info/AP202609131829339464.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年营业收入为1,508.87、1,546.66、1,589.79亿元，归母净利润为289.87、297.71、302.55亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600016.SH",
+        "report_date": "20260913",
+        "org_name": "太平洋",
+        "quarter": "2026Q4",
+        "np": 2898700.0,
+        "report_title": "民生银行2026年中报点评：不良处置力度加大，财富中收高增",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609131829339464.html"
+      },
+      {
+        "ts_code": "600016.SH",
+        "report_date": "20260913",
+        "org_name": "太平洋",
+        "quarter": "2027Q4",
+        "np": 2977100.0,
+        "report_title": "民生银行2026年中报点评：不良处置力度加大，财富中收高增",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609131829339464.html"
+      },
+      {
+        "ts_code": "600016.SH",
+        "report_date": "20260913",
+        "org_name": "太平洋",
+        "quarter": "2028Q4",
+        "np": 3025500.0,
+        "report_title": "民生银行2026年中报点评：不良处置力度加大，财富中收高增",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609131829339464.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "000166.SZ",
+    "name": "申万宏源",
+    "checked_at": "2026-10-30T16:17:10.069100",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "601628.SH",
+    "name": "中国人寿",
+    "checked_at": "2026-10-30T16:17:10.112186",
+    "reports": [
+      {
+        "date": "20260828",
+        "org": "国信证券",
+        "title": "中报点评：投资收益靓丽，价值增长强劲",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828623910.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260828",
+        "org": "开源证券",
+        "title": "中国人寿2026年中报点评：业绩和NBV表现优异，高股息资产增配明显",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828618305.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260828",
+        "org": "东吴证券",
+        "title": "2026年中报点评：归母净利润与NBV增速领先，资负两端表现均亮眼",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828565665.html",
+        "parsed": true,
+        "excerpt": "预测与投资评级：结合公司上半年经营情况，我们维持此前盈利预测，预计公司2026-2028年归母净利润分别为1706/1733/1830亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "601628.SH",
+        "report_date": "20260828",
+        "org_name": "东吴证券",
+        "quarter": "2026Q4",
+        "np": 17060000.0,
+        "report_title": "2026年中报点评：归母净利润与NBV增速领先，资负两端表现均亮眼",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828565665.html"
+      },
+      {
+        "ts_code": "601628.SH",
+        "report_date": "20260828",
+        "org_name": "东吴证券",
+        "quarter": "2027Q4",
+        "np": 17330000.0,
+        "report_title": "2026年中报点评：归母净利润与NBV增速领先，资负两端表现均亮眼",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828565665.html"
+      },
+      {
+        "ts_code": "601628.SH",
+        "report_date": "20260828",
+        "org_name": "东吴证券",
+        "quarter": "2028Q4",
+        "np": 18300000.0,
+        "report_title": "2026年中报点评：归母净利润与NBV增速领先，资负两端表现均亮眼",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828565665.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "688506.SH",
+    "name": "百利天恒",
+    "checked_at": "2026-10-30T16:17:10.196179",
+    "reports": [
+      {
+        "date": "20261028",
+        "org": "东吴证券",
+        "title": "Iza-bren三期数据亮眼，一线联合拓展持续推进",
+        "url": "https://data.eastmoney.com/report/info/AP202610281831047829.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260828",
+        "org": "开源证券",
+        "title": "公司信息更新报告：宜泽康商业化元年开启，核心管线进入全球加速期",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828632569.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "688271.SH",
+    "name": "联影医疗",
+    "checked_at": "2026-10-30T16:17:10.196623",
+    "reports": [
+      {
+        "date": "20261029",
+        "org": "群益证券",
+        "title": "Q3收入稳步增长，净利端有恢复",
+        "url": "https://data.eastmoney.com/report/info/AP202610291831171547.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260901",
+        "org": "中邮证券",
+        "title": "业绩稳健增长，产品高端化与营销全球化进入加速兑现期",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828893124.html",
+        "parsed": true,
+        "excerpt": "预计预计公司2026-2028年营业收入分别为166.5/202.8/246.0亿元，归母净利润分别为23.6/30.3/35.8亿元"
+      },
+      {
+        "date": "20260831",
+        "org": "东吴证券",
+        "title": "国产高端医疗影像设备龙头，全球化成效凸显",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828820018.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260827",
+        "org": "国信证券",
+        "title": "收入增长稳健，海外业务高速增长",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828514846.html",
+        "parsed": true,
+        "excerpt": "预测，预计2026-2028年营收160.8/184.1/211.1亿元，同比增速16.5%/14.5%/14.7%，归母净利润24.3/28.0/33.0亿元"
+      },
+      {
+        "date": "20260824",
+        "org": "西南证券",
+        "title": "2026年中报点评：五大产品线全面开花，海外表现亮眼",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828366322.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260821",
+        "org": "开源证券",
+        "title": "公司信息更新报告：公司产品竞争力持续提升，海外收入快速增长",
+        "url": "https://data.eastmoney.com/report/info/AP202608211828283670.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260821",
+        "org": "太平洋",
+        "title": "联影医疗：26Q2环比改善，海外持续高增",
+        "url": "https://data.eastmoney.com/report/info/AP202608211828261098.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260821",
+        "org": "招银国际",
+        "title": "Robust overseas growth offset soft domestic demand",
+        "url": "https://data.eastmoney.com/report/info/AP202608211828243585.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "688271.SH",
+        "report_date": "20260901",
+        "org_name": "中邮证券",
+        "quarter": "2026Q4",
+        "np": 236000.0,
+        "report_title": "业绩稳健增长，产品高端化与营销全球化进入加速兑现期",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828893124.html"
+      },
+      {
+        "ts_code": "688271.SH",
+        "report_date": "20260901",
+        "org_name": "中邮证券",
+        "quarter": "2027Q4",
+        "np": 303000.0,
+        "report_title": "业绩稳健增长，产品高端化与营销全球化进入加速兑现期",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828893124.html"
+      },
+      {
+        "ts_code": "688271.SH",
+        "report_date": "20260901",
+        "org_name": "中邮证券",
+        "quarter": "2028Q4",
+        "np": 358000.0,
+        "report_title": "业绩稳健增长，产品高端化与营销全球化进入加速兑现期",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828893124.html"
+      },
+      {
+        "ts_code": "688271.SH",
+        "report_date": "20260827",
+        "org_name": "国信证券",
+        "quarter": "2026Q4",
+        "np": 243000.0,
+        "report_title": "收入增长稳健，海外业务高速增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828514846.html"
+      },
+      {
+        "ts_code": "688271.SH",
+        "report_date": "20260827",
+        "org_name": "国信证券",
+        "quarter": "2027Q4",
+        "np": 280000.0,
+        "report_title": "收入增长稳健，海外业务高速增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828514846.html"
+      },
+      {
+        "ts_code": "688271.SH",
+        "report_date": "20260827",
+        "org_name": "国信证券",
+        "quarter": "2028Q4",
+        "np": 330000.0,
+        "report_title": "收入增长稳健，海外业务高速增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828514846.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 9
+  },
+  {
+    "code": "300015.SZ",
+    "name": "爱尔眼科",
+    "checked_at": "2026-10-30T16:17:10.515123",
+    "reports": [
+      {
+        "date": "20260830",
+        "org": "国信证券",
+        "title": "26H1收入平稳增长，门诊量及手术量持续提升",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828732145.html",
+        "parsed": true,
+        "excerpt": "预计2026-2028年归母净利润30.42/42.91/49.75亿元"
+      },
+      {
+        "date": "20260828",
+        "org": "开源证券",
+        "title": "公司信息更新报告：2026年上半年业绩波动，屈光业务较快增长",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828633523.html",
+        "parsed": true,
+        "excerpt": "预测（原预测为37.18亿元），维持2027-2028年盈利预测，预计公司2026-2028年归母净利润为26.62/41.94/48.06亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "300015.SZ",
+        "report_date": "20260830",
+        "org_name": "国信证券",
+        "quarter": "2026Q4",
+        "np": 304200.0,
+        "report_title": "26H1收入平稳增长，门诊量及手术量持续提升",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828732145.html"
+      },
+      {
+        "ts_code": "300015.SZ",
+        "report_date": "20260830",
+        "org_name": "国信证券",
+        "quarter": "2027Q4",
+        "np": 429099.99999999994,
+        "report_title": "26H1收入平稳增长，门诊量及手术量持续提升",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828732145.html"
+      },
+      {
+        "ts_code": "300015.SZ",
+        "report_date": "20260830",
+        "org_name": "国信证券",
+        "quarter": "2028Q4",
+        "np": 497500.0,
+        "report_title": "26H1收入平稳增长，门诊量及手术量持续提升",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828732145.html"
+      },
+      {
+        "ts_code": "300015.SZ",
+        "report_date": "20260828",
+        "org_name": "开源证券",
+        "quarter": "2026Q4",
+        "np": 266200.0,
+        "report_title": "公司信息更新报告：2026年上半年业绩波动，屈光业务较快增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828633523.html"
+      },
+      {
+        "ts_code": "300015.SZ",
+        "report_date": "20260828",
+        "org_name": "开源证券",
+        "quarter": "2027Q4",
+        "np": 419400.0,
+        "report_title": "公司信息更新报告：2026年上半年业绩波动，屈光业务较快增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828633523.html"
+      },
+      {
+        "ts_code": "300015.SZ",
+        "report_date": "20260828",
+        "org_name": "开源证券",
+        "quarter": "2028Q4",
+        "np": 480600.0,
+        "report_title": "公司信息更新报告：2026年上半年业绩波动，屈光业务较快增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828633523.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "688331.SH",
+    "name": "荣昌生物",
+    "checked_at": "2026-10-30T16:17:10.826631",
+    "reports": [
+      {
+        "date": "20260904",
+        "org": "东海证券",
+        "title": "公司简评报告：业绩亮眼，研发国际化加速推进",
+        "url": "https://data.eastmoney.com/report/info/AP202609041828987490.html",
+        "parsed": true,
+        "excerpt": "预测不变，预计公司2026-2028年实现归母净利润分别为39.09/6.22/13.03亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "688331.SH",
+        "report_date": "20260904",
+        "org_name": "东海证券",
+        "quarter": "2026Q4",
+        "np": 390900.00000000006,
+        "report_title": "公司简评报告：业绩亮眼，研发国际化加速推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609041828987490.html"
+      },
+      {
+        "ts_code": "688331.SH",
+        "report_date": "20260904",
+        "org_name": "东海证券",
+        "quarter": "2027Q4",
+        "np": 62200.0,
+        "report_title": "公司简评报告：业绩亮眼，研发国际化加速推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609041828987490.html"
+      },
+      {
+        "ts_code": "688331.SH",
+        "report_date": "20260904",
+        "org_name": "东海证券",
+        "quarter": "2028Q4",
+        "np": 130300.0,
+        "report_title": "公司简评报告：业绩亮眼，研发国际化加速推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609041828987490.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "603083.SH",
+    "name": "剑桥科技",
+    "checked_at": "2026-10-30T16:17:10.911734",
+    "reports": [
+      {
+        "date": "20260904",
+        "org": "华鑫证券",
+        "title": "公司事件点评报告：扩产支撑光模块订单快速增长，前瞻布局光互联新技术",
+        "url": "https://data.eastmoney.com/report/info/AP202609041828988148.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "600089.SH",
+    "name": "特变电工",
+    "checked_at": "2026-10-30T16:17:11.065435",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "002851.SZ",
+    "name": "麦格米特",
+    "checked_at": "2026-10-30T16:17:11.162165",
+    "reports": [
+      {
+        "date": "20260910",
+        "org": "国信证券",
+        "title": "上半年业绩同比增长45%，AI电源进入交付兑现期",
+        "url": "https://data.eastmoney.com/report/info/AP202609101829204196.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260828",
+        "org": "东吴证券",
+        "title": "2026年中报点评：AIDC全栈布局迎来放量，全球化成长势能加速释放",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828630535.html",
+        "parsed": true,
+        "excerpt": "预测与投资评级：我们维持公司26-28年归母净利润8.0/16.1/25.6亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "002851.SZ",
+        "report_date": "20260828",
+        "org_name": "东吴证券",
+        "quarter": "2026Q4",
+        "np": 80000.0,
+        "report_title": "2026年中报点评：AIDC全栈布局迎来放量，全球化成长势能加速释放",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828630535.html"
+      },
+      {
+        "ts_code": "002851.SZ",
+        "report_date": "20260828",
+        "org_name": "东吴证券",
+        "quarter": "2027Q4",
+        "np": 161000.0,
+        "report_title": "2026年中报点评：AIDC全栈布局迎来放量，全球化成长势能加速释放",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828630535.html"
+      },
+      {
+        "ts_code": "002851.SZ",
+        "report_date": "20260828",
+        "org_name": "东吴证券",
+        "quarter": "2028Q4",
+        "np": 256000.0,
+        "report_title": "2026年中报点评：AIDC全栈布局迎来放量，全球化成长势能加速释放",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828630535.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "600580.SH",
+    "name": "卧龙电驱",
+    "checked_at": "2026-10-30T16:17:11.191829",
+    "reports": [
+      {
+        "date": "20260903",
+        "org": "国元证券",
+        "title": "2026年半年报点评：业绩短期承压，业务长期向好",
+        "url": "https://data.eastmoney.com/report/info/AP202609031828967898.html",
+        "parsed": true,
+        "excerpt": "预测我们预计公司2026-2028年营收分别为167.83/181.70/195.46亿元，归母净利润分别为12.16/13.47/14.68亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600580.SH",
+        "report_date": "20260903",
+        "org_name": "国元证券",
+        "quarter": "2026Q4",
+        "np": 121600.0,
+        "report_title": "2026年半年报点评：业绩短期承压，业务长期向好",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609031828967898.html"
+      },
+      {
+        "ts_code": "600580.SH",
+        "report_date": "20260903",
+        "org_name": "国元证券",
+        "quarter": "2027Q4",
+        "np": 134700.0,
+        "report_title": "2026年半年报点评：业绩短期承压，业务长期向好",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609031828967898.html"
+      },
+      {
+        "ts_code": "600580.SH",
+        "report_date": "20260903",
+        "org_name": "国元证券",
+        "quarter": "2028Q4",
+        "np": 146800.0,
+        "report_title": "2026年半年报点评：业绩短期承压，业务长期向好",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609031828967898.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "301696.SZ",
+    "name": "三瑞智能",
+    "checked_at": "2026-10-30T16:17:11.340438",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "601091.SH",
+    "name": "沈鼓集团",
+    "checked_at": "2026-10-30T16:17:11.681063",
+    "reports": [
+      {
+        "date": "20260915",
+        "org": "华金证券",
+        "title": "新股覆盖研究：沈鼓集团",
+        "url": "https://data.eastmoney.com/report/info/AP202609151829418764.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "002837.SZ",
+    "name": "英维克",
+    "checked_at": "2026-10-30T16:17:11.740439",
+    "reports": [
+      {
+        "date": "20261027",
+        "org": "开源证券",
+        "title": "公司信息更新报告：盈利能力持续改善，合同负债和存货大幅提升预示后续收入弹性",
+        "url": "https://data.eastmoney.com/report/info/AP202610271830973314.html",
+        "parsed": true,
+        "excerpt": "预测，预计其2026-2028年归母净利润为11.1/21.2/33.9亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "002837.SZ",
+        "report_date": "20261027",
+        "org_name": "开源证券",
+        "quarter": "2026Q4",
+        "np": 111000.0,
+        "report_title": "公司信息更新报告：盈利能力持续改善，合同负债和存货大幅提升预示后续收入弹性",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271830973314.html"
+      },
+      {
+        "ts_code": "002837.SZ",
+        "report_date": "20261027",
+        "org_name": "开源证券",
+        "quarter": "2027Q4",
+        "np": 212000.0,
+        "report_title": "公司信息更新报告：盈利能力持续改善，合同负债和存货大幅提升预示后续收入弹性",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271830973314.html"
+      },
+      {
+        "ts_code": "002837.SZ",
+        "report_date": "20261027",
+        "org_name": "开源证券",
+        "quarter": "2028Q4",
+        "np": 339000.0,
+        "report_title": "公司信息更新报告：盈利能力持续改善，合同负债和存货大幅提升预示后续收入弹性",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271830973314.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "688777.SH",
+    "name": "中控技术",
+    "checked_at": "2026-10-30T16:17:11.777841",
+    "reports": [
+      {
+        "date": "20261029",
+        "org": "东吴证券",
+        "title": "中控技术：从流程工业自动化龙头到工业AI先锋，TPT开启自主运行新范式",
+        "url": "https://data.eastmoney.com/report/info/AP202610291831166899.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260909",
+        "org": "山西证券",
+        "title": "传统主业短期承压，工业AI快速放量",
+        "url": "https://data.eastmoney.com/report/info/AP202609091829174570.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260907",
+        "org": "西南证券",
+        "title": "2026年中报点评：26H1主业筑底企稳，工业AI规模化放量",
+        "url": "https://data.eastmoney.com/report/info/AP202609071829104024.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年归母净利润为6.93/8.96/11.08亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "688777.SH",
+        "report_date": "20260907",
+        "org_name": "西南证券",
+        "quarter": "2026Q4",
+        "np": 69300.0,
+        "report_title": "2026年中报点评：26H1主业筑底企稳，工业AI规模化放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609071829104024.html"
+      },
+      {
+        "ts_code": "688777.SH",
+        "report_date": "20260907",
+        "org_name": "西南证券",
+        "quarter": "2027Q4",
+        "np": 89600.00000000001,
+        "report_title": "2026年中报点评：26H1主业筑底企稳，工业AI规模化放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609071829104024.html"
+      },
+      {
+        "ts_code": "688777.SH",
+        "report_date": "20260907",
+        "org_name": "西南证券",
+        "quarter": "2028Q4",
+        "np": 110800.0,
+        "report_title": "2026年中报点评：26H1主业筑底企稳，工业AI规模化放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609071829104024.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "600777.SH",
+    "name": "新潮能源",
+    "checked_at": "2026-10-30T16:17:12.074539",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600871.SH",
+    "name": "石化油服",
+    "checked_at": "2026-10-30T16:17:12.213077",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "000630.SZ",
+    "name": "铜陵有色",
+    "checked_at": "2026-10-30T16:17:12.340204",
+    "reports": [
+      {
+        "date": "20260902",
+        "org": "国信证券",
+        "title": "受益于高铜价盈利增长，米拉多二期继续延期",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828915281.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "600547.SH",
+    "name": "山东黄金",
+    "checked_at": "2026-10-30T16:17:12.645048",
+    "reports": [
+      {
+        "date": "20260902",
+        "org": "国信证券",
+        "title": "半年报点评：二季度业绩表现亮眼，多项扩能改造工程有序推进",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828909661.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260901",
+        "org": "华龙证券",
+        "title": "2026半年报点评报告：金价中枢震荡向上，增量项目有望增厚利润",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828888892.html",
+        "parsed": true,
+        "excerpt": "预测，预计公司2026-2028年分别实现归母净利润89.19/119.01/133.09亿元"
+      },
+      {
+        "date": "20260831",
+        "org": "东吴证券",
+        "title": "2026年中报点评：Q2利润环比高增，矿产金成本显著优化",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828750335.html",
+        "parsed": true,
+        "excerpt": "预测与投资评级：我们预计2026-2028年公司有望实现归母净利润85/127.2/146.0亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600547.SH",
+        "report_date": "20260901",
+        "org_name": "华龙证券",
+        "quarter": "2026Q4",
+        "np": 891900.0,
+        "report_title": "2026半年报点评报告：金价中枢震荡向上，增量项目有望增厚利润",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828888892.html"
+      },
+      {
+        "ts_code": "600547.SH",
+        "report_date": "20260901",
+        "org_name": "华龙证券",
+        "quarter": "2027Q4",
+        "np": 1190100.0,
+        "report_title": "2026半年报点评报告：金价中枢震荡向上，增量项目有望增厚利润",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828888892.html"
+      },
+      {
+        "ts_code": "600547.SH",
+        "report_date": "20260901",
+        "org_name": "华龙证券",
+        "quarter": "2028Q4",
+        "np": 1330900.0,
+        "report_title": "2026半年报点评报告：金价中枢震荡向上，增量项目有望增厚利润",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828888892.html"
+      },
+      {
+        "ts_code": "600547.SH",
+        "report_date": "20260831",
+        "org_name": "东吴证券",
+        "quarter": "2026Q4",
+        "np": 850000.0,
+        "report_title": "2026年中报点评：Q2利润环比高增，矿产金成本显著优化",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828750335.html"
+      },
+      {
+        "ts_code": "600547.SH",
+        "report_date": "20260831",
+        "org_name": "东吴证券",
+        "quarter": "2027Q4",
+        "np": 1272000.0,
+        "report_title": "2026年中报点评：Q2利润环比高增，矿产金成本显著优化",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828750335.html"
+      },
+      {
+        "ts_code": "600547.SH",
+        "report_date": "20260831",
+        "org_name": "东吴证券",
+        "quarter": "2028Q4",
+        "np": 1460000.0,
+        "report_title": "2026年中报点评：Q2利润环比高增，矿产金成本显著优化",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828750335.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "001246.SZ",
+    "name": "力勤资源",
+    "checked_at": "2026-10-30T16:17:12.663324",
+    "reports": [
+      {
+        "date": "20260930",
+        "org": "华金证券",
+        "title": "新股覆盖研究：力勤资源",
+        "url": "https://data.eastmoney.com/report/info/AP202609301830035035.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "001248.SZ",
+    "name": "华润新能源",
+    "checked_at": "2026-10-30T16:17:12.745924",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600905.SH",
+    "name": "三峡能源",
+    "checked_at": "2026-10-30T16:17:12.838716",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "000958.SZ",
+    "name": "电投产融",
+    "checked_at": "2026-10-30T16:17:13.000019",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600023.SH",
+    "name": "浙能电力",
+    "checked_at": "2026-10-30T16:17:13.012383",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "601633.SH",
+    "name": "长城汽车",
+    "checked_at": "2026-10-30T16:17:13.028760",
+    "reports": [
+      {
+        "date": "20260827",
+        "org": "东吴证券",
+        "title": "2026半年报点评：业绩符合我们预期，出口销量占比创新高",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828544782.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260826",
+        "org": "国金证券",
+        "title": "2026Q2业绩符合预告中值，出口&新车周期加速",
+        "url": "https://data.eastmoney.com/report/info/AP202608261828447849.html",
+        "parsed": true,
+        "excerpt": "预测、估值与评级我们预计公司2026-2028年归母净利润分别为91/127/160亿元"
+      },
+      {
+        "date": "20260826",
+        "org": "招银国际",
+        "title": "2H26 earnings inflection with attractive valuation",
+        "url": "https://data.eastmoney.com/report/info/AP202608261828447784.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "601633.SH",
+        "report_date": "20260826",
+        "org_name": "国金证券",
+        "quarter": "2026Q4",
+        "np": 910000.0,
+        "report_title": "2026Q2业绩符合预告中值，出口&新车周期加速",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608261828447849.html"
+      },
+      {
+        "ts_code": "601633.SH",
+        "report_date": "20260826",
+        "org_name": "国金证券",
+        "quarter": "2027Q4",
+        "np": 1270000.0,
+        "report_title": "2026Q2业绩符合预告中值，出口&新车周期加速",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608261828447849.html"
+      },
+      {
+        "ts_code": "601633.SH",
+        "report_date": "20260826",
+        "org_name": "国金证券",
+        "quarter": "2028Q4",
+        "np": 1600000.0,
+        "report_title": "2026Q2业绩符合预告中值，出口&新车周期加速",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608261828447849.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "601127.SH",
+    "name": "赛力斯",
+    "checked_at": "2026-10-30T16:17:13.123824",
+    "reports": [
+      {
+        "date": "20260902",
+        "org": "西南证券",
+        "title": "2026半年报点评：短期业绩承压，静待经营拐点兑现",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828905697.html",
+        "parsed": true,
+        "excerpt": "预测与投资建议：我们预计公司2026-2028年归母净利润分别为11.3/42.6/59.8亿元"
+      },
+      {
+        "date": "20260824",
+        "org": "东吴证券",
+        "title": "2026年半年报点评：资产减值影响当期利润，管理层表态推进问界差异化经营",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828376381.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260822",
+        "org": "交银国际证券",
+        "title": "2Q换代压力集中释放，2H26关注毛利率修复；下调盈利预测及目标价",
+        "url": "https://data.eastmoney.com/report/info/AP202608221828330248.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "601127.SH",
+        "report_date": "20260902",
+        "org_name": "西南证券",
+        "quarter": "2026Q4",
+        "np": 113000.0,
+        "report_title": "2026半年报点评：短期业绩承压，静待经营拐点兑现",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828905697.html"
+      },
+      {
+        "ts_code": "601127.SH",
+        "report_date": "20260902",
+        "org_name": "西南证券",
+        "quarter": "2027Q4",
+        "np": 426000.0,
+        "report_title": "2026半年报点评：短期业绩承压，静待经营拐点兑现",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828905697.html"
+      },
+      {
+        "ts_code": "601127.SH",
+        "report_date": "20260902",
+        "org_name": "西南证券",
+        "quarter": "2028Q4",
+        "np": 598000.0,
+        "report_title": "2026半年报点评：短期业绩承压，静待经营拐点兑现",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828905697.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "000625.SZ",
+    "name": "长安汽车",
+    "checked_at": "2026-10-30T16:17:13.167759",
+    "reports": [
+      {
+        "date": "20260901",
+        "org": "国元证券",
+        "title": "2026年半年度报告点评：智能化向全栈化拓展，海外本土化持续推进",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828874526.html",
+        "parsed": true,
+        "excerpt": "预测我们预计公司2026-2028年营业收入分别为1753.37/1980.18/2135.29亿元，归母净利润分别为49.02/62.83/85.96亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "000625.SZ",
+        "report_date": "20260901",
+        "org_name": "国元证券",
+        "quarter": "2026Q4",
+        "np": 490200.00000000006,
+        "report_title": "2026年半年度报告点评：智能化向全栈化拓展，海外本土化持续推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828874526.html"
+      },
+      {
+        "ts_code": "000625.SZ",
+        "report_date": "20260901",
+        "org_name": "国元证券",
+        "quarter": "2027Q4",
+        "np": 628300.0,
+        "report_title": "2026年半年度报告点评：智能化向全栈化拓展，海外本土化持续推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828874526.html"
+      },
+      {
+        "ts_code": "000625.SZ",
+        "report_date": "20260901",
+        "org_name": "国元证券",
+        "quarter": "2028Q4",
+        "np": 859599.9999999999,
+        "report_title": "2026年半年度报告点评：智能化向全栈化拓展，海外本土化持续推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828874526.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "600418.SH",
+    "name": "江淮汽车",
+    "checked_at": "2026-10-30T16:17:13.482164",
+    "reports": [
+      {
+        "date": "20260824",
+        "org": "东吴证券",
+        "title": "2026年半年报点评：环比减亏，静待尊界新车放量",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828376939.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "688585.SH",
+    "name": "上纬新材",
+    "checked_at": "2026-10-30T16:17:13.616607",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "603033.SH",
+    "name": "三维股份",
+    "checked_at": "2026-10-30T16:17:13.765461",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600887.SH",
+    "name": "伊利股份",
+    "checked_at": "2026-10-30T16:17:13.802603",
+    "reports": [
+      {
+        "date": "20260922",
+        "org": "东吴证券",
+        "title": "藏器于身，待时而动",
+        "url": "https://data.eastmoney.com/report/info/AP202609221829756156.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260910",
+        "org": "中银证券",
+        "title": "资产减值影响利润表现，整体经营稳健向上",
+        "url": "https://data.eastmoney.com/report/info/AP202609101829235590.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260909",
+        "org": "诚通证券",
+        "title": "公司跟踪：核心品类继续保持领先，商誉减值拖累报表利润",
+        "url": "https://data.eastmoney.com/report/info/AP202609091829180600.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260902",
+        "org": "山西证券",
+        "title": "核心经营改善兑现，多品类打开盈利空间",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828919398.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260902",
+        "org": "国信证券",
+        "title": "经营利润率提升，重视投资者回报",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828915436.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260902",
+        "org": "国元证券",
+        "title": "伊利股份2026年中报点评：基本盘稳健，短期减值扰动利润率",
+        "url": "https://data.eastmoney.com/report/info/AP202609021828900035.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260901",
+        "org": "西南证券",
+        "title": "2026中报点评：液奶企稳冷饮提速，减值拖累Q2利润",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828846950.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260831",
+        "org": "开源证券",
+        "title": "公司信息更新报告：主业稳健增长，减值拖累短期业绩",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828756164.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260828",
+        "org": "交银国际证券",
+        "title": "1H26业绩受减值拖累，管理层维持全年指引；下调盈利预测和目标价，维持买入",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828592270.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260827",
+        "org": "群益证券",
+        "title": "主业稳定，液奶延续修复，减值落地下半年轻装上阵",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828530671.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 10
+  },
+  {
+    "code": "600600.SH",
+    "name": "青岛啤酒",
+    "checked_at": "2026-10-30T16:17:13.895974",
+    "reports": [
+      {
+        "date": "20260908",
+        "org": "东海证券",
+        "title": "公司简评报告：销量承压，结构升级延续",
+        "url": "https://data.eastmoney.com/report/info/AP202609081829113430.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260906",
+        "org": "万联证券",
+        "title": "2026年中期业绩点评报告：销量短期承压，产品结构升级减缓利润下滑",
+        "url": "https://data.eastmoney.com/report/info/AP202609061829078968.html",
+        "parsed": true,
+        "excerpt": "预测与投资建议：考虑总量销量仍承压，我们下调此前盈利预测，预计公司2026-2028年归母净利润为47.20/49.17/50.78亿元"
+      },
+      {
+        "date": "20260901",
+        "org": "西南证券",
+        "title": "2026中报点评：26Q2销量承压，结构升级带动盈利提升",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828846597.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260830",
+        "org": "国信证券",
+        "title": "2026H1量减价稳，中高端产品展现增长韧性",
+        "url": "https://data.eastmoney.com/report/info/AP202608301828740905.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260828",
+        "org": "国元证券",
+        "title": "青岛啤酒2026年中报点评：销量小幅承压，产品结构优化",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828584629.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260827",
+        "org": "东吴证券",
+        "title": "2026年中报点评：销量有所承压，盈利保持稳健",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828528258.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600600.SH",
+        "report_date": "20260906",
+        "org_name": "万联证券",
+        "quarter": "2026Q4",
+        "np": 472000.0,
+        "report_title": "2026年中期业绩点评报告：销量短期承压，产品结构升级减缓利润下滑",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609061829078968.html"
+      },
+      {
+        "ts_code": "600600.SH",
+        "report_date": "20260906",
+        "org_name": "万联证券",
+        "quarter": "2027Q4",
+        "np": 491700.0,
+        "report_title": "2026年中期业绩点评报告：销量短期承压，产品结构升级减缓利润下滑",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609061829078968.html"
+      },
+      {
+        "ts_code": "600600.SH",
+        "report_date": "20260906",
+        "org_name": "万联证券",
+        "quarter": "2028Q4",
+        "np": 507800.0,
+        "report_title": "2026年中期业绩点评报告：销量短期承压，产品结构升级减缓利润下滑",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609061829078968.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 6
+  },
+  {
+    "code": "000729.SZ",
+    "name": "燕京啤酒",
+    "checked_at": "2026-10-30T16:17:13.965748",
+    "reports": [
+      {
+        "date": "20261029",
+        "org": "华龙证券",
+        "title": "2026年三季报业绩点评报告：业绩延续稳健增长，盈利能力持续提升",
+        "url": "https://data.eastmoney.com/report/info/AP202610291831184998.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260927",
+        "org": "太平洋",
+        "title": "燕京啤酒：U8大单品持续引领，降本控费高质量增长",
+        "url": "https://data.eastmoney.com/report/info/AP202609271829936264.html",
+        "parsed": true,
+        "excerpt": "预计2026-2028年收入161.9/169.3/176.7亿元，同比+5.6%/+4.6%/+4.4%，归母净利润20.0/23.3/26.1亿元"
+      },
+      {
+        "date": "20260901",
+        "org": "东海证券",
+        "title": "公司简评报告：公司运营效率持续优化，U8全国化稳步推进",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828883704.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260827",
+        "org": "东吴证券",
+        "title": "2026年中报点评：U8延续强劲增势，净利率持续抬升",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828541932.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260826",
+        "org": "西南证券",
+        "title": "2026年中报点评：大单品延续强劲表现，26Q2实现量价齐升",
+        "url": "https://data.eastmoney.com/report/info/AP202608261828474739.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260824",
+        "org": "国信证券",
+        "title": "2026H1结构升级延续，降本控费成效显著",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828373560.html",
+        "parsed": true,
+        "excerpt": "预测：预计2026-2028年公司实现营业总收入161.2/169.3/177.2亿元（前预测值160.8/168.4/176.1亿元），实现归母净利润21.1/23.9/27.1亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "000729.SZ",
+        "report_date": "20260927",
+        "org_name": "太平洋",
+        "quarter": "2026Q4",
+        "np": 200000.0,
+        "report_title": "燕京啤酒：U8大单品持续引领，降本控费高质量增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609271829936264.html"
+      },
+      {
+        "ts_code": "000729.SZ",
+        "report_date": "20260927",
+        "org_name": "太平洋",
+        "quarter": "2027Q4",
+        "np": 233000.0,
+        "report_title": "燕京啤酒：U8大单品持续引领，降本控费高质量增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609271829936264.html"
+      },
+      {
+        "ts_code": "000729.SZ",
+        "report_date": "20260927",
+        "org_name": "太平洋",
+        "quarter": "2028Q4",
+        "np": 261000.0,
+        "report_title": "燕京啤酒：U8大单品持续引领，降本控费高质量增长",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609271829936264.html"
+      },
+      {
+        "ts_code": "000729.SZ",
+        "report_date": "20260824",
+        "org_name": "国信证券",
+        "quarter": "2026Q4",
+        "np": 211000.0,
+        "report_title": "2026H1结构升级延续，降本控费成效显著",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828373560.html"
+      },
+      {
+        "ts_code": "000729.SZ",
+        "report_date": "20260824",
+        "org_name": "国信证券",
+        "quarter": "2027Q4",
+        "np": 239000.0,
+        "report_title": "2026H1结构升级延续，降本控费成效显著",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828373560.html"
+      },
+      {
+        "ts_code": "000729.SZ",
+        "report_date": "20260824",
+        "org_name": "国信证券",
+        "quarter": "2028Q4",
+        "np": 271000.0,
+        "report_title": "2026H1结构升级延续，降本控费成效显著",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828373560.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 6
+  },
+  {
+    "code": "002230.SZ",
+    "name": "科大讯飞",
+    "checked_at": "2026-10-30T16:17:14.165674",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "601360.SH",
+    "name": "三六零",
+    "checked_at": "2026-10-30T16:17:14.272636",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "301638.SZ",
+    "name": "南网数字",
+    "checked_at": "2026-10-30T16:17:14.386325",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600026.SH",
+    "name": "中远海能",
+    "checked_at": "2026-10-30T16:17:14.503904",
+    "reports": [
+      {
+        "date": "20261029",
+        "org": "国金证券",
+        "title": "油运高景气延续，海能业绩走强",
+        "url": "https://data.eastmoney.com/report/info/AP202610291831149706.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20261007",
+        "org": "北京智研科信咨询",
+        "title": "中远海能深度研究报告：油轮船队155艘/2257.6万载重吨，运力规模世界第一",
+        "url": "https://data.eastmoney.com/report/info/AP202610061830166237.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260923",
+        "org": "中银证券",
+        "title": "油气双轮构筑壁垒，长协运力驱动成长",
+        "url": "https://data.eastmoney.com/report/info/AP202609231829795346.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 4
+  },
+  {
+    "code": "601018.SH",
+    "name": "宁波港",
+    "checked_at": "2026-10-30T16:17:15.139604",
+    "reports": [
+      {
+        "date": "20260901",
+        "org": "西南证券",
+        "title": "2026年半年报点评：打造世界级港口集群，主营业务利润稳健",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828891233.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "601006.SH",
+    "name": "大秦铁路",
+    "checked_at": "2026-10-30T16:17:15.300493",
+    "reports": [
+      {
+        "date": "20260821",
+        "org": "国金证券",
+        "title": "业绩改善，煤炭运量增长，非煤业务承压",
+        "url": "https://data.eastmoney.com/report/info/AP202608211828240199.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "601111.SH",
+    "name": "中国国航",
+    "checked_at": "2026-10-30T16:17:15.371923",
+    "reports": [
+      {
+        "date": "20260831",
+        "org": "国金证券",
+        "title": "航油成本高企，国际业务运营指标持续改善",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828776608.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "600029.SH",
+    "name": "南方航空",
+    "checked_at": "2026-10-30T16:17:15.514246",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600115.SH",
+    "name": "中国东航",
+    "checked_at": "2026-10-30T16:17:15.641429",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "302132.SZ",
+    "name": "中航成飞",
+    "checked_at": "2026-10-30T16:17:15.651085",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600760.SH",
+    "name": "中航沈飞",
+    "checked_at": "2026-10-30T16:17:15.715597",
+    "reports": [
+      {
+        "date": "20260903",
+        "org": "东吴证券",
+        "title": "2026年中报点评：交付节奏扰动导致业绩承压，双线产能释放支撑节拍恢复",
+        "url": "https://data.eastmoney.com/report/info/AP202609031828956937.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260901",
+        "org": "山西证券",
+        "title": "型号交替致业绩承压，转代更迭驱动成长",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828884801.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "000768.SZ",
+    "name": "中航西飞",
+    "checked_at": "2026-10-30T16:17:15.794716",
+    "reports": [
+      {
+        "date": "20260918",
+        "org": "东海证券",
+        "title": "公司简评报告：业绩阶段承压，毛利率与现金流改善",
+        "url": "https://data.eastmoney.com/report/info/AP202609181829613099.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260903",
+        "org": "国信证券",
+        "title": "H1业绩阶段性承压，拟定增彰显公司未来信心",
+        "url": "https://data.eastmoney.com/report/info/AP202609031828945528.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260901",
+        "org": "华鑫证券",
+        "title": "公司事件点评报告：短期业绩承压，持续扩大C909、C919等项目部件订单储备",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828883683.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260827",
+        "org": "东吴证券",
+        "title": "2026年中报点评：业绩阶段性承压，民机产能提升支撑长期成长",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828548740.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260825",
+        "org": "山西证券",
+        "title": "业绩短期承压系产品结构转型，定增加码军民机长期成长",
+        "url": "https://data.eastmoney.com/report/info/AP202608251828420726.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 5
+  },
+  {
+    "code": "002414.SZ",
+    "name": "高德红外",
+    "checked_at": "2026-10-30T16:17:15.814871",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "601698.SH",
+    "name": "中国卫通",
+    "checked_at": "2026-10-30T16:17:15.940567",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "688818.SH",
+    "name": "电科蓝天",
+    "checked_at": "2026-10-30T16:17:16.151800",
+    "reports": [
+      {
+        "date": "20260817",
+        "org": "开源证券",
+        "title": "公司首次覆盖报告：宇航电源龙头，商业航天与传统航天共同驱动增长",
+        "url": "https://data.eastmoney.com/report/info/AP202608171828055305.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "600118.SH",
+    "name": "中国卫星",
+    "checked_at": "2026-10-30T16:17:16.151390",
+    "reports": [
+      {
+        "date": "20261007",
+        "org": "北京智研科信咨询",
+        "title": "中国卫星深度研究报告：航天五院核心上市平台，小卫星领域居国内领先地位",
+        "url": "https://data.eastmoney.com/report/info/AP202610061830166053.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "600967.SH",
+    "name": "内蒙一机",
+    "checked_at": "2026-10-30T16:17:16.814897",
+    "reports": [
+      {
+        "date": "20260828",
+        "org": "山西证券",
+        "title": "业绩短期承压系销售结构变化，十五五开局新质装备多线突破",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828634639.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "601606.SH",
+    "name": "长城军工",
+    "checked_at": "2026-10-30T16:17:16.817520",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "000723.SZ",
+    "name": "美锦能源",
+    "checked_at": "2026-10-30T16:17:16.817701",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600740.SH",
+    "name": "山西焦化",
+    "checked_at": "2026-10-30T16:17:17.089150",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600619.SH",
+    "name": "海立股份",
+    "checked_at": "2026-10-30T16:17:17.092026",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "002290.SZ",
+    "name": "禾盛新材",
+    "checked_at": "2026-10-30T16:17:17.215526",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "301362.SZ",
+    "name": "民爆光电",
+    "checked_at": "2026-10-30T16:17:17.227853",
+    "reports": [
+      {
+        "date": "20260803",
+        "org": "中邮证券",
+        "title": "高端钻针拥抱算力新机遇",
+        "url": "https://data.eastmoney.com/report/info/AP202608031827593903.html",
+        "parsed": true,
+        "excerpt": "预计公司2026/2027/2028年营收分别为22/35/43亿元，归母净利润分别为3/6/9亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "301362.SZ",
+        "report_date": "20260803",
+        "org_name": "中邮证券",
+        "quarter": "2026Q4",
+        "np": 30000.0,
+        "report_title": "高端钻针拥抱算力新机遇",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608031827593903.html"
+      },
+      {
+        "ts_code": "301362.SZ",
+        "report_date": "20260803",
+        "org_name": "中邮证券",
+        "quarter": "2027Q4",
+        "np": 60000.0,
+        "report_title": "高端钻针拥抱算力新机遇",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608031827593903.html"
+      },
+      {
+        "ts_code": "301362.SZ",
+        "report_date": "20260803",
+        "org_name": "中邮证券",
+        "quarter": "2028Q4",
+        "np": 90000.0,
+        "report_title": "高端钻针拥抱算力新机遇",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608031827593903.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "603366.SH",
+    "name": "日出东方",
+    "checked_at": "2026-10-30T16:17:17.281595",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "300911.SZ",
+    "name": "亿田智能",
+    "checked_at": "2026-10-30T16:17:17.354375",
+    "reports": [
+      {
+        "date": "20261016",
+        "org": "华鑫证券",
+        "title": "公司动态研究报告：算力租赁长单落地放量，燧原一体机协同构筑第二曲线",
+        "url": "https://data.eastmoney.com/report/info/AP202610161830573245.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "002614.SZ",
+    "name": "奥佳华",
+    "checked_at": "2026-10-30T16:17:17.392390",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600667.SH",
+    "name": "太极实业",
+    "checked_at": "2026-10-30T16:17:17.514470",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600629.SH",
+    "name": "华建集团",
+    "checked_at": "2026-10-30T16:17:17.540761",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "300418.SZ",
+    "name": "昆仑万维",
+    "checked_at": "2026-10-30T16:17:17.564962",
+    "reports": [
+      {
+        "date": "20260929",
+        "org": "中邮证券",
+        "title": "AI短剧业务高增，布局具身智能模型新赛道",
+        "url": "https://data.eastmoney.com/report/info/AP202609291829995154.html",
+        "parsed": true,
+        "excerpt": "预计公司2026~2028年营业收入为97.68/116.87/137.17亿元，归母净利润为0.55/1.22/3.23亿元"
+      },
+      {
+        "date": "20260917",
+        "org": "山西证券",
+        "title": "营收延续较快增速，AI应用商业化进程提速",
+        "url": "https://data.eastmoney.com/report/info/AP202609171829523857.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260906",
+        "org": "中航证券",
+        "title": "上半年营收高增，全栈AI战略进入商业兑现期",
+        "url": "https://data.eastmoney.com/report/info/AP202609061829068286.html",
+        "parsed": true,
+        "excerpt": "预计2026-2028年公司归母净利润分别为-0.74/1.33/6.38亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "300418.SZ",
+        "report_date": "20260929",
+        "org_name": "中邮证券",
+        "quarter": "2026Q4",
+        "np": 5500.0,
+        "report_title": "AI短剧业务高增，布局具身智能模型新赛道",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609291829995154.html"
+      },
+      {
+        "ts_code": "300418.SZ",
+        "report_date": "20260929",
+        "org_name": "中邮证券",
+        "quarter": "2027Q4",
+        "np": 12200.0,
+        "report_title": "AI短剧业务高增，布局具身智能模型新赛道",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609291829995154.html"
+      },
+      {
+        "ts_code": "300418.SZ",
+        "report_date": "20260929",
+        "org_name": "中邮证券",
+        "quarter": "2028Q4",
+        "np": 32300.0,
+        "report_title": "AI短剧业务高增，布局具身智能模型新赛道",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609291829995154.html"
+      },
+      {
+        "ts_code": "300418.SZ",
+        "report_date": "20260906",
+        "org_name": "中航证券",
+        "quarter": "2026Q4",
+        "np": -7400.0,
+        "report_title": "上半年营收高增，全栈AI战略进入商业兑现期",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609061829068286.html"
+      },
+      {
+        "ts_code": "300418.SZ",
+        "report_date": "20260906",
+        "org_name": "中航证券",
+        "quarter": "2027Q4",
+        "np": 13300.0,
+        "report_title": "上半年营收高增，全栈AI战略进入商业兑现期",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609061829068286.html"
+      },
+      {
+        "ts_code": "300418.SZ",
+        "report_date": "20260906",
+        "org_name": "中航证券",
+        "quarter": "2028Q4",
+        "np": 63800.0,
+        "report_title": "上半年营收高增，全栈AI战略进入商业兑现期",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609061829068286.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "601811.SH",
+    "name": "新华文轩",
+    "checked_at": "2026-10-30T16:17:17.636265",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600977.SH",
+    "name": "中国电影",
+    "checked_at": "2026-10-30T16:17:17.663706",
+    "reports": [
+      {
+        "date": "20260827",
+        "org": "太平洋",
+        "title": "影片储备丰富，关注《流浪地球3》等贡献业绩弹性",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828552963.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年营收分别为49.5/56.4/62.3亿元，对应增速2.5%/13.9%/10.5%，归母净利润分别为1.4/4.48/5.36亿元"
+      },
+      {
+        "date": "20260827",
+        "org": "金元证券",
+        "title": "暑期档回暖叠加项目储备丰富，下半年业绩可期",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828522381.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600977.SH",
+        "report_date": "20260827",
+        "org_name": "太平洋",
+        "quarter": "2026Q4",
+        "np": 14000.0,
+        "report_title": "影片储备丰富，关注《流浪地球3》等贡献业绩弹性",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828552963.html"
+      },
+      {
+        "ts_code": "600977.SH",
+        "report_date": "20260827",
+        "org_name": "太平洋",
+        "quarter": "2027Q4",
+        "np": 44800.00000000001,
+        "report_title": "影片储备丰富，关注《流浪地球3》等贡献业绩弹性",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828552963.html"
+      },
+      {
+        "ts_code": "600977.SH",
+        "report_date": "20260827",
+        "org_name": "太平洋",
+        "quarter": "2028Q4",
+        "np": 53600.0,
+        "report_title": "影片储备丰富，关注《流浪地球3》等贡献业绩弹性",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828552963.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 2
+  },
+  {
+    "code": "603000.SH",
+    "name": "人民网",
+    "checked_at": "2026-10-30T16:17:17.679609",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600637.SH",
+    "name": "东方明珠",
+    "checked_at": "2026-10-30T16:17:17.770315",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600959.SH",
+    "name": "江苏有线",
+    "checked_at": "2026-10-30T16:17:17.802312",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "002714.SZ",
+    "name": "牧原股份",
+    "checked_at": "2026-10-30T16:17:17.903561",
+    "reports": [
+      {
+        "date": "20260826",
+        "org": "西南证券",
+        "title": "2026年中报点评：猪价低谷考验盈利韧性，成本优势凸显",
+        "url": "https://data.eastmoney.com/report/info/AP202608261828490793.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260826",
+        "org": "开源证券",
+        "title": "公司信息更新报告：周期底部业绩承压，养殖屠宰双轮驱动成效显著",
+        "url": "https://data.eastmoney.com/report/info/AP202608261828455187.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260825",
+        "org": "中航证券",
+        "title": "屠宰业务实现盈利，周期预期有望抬升",
+        "url": "https://data.eastmoney.com/report/info/AP202608251828416665.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260824",
+        "org": "太平洋",
+        "title": "牧原股份中报点评：养殖成本持续下降，静候猪周期复苏",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828349120.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260822",
+        "org": "国金证券",
+        "title": "成本优势明显，全产业链积极布局",
+        "url": "https://data.eastmoney.com/report/info/AP202608221828313317.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年分别实现归母净利润-39/321/208亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "002714.SZ",
+        "report_date": "20260822",
+        "org_name": "国金证券",
+        "quarter": "2026Q4",
+        "np": -390000.0,
+        "report_title": "成本优势明显，全产业链积极布局",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608221828313317.html"
+      },
+      {
+        "ts_code": "002714.SZ",
+        "report_date": "20260822",
+        "org_name": "国金证券",
+        "quarter": "2027Q4",
+        "np": 3210000.0,
+        "report_title": "成本优势明显，全产业链积极布局",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608221828313317.html"
+      },
+      {
+        "ts_code": "002714.SZ",
+        "report_date": "20260822",
+        "org_name": "国金证券",
+        "quarter": "2028Q4",
+        "np": 2080000.0,
+        "report_title": "成本优势明显，全产业链积极布局",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608221828313317.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 5
+  },
+  {
+    "code": "000876.SZ",
+    "name": "新希望",
+    "checked_at": "2026-10-30T16:17:17.924147",
+    "reports": [
+      {
+        "date": "20260904",
+        "org": "开源证券",
+        "title": "公司信息更新报告：饲料业务表现亮眼海外增长提速，猪养殖业务承压",
+        "url": "https://data.eastmoney.com/report/info/AP202609041829026198.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "600598.SH",
+    "name": "北大荒",
+    "checked_at": "2026-10-30T16:17:18.258443",
+    "reports": [
+      {
+        "date": "20261028",
+        "org": "国信证券",
+        "title": "优质黑土地资源运营商，有望受益农产品景气上行",
+        "url": "https://data.eastmoney.com/report/info/AP202610281831058245.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年归母净利润分别为-4.4/10.4/11.2亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600598.SH",
+        "report_date": "20261028",
+        "org_name": "国信证券",
+        "quarter": "2026Q4",
+        "np": -44000.0,
+        "report_title": "优质黑土地资源运营商，有望受益农产品景气上行",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610281831058245.html"
+      },
+      {
+        "ts_code": "600598.SH",
+        "report_date": "20261028",
+        "org_name": "国信证券",
+        "quarter": "2027Q4",
+        "np": 104000.0,
+        "report_title": "优质黑土地资源运营商，有望受益农产品景气上行",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610281831058245.html"
+      },
+      {
+        "ts_code": "600598.SH",
+        "report_date": "20261028",
+        "org_name": "国信证券",
+        "quarter": "2028Q4",
+        "np": 112000.0,
+        "report_title": "优质黑土地资源运营商，有望受益农产品景气上行",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610281831058245.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "601118.SH",
+    "name": "海南橡胶",
+    "checked_at": "2026-10-30T16:17:18.263404",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "000592.SZ",
+    "name": "平潭发展",
+    "checked_at": "2026-10-30T16:17:18.266015",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600265.SH",
+    "name": "*ST景谷",
+    "checked_at": "2026-10-30T16:17:18.405232",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600467.SH",
+    "name": "好当家",
+    "checked_at": "2026-10-30T16:17:18.429095",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "000798.SZ",
+    "name": "中水渔业",
+    "checked_at": "2026-10-30T16:17:18.521142",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "300021.SZ",
+    "name": "大禹节水",
+    "checked_at": "2026-10-30T16:17:18.628517",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600048.SH",
+    "name": "保利发展",
+    "checked_at": "2026-10-30T16:17:18.636832",
+    "reports": [
+      {
+        "date": "20260927",
+        "org": "太平洋",
+        "title": "保利发展2026年半年报点评：业绩短期承压，投资聚焦核心城市",
+        "url": "https://data.eastmoney.com/report/info/AP202609261829925701.html",
+        "parsed": true,
+        "excerpt": "预计公司2026/2027/2028年归母净利润为13.64/18.42/25.15亿元"
+      },
+      {
+        "date": "20260831",
+        "org": "开源证券",
+        "title": "公司信息更新报告：深耕核心城市，拿地及销售占比均大幅提升",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828797448.html",
+        "parsed": true,
+        "excerpt": "预计2026-2028年公司归母净利润分别为17.3、31.1、49.5亿元"
+      },
+      {
+        "date": "20260828",
+        "org": "中银证券",
+        "title": "业绩与利润率下滑；经营性现金流改善；拿地权益比例大幅提升",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828608377.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260827",
+        "org": "国信证券",
+        "title": "聚焦核心城市，优化存量资源",
+        "url": "https://data.eastmoney.com/report/info/AP202608271828557370.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600048.SH",
+        "report_date": "20260927",
+        "org_name": "太平洋",
+        "quarter": "2026Q4",
+        "np": 136400.0,
+        "report_title": "保利发展2026年半年报点评：业绩短期承压，投资聚焦核心城市",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609261829925701.html"
+      },
+      {
+        "ts_code": "600048.SH",
+        "report_date": "20260927",
+        "org_name": "太平洋",
+        "quarter": "2027Q4",
+        "np": 184200.00000000003,
+        "report_title": "保利发展2026年半年报点评：业绩短期承压，投资聚焦核心城市",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609261829925701.html"
+      },
+      {
+        "ts_code": "600048.SH",
+        "report_date": "20260927",
+        "org_name": "太平洋",
+        "quarter": "2028Q4",
+        "np": 251500.0,
+        "report_title": "保利发展2026年半年报点评：业绩短期承压，投资聚焦核心城市",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609261829925701.html"
+      },
+      {
+        "ts_code": "600048.SH",
+        "report_date": "20260831",
+        "org_name": "开源证券",
+        "quarter": "2026Q4",
+        "np": 173000.0,
+        "report_title": "公司信息更新报告：深耕核心城市，拿地及销售占比均大幅提升",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828797448.html"
+      },
+      {
+        "ts_code": "600048.SH",
+        "report_date": "20260831",
+        "org_name": "开源证券",
+        "quarter": "2027Q4",
+        "np": 311000.0,
+        "report_title": "公司信息更新报告：深耕核心城市，拿地及销售占比均大幅提升",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828797448.html"
+      },
+      {
+        "ts_code": "600048.SH",
+        "report_date": "20260831",
+        "org_name": "开源证券",
+        "quarter": "2028Q4",
+        "np": 495000.0,
+        "report_title": "公司信息更新报告：深耕核心城市，拿地及销售占比均大幅提升",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608311828797448.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 4
+  },
+  {
+    "code": "002348.SZ",
+    "name": "高乐股份",
+    "checked_at": "2026-10-30T16:17:18.653095",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "603613.SH",
+    "name": "国联股份",
+    "checked_at": "2026-10-30T16:17:18.745592",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "002024.SZ",
+    "name": "ST易购",
+    "checked_at": "2026-10-30T16:17:18.787182",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600185.SH",
+    "name": "珠免集团",
+    "checked_at": "2026-10-30T16:17:19.018663",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "002416.SZ",
+    "name": "爱施德",
+    "checked_at": "2026-10-30T16:17:19.120227",
+    "reports": [
+      {
+        "date": "20260825",
+        "org": "华鑫证券",
+        "title": "公司事件点评报告：全域智慧零售与出海双轮驱动，日常经营质效显著提升",
+        "url": "https://data.eastmoney.com/report/info/AP202608251828404677.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "000829.SZ",
+    "name": "天音控股",
+    "checked_at": "2026-10-30T16:17:19.316283",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600010.SH",
+    "name": "包钢股份",
+    "checked_at": "2026-10-30T16:17:19.352587",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "001203.SZ",
+    "name": "大中矿业",
+    "checked_at": "2026-10-30T16:17:19.481645",
+    "reports": [
+      {
+        "date": "20261024",
+        "org": "东吴证券",
+        "title": "2026年三季报点评：铁矿业务提供稳定现金流，加达增储夯实锂矿成长基础",
+        "url": "https://data.eastmoney.com/report/info/AP202610241830879263.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260824",
+        "org": "开源证券",
+        "title": "公司首次覆盖报告：铁矿板块稳健运行，锂矿项目加速攻坚",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828356622.html",
+        "parsed": true,
+        "excerpt": "预计2026-2028年公司将实现归母净利润分别为11.22/22.62/42.30亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "001203.SZ",
+        "report_date": "20260824",
+        "org_name": "开源证券",
+        "quarter": "2026Q4",
+        "np": 112200.0,
+        "report_title": "公司首次覆盖报告：铁矿板块稳健运行，锂矿项目加速攻坚",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828356622.html"
+      },
+      {
+        "ts_code": "001203.SZ",
+        "report_date": "20260824",
+        "org_name": "开源证券",
+        "quarter": "2027Q4",
+        "np": 226200.0,
+        "report_title": "公司首次覆盖报告：铁矿板块稳健运行，锂矿项目加速攻坚",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828356622.html"
+      },
+      {
+        "ts_code": "001203.SZ",
+        "report_date": "20260824",
+        "org_name": "开源证券",
+        "quarter": "2028Q4",
+        "np": 423000.0,
+        "report_title": "公司首次覆盖报告：铁矿板块稳健运行，锂矿项目加速攻坚",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202608241828356622.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 3
+  },
+  {
+    "code": "600916.SH",
+    "name": "中国黄金",
+    "checked_at": "2026-10-30T16:17:19.488605",
+    "reports": [
+      {
+        "date": "20260901",
+        "org": "开源证券",
+        "title": "公司信息更新报告：中报业绩承压，关注渠道优化和高端化、国际化推进",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828845478.html",
+        "parsed": true,
+        "excerpt": "预测并新增2028年盈利预测，预计2026-2028年归母净利润为5.00/6.50/8.00亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600916.SH",
+        "report_date": "20260901",
+        "org_name": "开源证券",
+        "quarter": "2026Q4",
+        "np": 50000.0,
+        "report_title": "公司信息更新报告：中报业绩承压，关注渠道优化和高端化、国际化推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828845478.html"
+      },
+      {
+        "ts_code": "600916.SH",
+        "report_date": "20260901",
+        "org_name": "开源证券",
+        "quarter": "2027Q4",
+        "np": 65000.0,
+        "report_title": "公司信息更新报告：中报业绩承压，关注渠道优化和高端化、国际化推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828845478.html"
+      },
+      {
+        "ts_code": "600916.SH",
+        "report_date": "20260901",
+        "org_name": "开源证券",
+        "quarter": "2028Q4",
+        "np": 80000.0,
+        "report_title": "公司信息更新报告：中报业绩承压，关注渠道优化和高端化、国际化推进",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202609011828845478.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "002607.SZ",
+    "name": "中公教育",
+    "checked_at": "2026-10-30T16:17:19.493028",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "300192.SZ",
+    "name": "科德教育",
+    "checked_at": "2026-10-30T16:17:19.584258",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "600158.SH",
+    "name": "中体产业",
+    "checked_at": "2026-10-30T16:17:19.608154",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  },
+  {
+    "code": "300957.SZ",
+    "name": "贝泰妮",
+    "checked_at": "2026-10-30T16:17:19.730233",
+    "reports": [
+      {
+        "date": "20261027",
+        "org": "国元证券",
+        "title": "2026年三季报点评：Q3收入小幅下滑，销售费用投入拖累业绩",
+        "url": "https://data.eastmoney.com/report/info/AP202610271831024793.html",
+        "parsed": true,
+        "excerpt": "预计公司2026-2028年实现归母净利润为6.53/7.38/8.23亿元"
+      },
+      {
+        "date": "20261027",
+        "org": "开源证券",
+        "title": "公司信息更新报告：2026Q3利润阶段性承压，薇诺娜核心品牌优势稳固",
+        "url": "https://data.eastmoney.com/report/info/AP202610271831008892.html",
+        "parsed": true,
+        "excerpt": "预测不变，预计公司2026-2028年归母净利润为6.69/7.70/8.78亿元"
+      },
+      {
+        "date": "20260828",
+        "org": "国信证券",
+        "title": "经营拐点逐步显现，多品牌矩阵加速成长",
+        "url": "https://data.eastmoney.com/report/info/AP202608281828619067.html",
+        "parsed": false,
+        "excerpt": ""
+      },
+      {
+        "date": "20260825",
+        "org": "东吴证券",
+        "title": "2026年半年报点评：H1扣非归母净利率表现亮眼，盈利能力优化",
+        "url": "https://data.eastmoney.com/report/info/AP202608251828402277.html",
+        "parsed": false,
+        "excerpt": ""
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "300957.SZ",
+        "report_date": "20261027",
+        "org_name": "国元证券",
+        "quarter": "2026Q4",
+        "np": 65300.0,
+        "report_title": "2026年三季报点评：Q3收入小幅下滑，销售费用投入拖累业绩",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271831024793.html"
+      },
+      {
+        "ts_code": "300957.SZ",
+        "report_date": "20261027",
+        "org_name": "国元证券",
+        "quarter": "2027Q4",
+        "np": 73800.0,
+        "report_title": "2026年三季报点评：Q3收入小幅下滑，销售费用投入拖累业绩",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271831024793.html"
+      },
+      {
+        "ts_code": "300957.SZ",
+        "report_date": "20261027",
+        "org_name": "国元证券",
+        "quarter": "2028Q4",
+        "np": 82300.0,
+        "report_title": "2026年三季报点评：Q3收入小幅下滑，销售费用投入拖累业绩",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271831024793.html"
+      },
+      {
+        "ts_code": "300957.SZ",
+        "report_date": "20261027",
+        "org_name": "开源证券",
+        "quarter": "2026Q4",
+        "np": 66900.0,
+        "report_title": "公司信息更新报告：2026Q3利润阶段性承压，薇诺娜核心品牌优势稳固",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271831008892.html"
+      },
+      {
+        "ts_code": "300957.SZ",
+        "report_date": "20261027",
+        "org_name": "开源证券",
+        "quarter": "2027Q4",
+        "np": 77000.0,
+        "report_title": "公司信息更新报告：2026Q3利润阶段性承压，薇诺娜核心品牌优势稳固",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271831008892.html"
+      },
+      {
+        "ts_code": "300957.SZ",
+        "report_date": "20261027",
+        "org_name": "开源证券",
+        "quarter": "2028Q4",
+        "np": 87800.0,
+        "report_title": "公司信息更新报告：2026Q3利润阶段性承压，薇诺娜核心品牌优势稳固",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610271831008892.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 6
+  },
+  {
+    "code": "600673.SH",
+    "name": "东阳光",
+    "checked_at": "2026-10-30T16:17:19.744124",
+    "reports": [
+      {
+        "date": "20261023",
+        "org": "国金证券",
+        "title": "Q3收入高增，AI业务加速放量",
+        "url": "https://data.eastmoney.com/report/info/AP202610231830819138.html",
+        "parsed": true,
+        "excerpt": "预测公司2026-2028年归母净利润为11.19/29.70/38.81亿元"
+      }
+    ],
+    "records": [
+      {
+        "ts_code": "600673.SH",
+        "report_date": "20261023",
+        "org_name": "国金证券",
+        "quarter": "2026Q4",
+        "np": 111900.0,
+        "report_title": "Q3收入高增，AI业务加速放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610231830819138.html"
+      },
+      {
+        "ts_code": "600673.SH",
+        "report_date": "20261023",
+        "org_name": "国金证券",
+        "quarter": "2027Q4",
+        "np": 297000.0,
+        "report_title": "Q3收入高增，AI业务加速放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610231830819138.html"
+      },
+      {
+        "ts_code": "600673.SH",
+        "report_date": "20261023",
+        "org_name": "国金证券",
+        "quarter": "2028Q4",
+        "np": 388100.0,
+        "report_title": "Q3收入高增，AI业务加速放量",
+        "source": "东方财富研报原文",
+        "url": "https://data.eastmoney.com/report/info/AP202610231830819138.html"
+      }
+    ],
+    "status": "ok",
+    "list_rows": 1
+  },
+  {
+    "code": "000833.SZ",
+    "name": "粤桂股份",
+    "checked_at": "2026-10-30T16:17:19.847138",
+    "reports": [],
+    "records": [],
+    "status": "ok",
+    "list_rows": 0
+  }
+]
