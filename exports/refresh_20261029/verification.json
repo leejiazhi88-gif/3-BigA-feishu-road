@@ -1,0 +1,99 @@
+{
+  "asof": "2026-10-29",
+  "existing": 460,
+  "added": 2,
+  "removed": 0,
+  "final": 462,
+  "additions": [
+    {
+      "code": "603225.SH",
+      "name": "新凤鸣",
+      "market_cap_yi": 277.6,
+      "sw_l1": "基础化工",
+      "sw_l2": "化学纤维",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "603515.SH",
+      "name": "欧普照明",
+      "market_cap_yi": 109.2,
+      "sw_l1": "家用电器",
+      "sw_l2": "照明设备Ⅱ",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    }
+  ],
+  "forecast_changes": 2770,
+  "q3_actual_count": 263,
+  "q3_actual_complete": false,
+  "q4_actual_count": 0,
+  "q4_lock_column_inserted": false,
+  "sheet_id": "WYWO67",
+  "url": "https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=WYWO67",
+  "values_verified": true,
+  "conditional_formats": 15,
+  "conditional_formats_preserved": true,
+  "filter_preserved": true,
+  "notes_preserved": true,
+  "decision_notes_preserved": true,
+  "personal_note_styles_restored_by_code": true,
+  "q3_locked_comparison_rows": 263,
+  "q4_lock_column_ready": false,
+  "composition_preserved_for_existing": true,
+  "industry_colors": {
+    "rows": 462,
+    "sw_l1_categories": 31,
+    "sw_l2_categories": 131,
+    "colors_used": 10,
+    "columns_colored": "A:BI",
+    "excluded_columns": [
+      2,
+      3
+    ],
+    "reference_sheet": "2026-10-23（全部）"
+  },
+  "final_export_verification": {
+    "rows": 462,
+    "added": [
+      "603225.SH",
+      "603515.SH"
+    ],
+    "removed": [],
+    "latest_dates": [
+      "2026-10-29"
+    ],
+    "note_style_or_value_mismatches": 0,
+    "composition_mismatches": 0,
+    "industry_fill_errors": 0,
+    "font_rule_errors": 0,
+    "number_format_errors": 0,
+    "freeze": "E2",
+    "conditional_formats_exported": 13
+  },
+  "annual_change_color_verification": {
+    "sheet_id": "WYWO67",
+    "sheet_name": "2026-10-29（全部）",
+    "column": "R",
+    "nonempty": 235,
+    "green": 69,
+    "red": 150,
+    "black": 16,
+    "value_changes": 0,
+    "conditional_formats_preserved": true,
+    "filter_preserved": true,
+    "export_file": "outputs/refresh_20261029/2026-10-29-all.xlsx",
+    "export_checked": 235,
+    "style_mismatches": 0,
+    "export_font_colors_verified": true
+  },
+  "annual_change_rate_verification": {
+    "sheet_name": "2026-10-29（全部）",
+    "export_file": "outputs/refresh_20261029/2026-10-29-all.xlsx",
+    "nonempty_values_checked": 598,
+    "value_mismatches": 0,
+    "style_mismatches": 0,
+    "number_format_mismatches": 0,
+    "export_verified": true
+  }
+}

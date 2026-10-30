@@ -5,19 +5,18 @@ from pathlib import Path
 import openpyxl
 
 
-SOURCE_SHEET = '2026-09-28（全部）（新）'
-
-
-def main(source, output):
-    sheet = openpyxl.load_workbook(source, data_only=False)[SOURCE_SHEET]
-    mappings = {'reference_sheet': SOURCE_SHEET, 'industry_pairs': {}}
+def main(source, output, source_sheet):
+    sheet = openpyxl.load_workbook(source, data_only=False)[source_sheet]
+    headers = {cell.value: cell.column for cell in sheet[1]}
+    l1_column, l2_column = headers['申万一级'], headers['申万二级']
+    mappings = {'reference_sheet': source_sheet, 'industry_pairs': {}}
     for row in range(2, sheet.max_row + 1):
-        l1 = str(sheet.cell(row, 2).value or '').strip()
-        l2 = str(sheet.cell(row, 3).value or '').strip()
+        l1 = str(sheet.cell(row, l1_column).value or '').strip()
+        l2 = str(sheet.cell(row, l2_column).value or '').strip()
         if not l1 or not l2:
             continue
         colors = []
-        for column in (2, 3):
+        for column in (l1_column, l2_column):
             cell = sheet.cell(row, column)
             color = cell.fill.fgColor.rgb
             assert cell.fill.fill_type == 'solid' and isinstance(color, str)
@@ -29,7 +28,7 @@ def main(source, output):
     assert len(mappings['industry_pairs']) == 131
     Path(output).write_text(json.dumps(mappings, ensure_ascii=False, indent=2))
     print(json.dumps({
-        'reference_sheet': SOURCE_SHEET,
+        'reference_sheet': source_sheet,
         'industry_pairs': len(mappings['industry_pairs']),
         'sw_l1': len({x['sw_l1'] for x in mappings['industry_pairs'].values()}),
         'sw_l2': len({x['sw_l2'] for x in mappings['industry_pairs'].values()}),
@@ -41,4 +40,4 @@ def main(source, output):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1], sys.argv[2])
+    main(sys.argv[1], sys.argv[2], sys.argv[3])

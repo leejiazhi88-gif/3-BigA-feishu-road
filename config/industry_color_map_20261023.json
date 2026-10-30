@@ -1,0 +1,791 @@
+{
+  "reference_sheet": "2026-10-23（全部）",
+  "industry_pairs": {
+    "电子\t半导体": {
+      "sw_l1": "电子",
+      "sw_l2": "半导体",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "电子\t消费电子": {
+      "sw_l1": "电子",
+      "sw_l2": "消费电子",
+      "b_color": "#FAF1D1",
+      "c_color": "#FAF1D1"
+    },
+    "电子\t元件": {
+      "sw_l1": "电子",
+      "sw_l2": "元件",
+      "b_color": "#EEF6C6",
+      "c_color": "#EEF6C6"
+    },
+    "电子\t光学光电子": {
+      "sw_l1": "电子",
+      "sw_l2": "光学光电子",
+      "b_color": "#EEF6C6",
+      "c_color": "#EEF6C6"
+    },
+    "电子\t电子化学品Ⅱ": {
+      "sw_l1": "电子",
+      "sw_l2": "电子化学品Ⅱ",
+      "b_color": "#EEF6C6",
+      "c_color": "#EEF6C6"
+    },
+    "电子\t其他电子Ⅱ": {
+      "sw_l1": "电子",
+      "sw_l2": "其他电子Ⅱ",
+      "b_color": "#EEF6C6",
+      "c_color": "#EEF6C6"
+    },
+    "银行\t国有大型银行Ⅱ": {
+      "sw_l1": "银行",
+      "sw_l2": "国有大型银行Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "银行\t股份制银行Ⅱ": {
+      "sw_l1": "银行",
+      "sw_l2": "股份制银行Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "银行\t城商行Ⅱ": {
+      "sw_l1": "银行",
+      "sw_l2": "城商行Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "银行\t农商行Ⅱ": {
+      "sw_l1": "银行",
+      "sw_l2": "农商行Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "医药生物\t化学制药": {
+      "sw_l1": "医药生物",
+      "sw_l2": "化学制药",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "医药生物\t医疗器械": {
+      "sw_l1": "医药生物",
+      "sw_l2": "医疗器械",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "医药生物\t医疗服务": {
+      "sw_l1": "医药生物",
+      "sw_l2": "医疗服务",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "医药生物\t中药Ⅱ": {
+      "sw_l1": "医药生物",
+      "sw_l2": "中药Ⅱ",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "医药生物\t生物制品": {
+      "sw_l1": "医药生物",
+      "sw_l2": "生物制品",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "医药生物\t医药商业": {
+      "sw_l1": "医药生物",
+      "sw_l2": "医药商业",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "通信\t通信设备": {
+      "sw_l1": "通信",
+      "sw_l2": "通信设备",
+      "b_color": "#D5F6F2",
+      "c_color": "#D5F6F2"
+    },
+    "通信\t通信服务": {
+      "sw_l1": "通信",
+      "sw_l2": "通信服务",
+      "b_color": "#D5F6F2",
+      "c_color": "#D5F6F2"
+    },
+    "电力设备\t电池": {
+      "sw_l1": "电力设备",
+      "sw_l2": "电池",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "电力设备\t电网设备": {
+      "sw_l1": "电力设备",
+      "sw_l2": "电网设备",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "电力设备\t光伏设备": {
+      "sw_l1": "电力设备",
+      "sw_l2": "光伏设备",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "电力设备\t其他电源设备Ⅱ": {
+      "sw_l1": "电力设备",
+      "sw_l2": "其他电源设备Ⅱ",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "电力设备\t风电设备": {
+      "sw_l1": "电力设备",
+      "sw_l2": "风电设备",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "电力设备\t电机Ⅱ": {
+      "sw_l1": "电力设备",
+      "sw_l2": "电机Ⅱ",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "非银金融\t证券Ⅱ": {
+      "sw_l1": "非银金融",
+      "sw_l2": "证券Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "非银金融\t保险Ⅱ": {
+      "sw_l1": "非银金融",
+      "sw_l2": "保险Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "非银金融\t多元金融": {
+      "sw_l1": "非银金融",
+      "sw_l2": "多元金融",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "机械设备\t通用设备": {
+      "sw_l1": "机械设备",
+      "sw_l2": "通用设备",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "机械设备\t专用设备": {
+      "sw_l1": "机械设备",
+      "sw_l2": "专用设备",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "机械设备\t自动化设备": {
+      "sw_l1": "机械设备",
+      "sw_l2": "自动化设备",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "机械设备\t工程机械": {
+      "sw_l1": "机械设备",
+      "sw_l2": "工程机械",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "机械设备\t轨交设备Ⅱ": {
+      "sw_l1": "机械设备",
+      "sw_l2": "轨交设备Ⅱ",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "石油石化\t炼化及贸易": {
+      "sw_l1": "石油石化",
+      "sw_l2": "炼化及贸易",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "石油石化\t油气开采Ⅱ": {
+      "sw_l1": "石油石化",
+      "sw_l2": "油气开采Ⅱ",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "石油石化\t油服工程": {
+      "sw_l1": "石油石化",
+      "sw_l2": "油服工程",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "有色金属\t工业金属": {
+      "sw_l1": "有色金属",
+      "sw_l2": "工业金属",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "有色金属\t小金属": {
+      "sw_l1": "有色金属",
+      "sw_l2": "小金属",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "有色金属\t贵金属": {
+      "sw_l1": "有色金属",
+      "sw_l2": "贵金属",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "有色金属\t能源金属": {
+      "sw_l1": "有色金属",
+      "sw_l2": "能源金属",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "有色金属\t金属新材料": {
+      "sw_l1": "有色金属",
+      "sw_l2": "金属新材料",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "基础化工\t化学制品": {
+      "sw_l1": "基础化工",
+      "sw_l2": "化学制品",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "基础化工\t农化制品": {
+      "sw_l1": "基础化工",
+      "sw_l2": "农化制品",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "基础化工\t化学原料": {
+      "sw_l1": "基础化工",
+      "sw_l2": "化学原料",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "基础化工\t塑料": {
+      "sw_l1": "基础化工",
+      "sw_l2": "塑料",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "基础化工\t化学纤维": {
+      "sw_l1": "基础化工",
+      "sw_l2": "化学纤维",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "基础化工\t橡胶": {
+      "sw_l1": "基础化工",
+      "sw_l2": "橡胶",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "基础化工\t非金属材料Ⅱ": {
+      "sw_l1": "基础化工",
+      "sw_l2": "非金属材料Ⅱ",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "公用事业\t电力": {
+      "sw_l1": "公用事业",
+      "sw_l2": "电力",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "公用事业\t燃气Ⅱ": {
+      "sw_l1": "公用事业",
+      "sw_l2": "燃气Ⅱ",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "汽车\t汽车零部件": {
+      "sw_l1": "汽车",
+      "sw_l2": "汽车零部件",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "汽车\t乘用车": {
+      "sw_l1": "汽车",
+      "sw_l2": "乘用车",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "汽车\t商用车": {
+      "sw_l1": "汽车",
+      "sw_l2": "商用车",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "汽车\t摩托车及其他": {
+      "sw_l1": "汽车",
+      "sw_l2": "摩托车及其他",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "汽车\t汽车服务": {
+      "sw_l1": "汽车",
+      "sw_l2": "汽车服务",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "计算机\t软件开发": {
+      "sw_l1": "计算机",
+      "sw_l2": "软件开发",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "计算机\tIT服务Ⅱ": {
+      "sw_l1": "计算机",
+      "sw_l2": "IT服务Ⅱ",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "计算机\t计算机设备": {
+      "sw_l1": "计算机",
+      "sw_l2": "计算机设备",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "食品饮料\t白酒Ⅱ": {
+      "sw_l1": "食品饮料",
+      "sw_l2": "白酒Ⅱ",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "食品饮料\t饮料乳品": {
+      "sw_l1": "食品饮料",
+      "sw_l2": "饮料乳品",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "食品饮料\t调味发酵品Ⅱ": {
+      "sw_l1": "食品饮料",
+      "sw_l2": "调味发酵品Ⅱ",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "食品饮料\t食品加工": {
+      "sw_l1": "食品饮料",
+      "sw_l2": "食品加工",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "食品饮料\t非白酒": {
+      "sw_l1": "食品饮料",
+      "sw_l2": "非白酒",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "食品饮料\t休闲食品": {
+      "sw_l1": "食品饮料",
+      "sw_l2": "休闲食品",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "交通运输\t航运港口": {
+      "sw_l1": "交通运输",
+      "sw_l2": "航运港口",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "交通运输\t铁路公路": {
+      "sw_l1": "交通运输",
+      "sw_l2": "铁路公路",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "交通运输\t物流": {
+      "sw_l1": "交通运输",
+      "sw_l2": "物流",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "交通运输\t航空机场": {
+      "sw_l1": "交通运输",
+      "sw_l2": "航空机场",
+      "b_color": "#D9F3FD",
+      "c_color": "#D9F3FD"
+    },
+    "国防军工\t航空装备Ⅱ": {
+      "sw_l1": "国防军工",
+      "sw_l2": "航空装备Ⅱ",
+      "b_color": "#FBBFBC",
+      "c_color": "#FBBFBC"
+    },
+    "国防军工\t军工电子Ⅱ": {
+      "sw_l1": "国防军工",
+      "sw_l2": "军工电子Ⅱ",
+      "b_color": "#FBBFBC",
+      "c_color": "#FBBFBC"
+    },
+    "国防军工\t航海装备Ⅱ": {
+      "sw_l1": "国防军工",
+      "sw_l2": "航海装备Ⅱ",
+      "b_color": "#FBBFBC",
+      "c_color": "#FBBFBC"
+    },
+    "国防军工\t航天装备Ⅱ": {
+      "sw_l1": "国防军工",
+      "sw_l2": "航天装备Ⅱ",
+      "b_color": "#FBBFBC",
+      "c_color": "#FBBFBC"
+    },
+    "国防军工\t地面兵装Ⅱ": {
+      "sw_l1": "国防军工",
+      "sw_l2": "地面兵装Ⅱ",
+      "b_color": "#FBBFBC",
+      "c_color": "#FBBFBC"
+    },
+    "煤炭\t煤炭开采": {
+      "sw_l1": "煤炭",
+      "sw_l2": "煤炭开采",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "煤炭\t焦炭Ⅱ": {
+      "sw_l1": "煤炭",
+      "sw_l2": "焦炭Ⅱ",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "家用电器\t白色家电": {
+      "sw_l1": "家用电器",
+      "sw_l2": "白色家电",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "家用电器\t家电零部件Ⅱ": {
+      "sw_l1": "家用电器",
+      "sw_l2": "家电零部件Ⅱ",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "家用电器\t小家电": {
+      "sw_l1": "家用电器",
+      "sw_l2": "小家电",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "家用电器\t黑色家电": {
+      "sw_l1": "家用电器",
+      "sw_l2": "黑色家电",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "家用电器\t照明设备Ⅱ": {
+      "sw_l1": "家用电器",
+      "sw_l2": "照明设备Ⅱ",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "家用电器\t厨卫电器": {
+      "sw_l1": "家用电器",
+      "sw_l2": "厨卫电器",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "家用电器\t其他家电Ⅱ": {
+      "sw_l1": "家用电器",
+      "sw_l2": "其他家电Ⅱ",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "建筑装饰\t基础建设": {
+      "sw_l1": "建筑装饰",
+      "sw_l2": "基础建设",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "建筑装饰\t专业工程": {
+      "sw_l1": "建筑装饰",
+      "sw_l2": "专业工程",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "建筑装饰\t房屋建设Ⅱ": {
+      "sw_l1": "建筑装饰",
+      "sw_l2": "房屋建设Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "建筑装饰\t工程咨询服务Ⅱ": {
+      "sw_l1": "建筑装饰",
+      "sw_l2": "工程咨询服务Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "建筑装饰\t装修装饰Ⅱ": {
+      "sw_l1": "建筑装饰",
+      "sw_l2": "装修装饰Ⅱ",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "传媒\t游戏Ⅱ": {
+      "sw_l1": "传媒",
+      "sw_l2": "游戏Ⅱ",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "传媒\t出版": {
+      "sw_l1": "传媒",
+      "sw_l2": "出版",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "传媒\t广告营销": {
+      "sw_l1": "传媒",
+      "sw_l2": "广告营销",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "传媒\t影视院线": {
+      "sw_l1": "传媒",
+      "sw_l2": "影视院线",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "传媒\t数字媒体": {
+      "sw_l1": "传媒",
+      "sw_l2": "数字媒体",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "传媒\t电视广播Ⅱ": {
+      "sw_l1": "传媒",
+      "sw_l2": "电视广播Ⅱ",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "农林牧渔\t养殖业": {
+      "sw_l1": "农林牧渔",
+      "sw_l2": "养殖业",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "农林牧渔\t农产品加工": {
+      "sw_l1": "农林牧渔",
+      "sw_l2": "农产品加工",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "农林牧渔\t饲料": {
+      "sw_l1": "农林牧渔",
+      "sw_l2": "饲料",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "农林牧渔\t种植业": {
+      "sw_l1": "农林牧渔",
+      "sw_l2": "种植业",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "农林牧渔\t动物保健Ⅱ": {
+      "sw_l1": "农林牧渔",
+      "sw_l2": "动物保健Ⅱ",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "农林牧渔\t林业Ⅱ": {
+      "sw_l1": "农林牧渔",
+      "sw_l2": "林业Ⅱ",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "农林牧渔\t渔业": {
+      "sw_l1": "农林牧渔",
+      "sw_l2": "渔业",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "农林牧渔\t农业综合Ⅱ": {
+      "sw_l1": "农林牧渔",
+      "sw_l2": "农业综合Ⅱ",
+      "b_color": "#D9F5D6",
+      "c_color": "#D9F5D6"
+    },
+    "建筑材料\t玻璃玻纤": {
+      "sw_l1": "建筑材料",
+      "sw_l2": "玻璃玻纤",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "建筑材料\t水泥": {
+      "sw_l1": "建筑材料",
+      "sw_l2": "水泥",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "建筑材料\t装修建材": {
+      "sw_l1": "建筑材料",
+      "sw_l2": "装修建材",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "房地产\t房地产开发": {
+      "sw_l1": "房地产",
+      "sw_l2": "房地产开发",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "房地产\t房地产服务": {
+      "sw_l1": "房地产",
+      "sw_l2": "房地产服务",
+      "b_color": "#E1EAFF",
+      "c_color": "#E1EAFF"
+    },
+    "轻工制造\t家居用品": {
+      "sw_l1": "轻工制造",
+      "sw_l2": "家居用品",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "轻工制造\t包装印刷": {
+      "sw_l1": "轻工制造",
+      "sw_l2": "包装印刷",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "轻工制造\t造纸": {
+      "sw_l1": "轻工制造",
+      "sw_l2": "造纸",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "轻工制造\t文娱用品": {
+      "sw_l1": "轻工制造",
+      "sw_l2": "文娱用品",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "商贸零售\t一般零售": {
+      "sw_l1": "商贸零售",
+      "sw_l2": "一般零售",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "商贸零售\t贸易Ⅱ": {
+      "sw_l1": "商贸零售",
+      "sw_l2": "贸易Ⅱ",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "商贸零售\t互联网电商": {
+      "sw_l1": "商贸零售",
+      "sw_l2": "互联网电商",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "商贸零售\t旅游零售Ⅱ": {
+      "sw_l1": "商贸零售",
+      "sw_l2": "旅游零售Ⅱ",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "商贸零售\t专业连锁Ⅱ": {
+      "sw_l1": "商贸零售",
+      "sw_l2": "专业连锁Ⅱ",
+      "b_color": "#FED4A4",
+      "c_color": "#FED4A4"
+    },
+    "钢铁\t普钢": {
+      "sw_l1": "钢铁",
+      "sw_l2": "普钢",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "钢铁\t特钢Ⅱ": {
+      "sw_l1": "钢铁",
+      "sw_l2": "特钢Ⅱ",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "钢铁\t冶钢原料": {
+      "sw_l1": "钢铁",
+      "sw_l2": "冶钢原料",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "环保\t环境治理": {
+      "sw_l1": "环保",
+      "sw_l2": "环境治理",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "环保\t环保设备Ⅱ": {
+      "sw_l1": "环保",
+      "sw_l2": "环保设备Ⅱ",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "纺织服饰\t服装家纺": {
+      "sw_l1": "纺织服饰",
+      "sw_l2": "服装家纺",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "纺织服饰\t纺织制造": {
+      "sw_l1": "纺织服饰",
+      "sw_l2": "纺织制造",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "纺织服饰\t饰品": {
+      "sw_l1": "纺织服饰",
+      "sw_l2": "饰品",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "社会服务\t专业服务": {
+      "sw_l1": "社会服务",
+      "sw_l2": "专业服务",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "社会服务\t旅游及景区": {
+      "sw_l1": "社会服务",
+      "sw_l2": "旅游及景区",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "社会服务\t教育": {
+      "sw_l1": "社会服务",
+      "sw_l2": "教育",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "社会服务\t酒店餐饮": {
+      "sw_l1": "社会服务",
+      "sw_l2": "酒店餐饮",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "社会服务\t体育Ⅱ": {
+      "sw_l1": "社会服务",
+      "sw_l2": "体育Ⅱ",
+      "b_color": "#ECE2FE",
+      "c_color": "#ECE2FE"
+    },
+    "美容护理\t化妆品": {
+      "sw_l1": "美容护理",
+      "sw_l2": "化妆品",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "美容护理\t个护用品": {
+      "sw_l1": "美容护理",
+      "sw_l2": "个护用品",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "美容护理\t医疗美容": {
+      "sw_l1": "美容护理",
+      "sw_l2": "医疗美容",
+      "b_color": "#FDDDEF",
+      "c_color": "#FDDDEF"
+    },
+    "综合\t综合Ⅱ": {
+      "sw_l1": "综合",
+      "sw_l2": "综合Ⅱ",
+      "b_color": "#EEF6C6",
+      "c_color": "#EEF6C6"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "rows": 462,
+  "added": [
+    "603225.SH",
+    "603515.SH"
+  ],
+  "removed": [],
+  "latest_dates": [
+    "2026-10-29"
+  ],
+  "note_style_or_value_mismatches": 0,
+  "composition_mismatches": 0,
+  "industry_fill_errors": 0,
+  "font_rule_errors": 0,
+  "number_format_errors": 0,
+  "freeze": "E2",
+  "conditional_formats_exported": 13
+}

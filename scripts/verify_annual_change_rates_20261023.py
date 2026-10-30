@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import math
+import os
 from pathlib import Path
 
 import openpyxl
@@ -11,8 +12,11 @@ import openpyxl
 import verify_annual_change_colors_20261023 as export_helper
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / 'outputs' / 'annual-change-color-fix' / '2026-10-23-all.xlsx'
-AUDIT = ROOT / 'exports' / 'refresh_20261023' / 'annual_change_rates.json'
+SHEET_NAME = os.environ.get('ANNUAL_CHANGE_SHEET_NAME', '2026-10-23（全部）')
+OUTPUT = ROOT / os.environ.get(
+    'ANNUAL_CHANGE_EXPORT', 'outputs/annual-change-color-fix/2026-10-23-all.xlsx')
+AUDIT = ROOT / os.environ.get(
+    'ANNUAL_CHANGE_RATE_AUDIT', 'exports/refresh_20261023/annual_change_rates.json')
 RATE_COLUMNS = {2026: 'S', 2027: 'T', 2028: 'U'}
 
 
@@ -20,12 +24,12 @@ def main():
     export_helper.OUTPUT = OUTPUT
     export_helper.export_workbook(export_helper.token())
     workbook = openpyxl.load_workbook(OUTPUT, data_only=False)
-    sheet = workbook['2026-10-23（全部）']
+    sheet = workbook[SHEET_NAME]
     value_mismatches = []
     color_mismatches = []
     format_mismatches = []
     checked = 0
-    for row in range(2, 462):
+    for row in range(2, sheet.max_row + 1):
         expected = export_helper.re.findall(
             r'(20\d{2})年（旧值[^，]*，(新增预测|[-+]?\d+(?:\.\d+)?%)）',
             str(sheet[f'R{row}'].value or ''),
@@ -57,7 +61,9 @@ def main():
     assert not value_mismatches, value_mismatches[:10]
     assert not color_mismatches, color_mismatches[:10]
     assert not format_mismatches, format_mismatches[:10]
-    audit = json.loads(AUDIT.read_text())
+    audit = json.loads(AUDIT.read_text()) if AUDIT.exists() else {
+        'sheet_name': SHEET_NAME,
+    }
     audit.update({
         'export_file': str(OUTPUT.relative_to(ROOT)),
         'nonempty_values_checked': checked,
@@ -66,6 +72,7 @@ def main():
         'number_format_mismatches': 0,
         'export_verified': True,
     })
+    AUDIT.parent.mkdir(parents=True, exist_ok=True)
     AUDIT.write_text(json.dumps(audit, ensure_ascii=False, indent=2) + '\n')
     print(json.dumps({key: audit[key] for key in (
         'nonempty_values_checked', 'value_mismatches', 'style_mismatches',
