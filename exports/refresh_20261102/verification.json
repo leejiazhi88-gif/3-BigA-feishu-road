@@ -1,0 +1,110 @@
+{
+  "asof": "2026-11-02",
+  "existing": 462,
+  "added": 8,
+  "removed": 0,
+  "final": 470,
+  "additions": [
+    {
+      "code": "688019.SH",
+      "name": "安集科技",
+      "market_cap_yi": 421.7,
+      "sw_l1": "电子",
+      "sw_l2": "电子化学品Ⅱ",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002130.SZ",
+      "name": "沃尔核材",
+      "market_cap_yi": 198.4,
+      "sw_l1": "电子",
+      "sw_l2": "其他电子Ⅱ",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "600009.SH",
+      "name": "上海机场",
+      "market_cap_yi": 607.4,
+      "sw_l1": "交通运输",
+      "sw_l2": "航空机场",
+      "l2_rank": 4,
+      "reason": "市值超过600亿元"
+    },
+    {
+      "code": "300094.SZ",
+      "name": "国联水产",
+      "market_cap_yi": 31.4,
+      "sw_l1": "农林牧渔",
+      "sw_l2": "渔业",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002701.SZ",
+      "name": "奥瑞金",
+      "market_cap_yi": 108.0,
+      "sw_l1": "轻工制造",
+      "sw_l2": "包装印刷",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "301101.SZ",
+      "name": "明月镜片",
+      "market_cap_yi": 74.2,
+      "sw_l1": "轻工制造",
+      "sw_l2": "文娱用品",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002867.SZ",
+      "name": "周大生",
+      "market_cap_yi": 116.7,
+      "sw_l1": "纺织服饰",
+      "sw_l2": "饰品",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002511.SZ",
+      "name": "中顺洁柔",
+      "market_cap_yi": 97.5,
+      "sw_l1": "美容护理",
+      "sw_l2": "个护用品",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    }
+  ],
+  "forecast_changes": 3092,
+  "q3_actual_count": 467,
+  "q3_actual_complete": false,
+  "q4_actual_count": 0,
+  "q4_lock_column_inserted": false,
+  "sheet_id": "5b5ztr",
+  "url": "https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=5b5ztr",
+  "values_verified": true,
+  "conditional_formats": 15,
+  "conditional_formats_preserved": true,
+  "filter_preserved": true,
+  "notes_preserved": true,
+  "decision_notes_preserved": true,
+  "personal_note_styles_restored_by_code": true,
+  "q3_locked_comparison_rows": 467,
+  "q4_lock_column_ready": false,
+  "composition_preserved_for_existing": true,
+  "industry_colors": {
+    "rows": 470,
+    "sw_l1_categories": 31,
+    "sw_l2_categories": 131,
+    "colors_used": 10,
+    "columns_colored": "A:BI",
+    "excluded_columns": [
+      2,
+      3
+    ],
+    "reference_sheet": "2026-10-29（全部）"
+  }
+}

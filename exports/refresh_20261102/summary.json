@@ -1,0 +1,111 @@
+{
+  "asof": "2026-11-02",
+  "existing": 462,
+  "added": 8,
+  "removed": 0,
+  "final": 470,
+  "additions": [
+    {
+      "code": "688019.SH",
+      "name": "安集科技",
+      "market_cap_yi": 421.7,
+      "sw_l1": "电子",
+      "sw_l2": "电子化学品Ⅱ",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002130.SZ",
+      "name": "沃尔核材",
+      "market_cap_yi": 198.4,
+      "sw_l1": "电子",
+      "sw_l2": "其他电子Ⅱ",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "600009.SH",
+      "name": "上海机场",
+      "market_cap_yi": 607.4,
+      "sw_l1": "交通运输",
+      "sw_l2": "航空机场",
+      "l2_rank": 4,
+      "reason": "市值超过600亿元"
+    },
+    {
+      "code": "300094.SZ",
+      "name": "国联水产",
+      "market_cap_yi": 31.4,
+      "sw_l1": "农林牧渔",
+      "sw_l2": "渔业",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002701.SZ",
+      "name": "奥瑞金",
+      "market_cap_yi": 108.0,
+      "sw_l1": "轻工制造",
+      "sw_l2": "包装印刷",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "301101.SZ",
+      "name": "明月镜片",
+      "market_cap_yi": 74.2,
+      "sw_l1": "轻工制造",
+      "sw_l2": "文娱用品",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002867.SZ",
+      "name": "周大生",
+      "market_cap_yi": 116.7,
+      "sw_l1": "纺织服饰",
+      "sw_l2": "饰品",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002511.SZ",
+      "name": "中顺洁柔",
+      "market_cap_yi": 97.5,
+      "sw_l1": "美容护理",
+      "sw_l2": "个护用品",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    }
+  ],
+  "forecast_changes": 3092,
+  "q3_actual_count": 467,
+  "q3_actual_complete": false,
+  "q4_actual_count": 0,
+  "q4_lock_column_inserted": false,
+  "annual_changes": 763,
+  "annual_changed_companies": 272,
+  "forecast_status_counts": {
+    "财报后未更新": 288,
+    "机构预测": 976,
+    "模型估算（机构预测待更新）": 142,
+    "模型估算（旧预测与实际冲突）": 4
+  },
+  "missing_q3": [
+    {
+      "name": "中芯国际",
+      "code": "688981.SH"
+    },
+    {
+      "name": "华虹宏力",
+      "code": "688347.SH"
+    },
+    {
+      "name": "百济神州",
+      "code": "688235.SH"
+    }
+  ],
+  "flagged_companies": 70,
+  "external_checks": 109,
+  "external_failures": 0
+}

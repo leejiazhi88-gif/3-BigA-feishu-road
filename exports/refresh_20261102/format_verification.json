@@ -1,0 +1,25 @@
+{
+  "companies": 470,
+  "added": [
+    "002130.SZ",
+    "002511.SZ",
+    "002701.SZ",
+    "002867.SZ",
+    "300094.SZ",
+    "301101.SZ",
+    "600009.SH",
+    "688019.SH"
+  ],
+  "removed": [],
+  "checks": 373356,
+  "errors": [],
+  "annual_quarter_reconciliations": 1410,
+  "row_heights_exported": [
+    17.261904761904763
+  ],
+  "freeze": "E2",
+  "old_sheets_values_preserved": true,
+  "notes_preserved": true,
+  "industry_colors_reference": "2026-10-29（全部）",
+  "source_business_composition_preserved": true
+}

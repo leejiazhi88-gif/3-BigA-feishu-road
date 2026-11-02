@@ -1,0 +1,12 @@
+{
+  "height_px": 29,
+  "rows": 500,
+  "height_response": {
+    "code": 0,
+    "data": {},
+    "msg": "success"
+  },
+  "manual_font_cells": 20210,
+  "readback_errors": 0,
+  "conditional_formats_preserved": true
+}

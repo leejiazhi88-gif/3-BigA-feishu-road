@@ -9,6 +9,9 @@ from scripts import refresh_all_20261012 as refresh
 
 class QuarterLockingTest(unittest.TestCase):
     def setUp(self):
+        cutoff = mock.patch.object(refresh, 'ASOF', '20270331')
+        cutoff.start()
+        self.addCleanup(cutoff.stop)
         self.headers = list(refresh.EXPECTED_HEADERS)
         self.idx = {header: index for index, header in enumerate(self.headers)}
         self.row = [''] * len(self.headers)
@@ -81,8 +84,25 @@ class QuarterLockingTest(unittest.TestCase):
         self.assertEqual(refresh.shifted_range('sheet!AO2:AP10', 41), 'sheet!AO2:AQ10')
         self.assertEqual(refresh.shifted_range('sheet!AQ2:AQ10', 41), 'sheet!AR2:AR10')
 
+    def test_lock_actual_uses_latest_consolidated_restatement(self):
+        income = self.income()
+        income = pd.concat([income, pd.DataFrame([dict(
+            end_date='20260930', ann_date='20261025', f_ann_date='20261025',
+            report_type='1', n_income_attr_p=900_000_000)])], ignore_index=True)
+        result = refresh.quarterly_values(self.row, self.idx, income, self.annual)
+        self.assertEqual(result[refresh.Q3_LOCK_HEADER], '6.0（锁定预测10.0）')
+        with mock.patch.object(refresh, 'ASOF', '20261019'):
+            result = refresh.quarterly_values(self.row, self.idx, income, self.annual)
+            self.assertNotIn(refresh.Q3_LOCK_HEADER, result)
+
 
 class AnnualChangeColorTest(unittest.TestCase):
+    def test_small_revision_uses_unrounded_sign(self):
+        headers = ['代码', refresh.ANNUAL_CHANGE_HEADER]
+        values = [headers, ['X', '2026年（旧值3326.4，+0.0%）']]
+        changes = [{'code':'X','field':'2026净利润(预测,亿元)','change_ratio':.00003}]
+        self.assertEqual(refresh.annual_change_style_payload(values,changes)[0]['style']['foreColor'], '#00B050')
+
     def test_uses_earliest_year_when_later_year_moves_opposite_direction(self):
         self.assertEqual(
             refresh.annual_change_color_from_text(

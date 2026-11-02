@@ -305,7 +305,8 @@ def q3_locked_forecast(code, cell):
 
 
 def quarterly_values(row, idx, income, annual, code=None):
-    actuals = finance.actual_quarter_profit_yi(income)
+    actuals = {f'{y}Q{q}': v for (y, q), v in
+               forecast_quality.actuals(income, ASOF)[0].items()}
     weights = quarter.quarter_weights(income)
     quarter_annual = dict(annual)
     if quarter_annual.get(2026) is None:
@@ -456,11 +457,20 @@ def annual_change_style_payload(values, changes=None):
     headers = values[0]
     idx = {header: i for i, header in enumerate(headers)}
     groups = {}
+    by_code = {}
+    for change in changes or []:
+        if re.fullmatch(r'20\d{2}净利润\(预测,亿元\)', change['field']):
+            by_code.setdefault(str(change['code']), []).append(change)
     for row_number, row in enumerate(values[1:], 2):
         if not row or not row[0]:
             continue
         row = list(row) + [''] * (len(headers) - len(row))
         color = annual_change_color_from_text(row[idx[ANNUAL_CHANGE_HEADER]])
+        entries = by_code.get(str(row[idx['代码']]), [])
+        if entries:
+            ratio = min(entries, key=lambda item: item['field'])['change_ratio']
+            color = ('#000000' if ratio is None or ratio == 0 else
+                     '#00B050' if ratio > 0 else '#C00000')
         groups.setdefault(color, []).append(
             f'{TARGET}!{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}:'
             f'{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}')
@@ -720,7 +730,8 @@ def prepare():
         row[idx['股息率%']] = round(dv / 100, 6) if dv is not None else ''
 
         income, report = read_csv('income', code), read_csv('report_rc', code)
-        quarter_actuals = finance.actual_quarter_profit_yi(income)
+        quarter_actuals = {f'{y}Q{q}': v for (y, q), v in
+                          forecast_quality.actuals(income, ASOF)[0].items()}
         if quarter_actuals.get('2026Q3') is not None:
             q3_actual_count += 1
         if quarter_actuals.get('2026Q4') is not None:
@@ -764,10 +775,11 @@ def prepare():
             row[idx['本财年预估全年股息率（26年）']] = old_yield * old_cap / cap
         row_changes = make_changes(code, name, old_row, row, idx) if code in existing else []
         row[idx[ANNUAL_CHANGE_HEADER]] = annual_change_text(row_changes)
-        annual_rates = annual_change_rates_from_text(row[idx[ANNUAL_CHANGE_HEADER]])
         for year, header in ANNUAL_CHANGE_RATE_HEADERS.items():
             if header in idx:
-                row[idx[header]] = annual_rates[year]
+                ratio = percent_change(old_row[idx[f'{year}净利润(预测,亿元)']],
+                                       row[idx[f'{year}净利润(预测,亿元)']])
+                row[idx[header]] = ratio if ratio is not None else ''
         changes.extend(row_changes)
         if code in additions:
             qualified_row = qualified[qualified.ts_code.astype(str).eq(code)].iloc[0]
@@ -805,6 +817,12 @@ def prepare():
 
 
 def equivalent(a, b):
+    # Feishu turns URL-bearing source text into rich-text runs on readback.
+    def plain(value):
+        if isinstance(value, list) and all(isinstance(x, dict) and 'text' in x for x in value):
+            return ''.join(x['text'] for x in value)
+        return value
+    a, b = plain(a), plain(b)
     if a in ('', None) and b in ('', None):
         return True
     if isinstance(a, (int, float)) and isinstance(b, (int, float)):
