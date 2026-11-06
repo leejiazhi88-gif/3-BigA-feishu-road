@@ -1,0 +1,75 @@
+{
+  "asof": "2026-11-06",
+  "existing": 470,
+  "added": 4,
+  "removed": 0,
+  "final": 474,
+  "additions": [
+    {
+      "code": "603766.SH",
+      "name": "隆鑫通用",
+      "market_cap_yi": 332.5,
+      "sw_l1": "汽车",
+      "sw_l2": "摩托车及其他",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "002679.SZ",
+      "name": "福建金森",
+      "market_cap_yi": 22.9,
+      "sw_l1": "农林牧渔",
+      "sw_l2": "林业Ⅱ",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "601933.SH",
+      "name": "永辉超市",
+      "market_cap_yi": 262.4,
+      "sw_l1": "商贸零售",
+      "sw_l2": "一般零售",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "300010.SZ",
+      "name": "ST豆神",
+      "market_cap_yi": 90.1,
+      "sw_l1": "社会服务",
+      "sw_l2": "教育",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    }
+  ],
+  "forecast_changes": 2287,
+  "q3_actual_count": 472,
+  "q3_actual_complete": false,
+  "q4_actual_count": 0,
+  "q4_lock_column_inserted": false,
+  "sheet_id": "4z8eOY",
+  "url": "https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=4z8eOY",
+  "values_verified": true,
+  "conditional_formats": 0,
+  "conditional_formats_preserved": false,
+  "filter_preserved": true,
+  "notes_preserved": true,
+  "decision_notes_preserved": true,
+  "personal_note_styles_restored_by_code": true,
+  "q3_locked_comparison_rows": 472,
+  "q4_lock_column_ready": false,
+  "composition_preserved_for_existing": true,
+  "industry_colors": {
+    "rows": 474,
+    "sw_l1_categories": 31,
+    "sw_l2_categories": 131,
+    "colors_used": 10,
+    "columns_colored": "A:BI",
+    "excluded_columns": [
+      2,
+      3
+    ],
+    "reference_sheet": "2026-11-02（全部）"
+  },
+  "conditional_formats_blocker": "原表14条dataBar、1条colorScale未被copySheet复制；公开创建接口不支持且逐条返回90232 style is empty。当前会话没有浏览器控制工具，需从原表在界面复制条件格式。"
+}

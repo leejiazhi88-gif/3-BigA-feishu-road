@@ -1,0 +1,47 @@
+{
+  "companies": 474,
+  "added": [
+    "002679.SZ",
+    "300010.SZ",
+    "601933.SH",
+    "603766.SH"
+  ],
+  "removed": [],
+  "checks": 404877,
+  "errors": [],
+  "annual_quarter_reconciliations": 1422,
+  "row_heights_exported": [
+    17.261904761904763
+  ],
+  "freeze": "E2",
+  "old_sheets_values_preserved": true,
+  "notes_preserved": true,
+  "industry_colors_reference": "2026-11-02（全部）",
+  "source_business_composition_preserved": true,
+  "text_only_format_equivalences": [
+    {
+      "code": "600158.SH",
+      "cell": "R464",
+      "source": "0.0%",
+      "current": "General"
+    },
+    {
+      "code": "603605.SH",
+      "cell": "R466",
+      "source": "0.0%",
+      "current": "General"
+    },
+    {
+      "code": "300957.SZ",
+      "cell": "R467",
+      "source": "0.0%",
+      "current": "General"
+    },
+    {
+      "code": "002511.SZ",
+      "cell": "R469",
+      "source": "0.0%",
+      "current": "General"
+    }
+  ]
+}

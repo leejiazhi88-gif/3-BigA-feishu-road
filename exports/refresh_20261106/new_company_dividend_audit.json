@@ -1,0 +1,34 @@
+[
+  {
+    "code": "603766.SH",
+    "name": "隆鑫通用",
+    "fy2025_cash_dividend_yi": 14.37479295,
+    "fy2025_average_market_cap_yi": 257.26907509666665,
+    "fy2025_records": 2,
+    "fy2026_status": "分红指引及派息比例待核验"
+  },
+  {
+    "code": "002679.SZ",
+    "name": "福建金森",
+    "fy2025_cash_dividend_yi": 0.06836924,
+    "fy2025_average_market_cap_yi": 23.815624832921813,
+    "fy2025_records": 1,
+    "fy2026_status": "分红指引及派息比例待核验"
+  },
+  {
+    "code": "601933.SH",
+    "name": "永辉超市",
+    "fy2025_cash_dividend_yi": null,
+    "fy2025_average_market_cap_yi": 457.77773025864207,
+    "fy2025_records": 0,
+    "fy2026_status": "分红指引及派息比例待核验"
+  },
+  {
+    "code": "300010.SZ",
+    "name": "ST豆神",
+    "fy2025_cash_dividend_yi": null,
+    "fy2025_average_market_cap_yi": 158.20982976975307,
+    "fy2025_records": 0,
+    "fy2026_status": "分红指引及派息比例待核验"
+  }
+]

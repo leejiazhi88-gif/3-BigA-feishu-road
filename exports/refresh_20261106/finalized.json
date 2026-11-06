@@ -1,0 +1,15 @@
+{
+  "height_px": 29,
+  "rows": 500,
+  "height_response": {
+    "code": 0,
+    "data": {},
+    "msg": "success"
+  },
+  "manual_font_cells": 20382,
+  "readback_errors": 0,
+  "conditional_formats_preserved": false,
+  "personal_note_bold_restored_by_code": true,
+  "text_only_format_note": "R列4个文字单元格保留General；与源百分比格式的文字显示相同，数值列格式不变。",
+  "conditional_formats_blocker": "原表14条dataBar、1条colorScale未被copySheet复制；公开创建接口不支持且逐条返回90232 style is empty。当前会话没有浏览器控制工具，需从原表在界面复制条件格式。"
+}
