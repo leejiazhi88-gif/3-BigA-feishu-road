@@ -44,6 +44,14 @@ def main():
     assert len(visible) > 1
     codes = [str(row[code_index]) for row in visible[1:]]
     assert len(codes) == len(set(codes)), 'Duplicate stock codes'
+    dividend_headers = ('股息率%', '上财年全年股息率（25年·年日均市值）',
+                        '本财年预估全年股息率（26年）')
+    missing_dividends = [(str(row[code_index]), header)
+                         for row in visible[1:] for header in dividend_headers
+                         if row[headers.index(header)] in ('', None)]
+    assert not missing_dividends, (
+        'Complete dividend backfill before writing copied sheet',
+        missing_dividends[:20])
 
     token = feishu.get_token()
     sheet_id = args.sheet_id
