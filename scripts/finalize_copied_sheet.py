@@ -60,12 +60,22 @@ def main():
     refresh.PERSONAL_NOTE_STYLE_MAP = args.note_styles
     dynamic_styles = refresh.font_style_payload(visible)
     note_styles = refresh.personal_note_style_payload(visible)
+    annual_styles = refresh.annual_change_style_payload(visible)
+    annual_rate_styles = refresh.annual_change_rate_style_payload(visible)
     assert note_styles, 'B/C stock-specific note styles are missing'
     pe_cells = {f'{sheet_id}!{col}{row}:{col}{row}'
                 for row in range(2, len(visible) + 1) for col in 'IJKL'}
     styled_cells = {cell for item in dynamic_styles for cell in item['ranges']}
     assert pe_cells <= styled_cells, 'PE style coverage is incomplete'
-    for styles in (dynamic_styles, note_styles):
+    quarter_columns = [refresh.column_name(i + 1) for i, header in enumerate(headers)
+                       if ((header.startswith(('2026Q', '2026 Q')) and '净利润' in header)
+                           or (header.startswith('2026Q') and header.endswith('锁定预测(亿元)')))]
+    quarter_cells = {f'{sheet_id}!{col}{row}:{col}{row}'
+                     for row in range(2, len(visible) + 1) for col in quarter_columns}
+    assert quarter_cells <= styled_cells, 'Quarter comparison style coverage is incomplete'
+    r_cells = {f'{sheet_id}!R{row}:R{row}' for row in range(2, len(visible) + 1)}
+    assert r_cells <= {cell for item in annual_styles for cell in item['ranges']}, 'R style coverage is incomplete'
+    for styles in (dynamic_styles, note_styles, annual_styles, annual_rate_styles):
         for start in range(0, len(styles), 30):
             feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
                        {'data': styles[start:start + 30]})
@@ -81,6 +91,8 @@ def main():
     assert rule_count() == args.expected_rules, 'Conditional formatting changed'
     print(json.dumps({'sheet_id': sheet_id, 'stocks': len(codes),
                       'pe_cells_colored': len(pe_cells),
+                      'annual_change_cells_colored': len(r_cells),
+                      'quarter_cells_colored': len(quarter_cells),
                       'note_cells_colored': len(codes) * 2,
                       'conditional_format_rules': args.expected_rules},
                      ensure_ascii=False))
