@@ -712,7 +712,7 @@ def prepare():
             value = peak_return_value(history)
             row[idx[PEAK_RETURN_HEADER]] = fmt_pct_fraction(value) if value is not None else '历史不足'
         dv = number(item.get('dv_ttm'))
-        row[idx['股息率%']] = round(dv / 100, 6) if dv is not None else ''
+        row[idx['股息率%']] = round(dv / 100, 6) if dv is not None else 0
 
         income, report = read_csv('income', code), read_csv('report_rc', code)
         quarter_actuals = {f'{y}Q{q}': v for (y, q), v in
