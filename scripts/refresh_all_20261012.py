@@ -860,6 +860,7 @@ def apply():
         for header in ('25年收入构成', '25年利润构成', '26年收入构成', '26年利润构成'):
             assert row[idx[header]] == old[old_idx[header]]
     cf_before = json.loads((WORK / 'cf_before.json').read_text())
+    assert cf_before['data']['sheet_condition_formats'], 'Source sheet has no conditional formatting; make a full UI copy first'
     filter_before = json.loads((WORK / 'filter_before.json').read_text())
     meta_before = json.loads((WORK / 'metadata_before.json').read_text())
     summary = json.loads((WORK / 'summary.json').read_text())
