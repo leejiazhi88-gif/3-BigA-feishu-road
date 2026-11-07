@@ -95,8 +95,11 @@ def main():
                 base=number(s.cell(sr,hi[f'{year}净利润(预测,亿元)']).value)
                 expected=(annual-base)/abs(base) if base else None
                 check((v is None and expected is None) or (v is not None and expected is not None and abs(v-expected)<1e-10),code,year,'revision rate')
-        entries=bycode.get(code,[]);delta=min(entries,key=lambda x:x['field'])['change_ratio'] if entries else None
-        want='000000' if delta is None or abs(delta)<.03 else '00B050' if delta>=.03 else 'C00000'
+        text_value=str(t.cell(r,ht['本次刷新年度预测变化']).value or '')
+        matches=re.findall(r'(20\\d{2})年（旧值[^，]*，(新增预测|[-+]?\\d+(?:\\.\\d+)?%)）',text_value)
+        movement=min(matches,key=lambda x:int(x[0]))[1] if matches else None
+        delta=float(movement.rstrip('%')) if movement and movement!='新增预测' else None
+        want='000000' if delta is None or abs(delta)<3 else '00B050' if delta>=3 else 'C00000'
         check(rgb(t.cell(r,ht['本次刷新年度预测变化']).font.color)==want,code,'annual change color')
         q3=number(t.cell(r,ht['2026Q3净利润(亿元)']).value);lock=t.cell(r,ht['2026 Q3净利润(亿元) 锁定比较基础']).value
         if '（锁定预测' in str(lock):check(number(lock)==q3,code,'Q3 locked actual mismatch')
