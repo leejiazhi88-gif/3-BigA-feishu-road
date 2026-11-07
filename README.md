@@ -168,3 +168,31 @@ archive, and existing business composition are preserved by stock code.
 Industry colors use `2026-10-16（全部）` as the latest reference. Market value,
 growth, year-on-year profit, return, and dividend-yield number formats were
 verified across all 460 rows, together with the 15 conditional-format rules.
+
+## Feishu full-copy refresh completion
+
+For each new dated sheet, duplicate the previous complete sheet **in Feishu's UI**
+first. Confirm that the new copy has the same nonzero number of conditional
+formatting rules as the source. Run the date-specific `prepare` step, then
+finish the copied sheet with `finalize_copied_sheet.py` instead of writing
+values separately. This step writes the prepared values, reapplies value-based
+font colors (including PE in I:L: below 30 green, above 50 red, otherwise
+black), restores both note columns' colors by stock code, reads all values
+back, and verifies the conditional formatting count again. It stops if any
+required style input or rule is missing.
+
+For the 2026-11-06 run, the command is:
+
+```bash
+.venv/bin/python scripts/refresh_all_20261106.py prepare
+.venv/bin/python scripts/finalize_copied_sheet.py \\
+  --sheet-id <new-copied-sheet-id> \\
+  --payload work/refresh-all-20261106/payload.json \\
+  --note-styles config/personal_note_colors_20261102.json \\
+  --expected-rules 15
+```
+
+Use the actual new copied sheet ID and source rule count on later dates.
+Do not use the API sheet-copy operation for this workflow; its 2026-11-06
+result had zero conditional formatting rules. A successful value readback
+alone does not establish that the sheet's colors are correct.
