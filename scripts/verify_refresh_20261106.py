@@ -96,7 +96,7 @@ def main():
                 expected=(annual-base)/abs(base) if base else None
                 check((v is None and expected is None) or (v is not None and expected is not None and abs(v-expected)<1e-10),code,year,'revision rate')
         text_value=str(t.cell(r,ht['本次刷新年度预测变化']).value or '')
-        matches=re.findall(r'(20\\d{2})年（旧值[^，]*，(新增预测|[-+]?\\d+(?:\\.\\d+)?%)）',text_value)
+        matches=re.findall(r'(20\d{2})年（旧值[^，]*，(新增预测|[-+]?\d+(?:\.\d+)?%)）',text_value)
         movement=min(matches,key=lambda x:int(x[0]))[1] if matches else None
         delta=float(movement.rstrip('%')) if movement and movement!='新增预测' else None
         want='000000' if delta is None or abs(delta)<3 else '00B050' if delta>=3 else 'C00000'
