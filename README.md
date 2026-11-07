@@ -190,9 +190,13 @@ For the 2026-11-06 run, the command is:
 
 ```bash
 .venv/bin/python scripts/refresh_all_20261106.py prepare
+.venv/bin/python scripts/fill_dividend_payload.py \\
+  --input work/refresh-all-20261106/payload.json \\
+  --output work/refresh-all-20261106/payload_dividends.json \\
+  --asof 2026-11-06
 .venv/bin/python scripts/finalize_copied_sheet.py \\
   --sheet-id <new-copied-sheet-id> \\
-  --payload work/refresh-all-20261106/payload.json \\
+  --payload work/refresh-all-20261106/payload_dividends.json \\
   --note-styles config/personal_note_colors_20261102.json \\
   --industry-colors config/industry_color_map_20261102.json \\
   --stock-name-styles config/stock_name_font_styles_20261102.json \\
@@ -203,3 +207,13 @@ Use the actual new copied sheet ID and source rule count on later dates.
 Do not use the API sheet-copy operation for this workflow; its 2026-11-06
 result had zero conditional formatting rules. A successful value readback
 alone does not establish that the sheet's colors are correct.
+
+Dividend columns are checked before the copied sheet is written. BB is the
+Tushare trailing dividend yield; a verified absence of paid dividends in the
+last 12 months is 0. BC uses implemented 2025 fiscal-year pre-tax cash
+dividends divided by the mean of 2025 trading-day market values. BD is an
+explicit estimate from the 2025 payout ratio, 2026 profit forecast and current
+market value when those inputs are comparable. Otherwise the cell states why
+it cannot be estimated, and BE records the evidence or assumption. The
+backfill writes an audit next to its output payload. Do not treat a missing
+forecast as a zero dividend.
