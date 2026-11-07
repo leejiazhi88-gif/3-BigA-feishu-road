@@ -1,0 +1,2356 @@
+{
+  "source_sheet": "2026-11-02（全部）",
+  "codes": {
+    "688825.SH": {
+      "name": "长鑫科技",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "688981.SH": {
+      "name": "中芯国际",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "688256.SH": {
+      "name": "寒武纪",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "688041.SH": {
+      "name": "海光信息",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002371.SZ": {
+      "name": "北方华创",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688347.SH": {
+      "name": "华虹宏力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688012.SH": {
+      "name": "中微公司",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688008.SH": {
+      "name": "澜起科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603986.SH": {
+      "name": "兆易创新",
+      "foreColor": "#F54A45",
+      "bold": false
+    },
+    "688802.SH": {
+      "name": "沐曦股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688795.SH": {
+      "name": "摩尔线程",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688801.SH": {
+      "name": "燧原科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688820.SH": {
+      "name": "盛合晶微",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301666.SZ": {
+      "name": "大普微",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688072.SH": {
+      "name": "拓荆科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300604.SZ": {
+      "name": "长川科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603501.SH": {
+      "name": "豪威集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301308.SZ": {
+      "name": "江波龙",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600584.SH": {
+      "name": "长电科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688120.SH": {
+      "name": "华海清科",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688498.SH": {
+      "name": "源杰科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688082.SH": {
+      "name": "盛美上海",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688361.SH": {
+      "name": "中科飞测",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603893.SH": {
+      "name": "瑞芯微",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301660.SZ": {
+      "name": "粤芯半导体",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688146.SH": {
+      "name": "中船特气",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688702.SH": {
+      "name": "盛科通信",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688002.SH": {
+      "name": "睿创微纳",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001309.SZ": {
+      "name": "德明利",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002156.SZ": {
+      "name": "通富微电",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688396.SH": {
+      "name": "华润微",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688525.SH": {
+      "name": "佰维存储",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688469.SH": {
+      "name": "芯联集成",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688783.SH": {
+      "name": "西安奕材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688126.SH": {
+      "name": "沪硅产业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300223.SZ": {
+      "name": "君正股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688249.SH": {
+      "name": "晶合集成",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300661.SZ": {
+      "name": "圣邦股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688729.SH": {
+      "name": "屹唐股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688521.SH": {
+      "name": "芯原股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688200.SH": {
+      "name": "华峰测控",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688037.SH": {
+      "name": "芯源微",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688809.SH": {
+      "name": "强一股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601138.SH": {
+      "name": "工业富联",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "002475.SZ": {
+      "name": "立讯精密",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300433.SZ": {
+      "name": "蓝思科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603296.SH": {
+      "name": "华勤技术",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002600.SZ": {
+      "name": "领益智造",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002241.SZ": {
+      "name": "歌尔股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300857.SZ": {
+      "name": "协创数据",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688036.SH": {
+      "name": "传音控股",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300866.SZ": {
+      "name": "安克创新",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600183.SH": {
+      "name": "生益科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002384.SZ": {
+      "name": "东山精密",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002463.SZ": {
+      "name": "沪电股份",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "002916.SZ": {
+      "name": "深南电路",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300408.SZ": {
+      "name": "三环集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300476.SZ": {
+      "name": "胜宏科技",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "002938.SZ": {
+      "name": "鹏鼎控股",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001232.SZ": {
+      "name": "嘉立创",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603228.SH": {
+      "name": "景旺电子",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688183.SH": {
+      "name": "生益电子",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002436.SZ": {
+      "name": "兴森科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688519.SH": {
+      "name": "南亚新材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001389.SZ": {
+      "name": "广合科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000725.SZ": {
+      "name": "京东方A",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001399.SZ": {
+      "name": "惠科股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000100.SZ": {
+      "name": "TCL科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300054.SZ": {
+      "name": "鼎龙股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688019.SH": {
+      "name": "安集科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300285.SZ": {
+      "name": "国瓷材料",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300475.SZ": {
+      "name": "香农芯创",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002130.SZ": {
+      "name": "沃尔核材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000062.SZ": {
+      "name": "深圳华强",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002859.SZ": {
+      "name": "洁美科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601939.SH": {
+      "name": "建设银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601398.SH": {
+      "name": "工商银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601288.SH": {
+      "name": "农业银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601988.SH": {
+      "name": "中国银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601328.SH": {
+      "name": "交通银行",
+      "foreColor": "#000000",
+      "bold": true
+    },
+    "601658.SH": {
+      "name": "邮储银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600036.SH": {
+      "name": "招商银行",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "601998.SH": {
+      "name": "中信银行",
+      "foreColor": "#1F2329",
+      "bold": false
+    },
+    "601166.SH": {
+      "name": "兴业银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600000.SH": {
+      "name": "浦发银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000001.SZ": {
+      "name": "平安银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601818.SH": {
+      "name": "光大银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600016.SH": {
+      "name": "民生银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600015.SH": {
+      "name": "华夏银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601916.SH": {
+      "name": "浙商银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600919.SH": {
+      "name": "江苏银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002142.SZ": {
+      "name": "宁波银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601009.SH": {
+      "name": "南京银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601169.SH": {
+      "name": "北京银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601229.SH": {
+      "name": "上海银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600926.SH": {
+      "name": "杭州银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601838.SH": {
+      "name": "成都银行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601825.SH": {
+      "name": "沪农商行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601077.SH": {
+      "name": "渝农商行",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600030.SH": {
+      "name": "中信证券",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300059.SZ": {
+      "name": "东方财富",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601211.SH": {
+      "name": "国泰海通",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601995.SH": {
+      "name": "中金公司",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601066.SH": {
+      "name": "中信建投",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601688.SH": {
+      "name": "华泰证券",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000776.SZ": {
+      "name": "广发证券",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600999.SH": {
+      "name": "招商证券",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601881.SH": {
+      "name": "中国银河",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000166.SZ": {
+      "name": "申万宏源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002736.SZ": {
+      "name": "国信证券",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600958.SH": {
+      "name": "东方证券",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601788.SH": {
+      "name": "光大证券",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601628.SH": {
+      "name": "中国人寿",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601318.SH": {
+      "name": "中国平安",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601319.SH": {
+      "name": "中国人保",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601601.SH": {
+      "name": "中国太保",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601336.SH": {
+      "name": "新华保险",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000617.SZ": {
+      "name": "中油资本",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600901.SH": {
+      "name": "江苏金租",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688235.SH": {
+      "name": "百济神州",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600276.SH": {
+      "name": "恒瑞医药",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688506.SH": {
+      "name": "百利天恒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002653.SZ": {
+      "name": "海思科",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002422.SZ": {
+      "name": "科伦药业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600196.SH": {
+      "name": "复星医药",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300765.SZ": {
+      "name": "石药创新",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300760.SZ": {
+      "name": "迈瑞医疗",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688271.SH": {
+      "name": "联影医疗",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603259.SH": {
+      "name": "药明康德",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300015.SZ": {
+      "name": "爱尔眼科",
+      "foreColor": "#1F2329",
+      "bold": false
+    },
+    "300759.SZ": {
+      "name": "康龙化成",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002821.SZ": {
+      "name": "凯莱英",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000538.SZ": {
+      "name": "云南白药",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600436.SH": {
+      "name": "片仔癀",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688331.SH": {
+      "name": "荣昌生物",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603087.SH": {
+      "name": "甘李药业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601607.SH": {
+      "name": "上海医药",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603939.SH": {
+      "name": "益丰药房",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300750.SZ": {
+      "name": "宁德时代",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "300014.SZ": {
+      "name": "亿纬锂能",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301217.SZ": {
+      "name": "铜冠铜箔",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002709.SZ": {
+      "name": "天赐材料",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300450.SZ": {
+      "name": "先导智能",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600406.SH": {
+      "name": "国电南瑞",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600089.SH": {
+      "name": "特变电工",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002028.SZ": {
+      "name": "思源电气",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601179.SH": {
+      "name": "中国西电",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300274.SZ": {
+      "name": "阳光电源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "605117.SH": {
+      "name": "德业股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601012.SH": {
+      "name": "隆基绿能",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601727.SH": {
+      "name": "上海电气",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600875.SH": {
+      "name": "东方电气",
+      "foreColor": "#000000",
+      "bold": true
+    },
+    "600482.SH": {
+      "name": "中国动力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002851.SZ": {
+      "name": "麦格米特",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002202.SZ": {
+      "name": "金风科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002487.SZ": {
+      "name": "大金重工",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600580.SH": {
+      "name": "卧龙电驱",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301696.SZ": {
+      "name": "三瑞智能",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600941.SH": {
+      "name": "中国移动",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601728.SH": {
+      "name": "中国电信",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600050.SH": {
+      "name": "中国联通",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300442.SZ": {
+      "name": "润泽科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300308.SZ": {
+      "name": "中际旭创",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "300502.SZ": {
+      "name": "新易盛",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "601869.SH": {
+      "name": "长飞光纤",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300394.SZ": {
+      "name": "天孚通信",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000063.SZ": {
+      "name": "中兴通讯",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600487.SH": {
+      "name": "亨通光电",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002281.SZ": {
+      "name": "光迅科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600522.SH": {
+      "name": "中天科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301165.SZ": {
+      "name": "锐捷网络",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603083.SH": {
+      "name": "剑桥科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300620.SZ": {
+      "name": "光库科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601857.SH": {
+      "name": "中国石油",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600028.SH": {
+      "name": "中国石化",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002493.SZ": {
+      "name": "荣盛石化",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600346.SH": {
+      "name": "恒力石化",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000301.SZ": {
+      "name": "东方盛虹",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000703.SZ": {
+      "name": "恒逸石化",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600938.SH": {
+      "name": "中国海油",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600777.SH": {
+      "name": "新潮能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601808.SH": {
+      "name": "中海油服",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600968.SH": {
+      "name": "海油发展",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600871.SH": {
+      "name": "石化油服",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688808.SH": {
+      "name": "联讯仪器",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301377.SZ": {
+      "name": "鼎泰高科",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301689.SZ": {
+      "name": "电科思仪",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002353.SZ": {
+      "name": "杰瑞股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301200.SZ": {
+      "name": "大族数控",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601091.SH": {
+      "name": "沈鼓集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002837.SZ": {
+      "name": "英维克",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688836.SH": {
+      "name": "宇树科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300124.SZ": {
+      "name": "汇川技术",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000988.SZ": {
+      "name": "华工科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688777.SH": {
+      "name": "中控技术",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002008.SZ": {
+      "name": "大族激光",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300757.SZ": {
+      "name": "罗博特科",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600031.SH": {
+      "name": "三一重工",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601100.SH": {
+      "name": "恒立液压",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000425.SZ": {
+      "name": "徐工机械",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601766.SH": {
+      "name": "中国中车",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688187.SH": {
+      "name": "时代电气",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601899.SH": {
+      "name": "紫金矿业",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "603993.SH": {
+      "name": "洛阳钼业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002379.SZ": {
+      "name": "宏桥控股",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601600.SH": {
+      "name": "中国铝业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600362.SH": {
+      "name": "江西铜业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000807.SZ": {
+      "name": "云铝股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601168.SH": {
+      "name": "西部矿业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000630.SZ": {
+      "name": "铜陵有色",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000933.SZ": {
+      "name": "神火股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600111.SH": {
+      "name": "北方稀土",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001280.SZ": {
+      "name": "中国铀业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000657.SZ": {
+      "name": "中钨高新",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600549.SH": {
+      "name": "厦门钨业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601958.SH": {
+      "name": "金钼股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600547.SH": {
+      "name": "山东黄金",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600489.SH": {
+      "name": "中金黄金",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600988.SH": {
+      "name": "赤峰黄金",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000975.SZ": {
+      "name": "山金国际",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002460.SZ": {
+      "name": "赣锋锂业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002466.SZ": {
+      "name": "天齐锂业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603799.SH": {
+      "name": "华友钴业",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "001246.SZ": {
+      "name": "力勤资源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300748.SZ": {
+      "name": "金力永磁",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300811.SZ": {
+      "name": "铂科新材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600900.SH": {
+      "name": "长江电力",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "003816.SZ": {
+      "name": "中国广核",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601985.SH": {
+      "name": "中国核电",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600025.SH": {
+      "name": "华能水电",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600930.SH": {
+      "name": "华电新能",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001248.SZ": {
+      "name": "华润新能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600886.SH": {
+      "name": "国投电力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001289.SZ": {
+      "name": "龙源电力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600011.SH": {
+      "name": "华能国际",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600905.SH": {
+      "name": "三峡能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600795.SH": {
+      "name": "国电电力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000958.SZ": {
+      "name": "电投产融",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600674.SH": {
+      "name": "川投能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601991.SH": {
+      "name": "大唐发电",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600023.SH": {
+      "name": "浙能电力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600236.SH": {
+      "name": "桂冠电力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600027.SH": {
+      "name": "华电国际",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600803.SH": {
+      "name": "新奥股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "605090.SH": {
+      "name": "九丰能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000338.SZ": {
+      "name": "潍柴动力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600660.SH": {
+      "name": "福耀玻璃",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601689.SH": {
+      "name": "拓普集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002594.SZ": {
+      "name": "比亚迪",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "600104.SH": {
+      "name": "上汽集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601633.SH": {
+      "name": "长城汽车",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601127.SH": {
+      "name": "赛力斯",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000625.SZ": {
+      "name": "长安汽车",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600066.SH": {
+      "name": "宇通客车",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600418.SH": {
+      "name": "江淮汽车",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603129.SH": {
+      "name": "春风动力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601777.SH": {
+      "name": "千里科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601965.SH": {
+      "name": "中国汽研",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600335.SH": {
+      "name": "国机汽车",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600519.SH": {
+      "name": "贵州茅台",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "000858.SZ": {
+      "name": "五粮液",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600809.SH": {
+      "name": "山西汾酒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000568.SZ": {
+      "name": "泸州老窖",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600887.SH": {
+      "name": "伊利股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "605499.SH": {
+      "name": "东鹏饮料",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603288.SH": {
+      "name": "海天味业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600298.SH": {
+      "name": "安琪酵母",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000895.SZ": {
+      "name": "双汇发展",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603345.SH": {
+      "name": "安井食品",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600600.SH": {
+      "name": "青岛啤酒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000729.SZ": {
+      "name": "燕京啤酒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002847.SZ": {
+      "name": "盐津铺子",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002557.SZ": {
+      "name": "洽洽食品",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600309.SH": {
+      "name": "万华化学",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600160.SH": {
+      "name": "巨化股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002001.SZ": {
+      "name": "新和成",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000792.SZ": {
+      "name": "盐湖股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000408.SZ": {
+      "name": "藏格矿业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600989.SH": {
+      "name": "宝丰能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002648.SZ": {
+      "name": "卫星化学",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688585.SH": {
+      "name": "上纬新材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601208.SH": {
+      "name": "东材科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002064.SZ": {
+      "name": "华峰化学",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603225.SH": {
+      "name": "新凤鸣",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688295.SH": {
+      "name": "中复神鹰",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603650.SH": {
+      "name": "彤程新材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603033.SH": {
+      "name": "三维股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688300.SH": {
+      "name": "联瑞新材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603688.SH": {
+      "name": "石英股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300033.SZ": {
+      "name": "同花顺",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688111.SH": {
+      "name": "金山办公",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002230.SZ": {
+      "name": "科大讯飞",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601360.SH": {
+      "name": "三六零",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300454.SZ": {
+      "name": "深信服",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000938.SZ": {
+      "name": "紫光股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301638.SZ": {
+      "name": "南网数字",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002415.SZ": {
+      "name": "海康威视",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603019.SH": {
+      "name": "中科曙光",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000977.SZ": {
+      "name": "浪潮信息",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601919.SH": {
+      "name": "中远海控",
+      "foreColor": "#F54A45",
+      "bold": false
+    },
+    "601872.SH": {
+      "name": "招商轮船",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600018.SH": {
+      "name": "上港集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600026.SH": {
+      "name": "中远海能",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601018.SH": {
+      "name": "宁波港",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601298.SH": {
+      "name": "青岛港",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001872.SZ": {
+      "name": "招商港口",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601816.SH": {
+      "name": "京沪高铁",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601006.SH": {
+      "name": "大秦铁路",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600377.SH": {
+      "name": "宁沪高速",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001965.SZ": {
+      "name": "招商公路",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002352.SZ": {
+      "name": "顺丰控股",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600233.SH": {
+      "name": "圆通速递",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601111.SH": {
+      "name": "中国国航",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600029.SH": {
+      "name": "南方航空",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600115.SH": {
+      "name": "中国东航",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600009.SH": {
+      "name": "上海机场",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "302132.SZ": {
+      "name": "中航成飞",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600760.SH": {
+      "name": "中航沈飞",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600893.SH": {
+      "name": "航发动力",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000768.SZ": {
+      "name": "中航西飞",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002179.SZ": {
+      "name": "中航光电",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002414.SZ": {
+      "name": "高德红外",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600150.SH": {
+      "name": "中国船舶",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603268.SH": {
+      "name": "松发股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601698.SH": {
+      "name": "中国卫通",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688818.SH": {
+      "name": "电科蓝天",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600118.SH": {
+      "name": "中国卫星",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600967.SH": {
+      "name": "内蒙一机",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601606.SH": {
+      "name": "长城军工",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601088.SH": {
+      "name": "中国神华",
+      "foreColor": "#F54A45",
+      "bold": false
+    },
+    "601225.SH": {
+      "name": "陕西煤业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600188.SH": {
+      "name": "兖矿能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601898.SH": {
+      "name": "中煤能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002128.SZ": {
+      "name": "电投能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000723.SZ": {
+      "name": "美锦能源",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600740.SH": {
+      "name": "山西焦化",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000333.SZ": {
+      "name": "美的集团",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "000651.SZ": {
+      "name": "格力电器",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600690.SH": {
+      "name": "海尔智家",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002050.SZ": {
+      "name": "三花智控",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600619.SH": {
+      "name": "海立股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002290.SZ": {
+      "name": "禾盛新材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002032.SZ": {
+      "name": "苏泊尔",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688169.SH": {
+      "name": "石头科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603486.SH": {
+      "name": "科沃斯",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600060.SH": {
+      "name": "海信视像",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002429.SZ": {
+      "name": "兆驰股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603303.SH": {
+      "name": "得邦照明",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603515.SH": {
+      "name": "欧普照明",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301362.SZ": {
+      "name": "民爆光电",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002508.SZ": {
+      "name": "老板电器",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603366.SH": {
+      "name": "日出东方",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300911.SZ": {
+      "name": "亿田智能",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002614.SZ": {
+      "name": "奥佳华",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603579.SH": {
+      "name": "荣泰健康",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601390.SH": {
+      "name": "中国中铁",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601868.SH": {
+      "name": "中国能建",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601800.SH": {
+      "name": "中国交建",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601186.SH": {
+      "name": "中国铁建",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601669.SH": {
+      "name": "中国电建",
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "600039.SH": {
+      "name": "四川路桥",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601618.SH": {
+      "name": "中国中冶",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601117.SH": {
+      "name": "中国化学",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601668.SH": {
+      "name": "中国建筑",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600170.SH": {
+      "name": "上海建工",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600667.SH": {
+      "name": "太极实业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600629.SH": {
+      "name": "华建集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601886.SH": {
+      "name": "江河集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002081.SZ": {
+      "name": "金螳螂",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002602.SZ": {
+      "name": "世纪华通",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300418.SZ": {
+      "name": "昆仑万维",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601928.SH": {
+      "name": "凤凰传媒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601811.SH": {
+      "name": "新华文轩",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002027.SZ": {
+      "name": "分众传媒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300058.SZ": {
+      "name": "蓝色光标",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300251.SZ": {
+      "name": "光线传媒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600977.SH": {
+      "name": "中国电影",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300413.SZ": {
+      "name": "芒果超媒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603000.SH": {
+      "name": "人民网",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600637.SH": {
+      "name": "东方明珠",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600959.SH": {
+      "name": "江苏有线",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002714.SZ": {
+      "name": "牧原股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300498.SZ": {
+      "name": "温氏股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300999.SZ": {
+      "name": "金龙鱼",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600737.SH": {
+      "name": "中粮糖业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002311.SZ": {
+      "name": "海大集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000876.SZ": {
+      "name": "新希望",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600598.SH": {
+      "name": "北大荒",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601118.SH": {
+      "name": "海南橡胶",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600201.SH": {
+      "name": "生物股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300119.SZ": {
+      "name": "瑞普生物",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000592.SZ": {
+      "name": "平潭发展",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600265.SH": {
+      "name": "*ST景谷",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600467.SH": {
+      "name": "好当家",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300094.SZ": {
+      "name": "国联水产",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000798.SZ": {
+      "name": "中水渔业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002556.SZ": {
+      "name": "辉隆股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300021.SZ": {
+      "name": "大禹节水",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600176.SH": {
+      "name": "中国巨石",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301526.SZ": {
+      "name": "国际复材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603256.SH": {
+      "name": "宏和科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002080.SZ": {
+      "name": "中材科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600585.SH": {
+      "name": "海螺水泥",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600801.SH": {
+      "name": "华新建材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000786.SZ": {
+      "name": "北新建材",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002271.SZ": {
+      "name": "东方雨虹",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001979.SZ": {
+      "name": "招商蛇口",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600048.SH": {
+      "name": "保利发展",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001914.SZ": {
+      "name": "招商积余",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000560.SZ": {
+      "name": "我爱我家",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603195.SH": {
+      "name": "公牛集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603816.SH": {
+      "name": "顾家家居",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002831.SZ": {
+      "name": "裕同科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002701.SZ": {
+      "name": "奥瑞金",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "003018.SZ": {
+      "name": "金富科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002078.SZ": {
+      "name": "太阳纸业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603733.SH": {
+      "name": "仙鹤股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603899.SH": {
+      "name": "晨光股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301101.SZ": {
+      "name": "明月镜片",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002348.SZ": {
+      "name": "高乐股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600415.SH": {
+      "name": "小商品城",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300972.SZ": {
+      "name": "万辰集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601888.SH": {
+      "name": "中国中免",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600185.SH": {
+      "name": "珠免集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601061.SH": {
+      "name": "中信金属",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600710.SH": {
+      "name": "苏美达",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603613.SH": {
+      "name": "国联股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002315.SZ": {
+      "name": "焦点科技",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002024.SZ": {
+      "name": "ST易购",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002416.SZ": {
+      "name": "爱施德",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000829.SZ": {
+      "name": "天音控股",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600019.SH": {
+      "name": "宝钢股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600010.SH": {
+      "name": "包钢股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000708.SZ": {
+      "name": "中信特钢",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600282.SH": {
+      "name": "南钢股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600295.SH": {
+      "name": "鄂尔多斯",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001203.SZ": {
+      "name": "大中矿业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603568.SH": {
+      "name": "伟明环保",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600323.SH": {
+      "name": "瀚蓝环境",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002266.SZ": {
+      "name": "浙富控股",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603588.SH": {
+      "name": "高能时代",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600388.SH": {
+      "name": "紫金龙净",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000967.SZ": {
+      "name": "盈峰环境",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600177.SH": {
+      "name": "雅戈尔",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600398.SH": {
+      "name": "海澜之家",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300979.SZ": {
+      "name": "华利集团",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002003.SZ": {
+      "name": "伟星股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600612.SH": {
+      "name": "老凤祥",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002867.SZ": {
+      "name": "周大生",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600916.SH": {
+      "name": "中国黄金",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300012.SZ": {
+      "name": "华测检测",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002967.SZ": {
+      "name": "广电计量",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300144.SZ": {
+      "name": "宋城演艺",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603099.SH": {
+      "name": "长白山",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002607.SZ": {
+      "name": "中公教育",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300192.SZ": {
+      "name": "科德教育",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600754.SH": {
+      "name": "锦江酒店",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600258.SH": {
+      "name": "首旅酒店",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600158.SH": {
+      "name": "中体产业",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002858.SZ": {
+      "name": "力盛体育",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603605.SH": {
+      "name": "珀莱雅",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300957.SZ": {
+      "name": "贝泰妮",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300888.SZ": {
+      "name": "稳健医疗",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002511.SZ": {
+      "name": "中顺洁柔",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "003006.SZ": {
+      "name": "百亚股份",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300896.SZ": {
+      "name": "爱美客",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688363.SH": {
+      "name": "华熙生物",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "920982.BJ": {
+      "name": "锦波生物",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600673.SH": {
+      "name": "东阳光",
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000833.SZ": {
+      "name": "粤桂股份",
+      "foreColor": "#000000",
+      "bold": false
+    }
+  }
+}
+
