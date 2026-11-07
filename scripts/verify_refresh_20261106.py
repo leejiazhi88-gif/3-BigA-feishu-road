@@ -41,7 +41,7 @@ def main():
     compositions=('25年收入构成','25年利润构成','26年收入构成','26年利润构成')
     pe=('PE(TTM)','2026 PE(预测)','2027 PE(预测)','2028 PE(预测)')
     yoy=('2025净利润同比%(实际/预测)','2026净利润同比%(预测)','2027净利润同比%(预测)','2028净利润同比%(预测)')
-    qh=('2026Q1净利润(亿元)','2026Q2锁定预测(亿元)','2026Q2净利润(亿元)','2026 Q3净利润(亿元) 锁定比较基础','2026Q3净利润(亿元)','2026Q4净利润(亿元)')
+    qh=tuple(t.cell(1,c).value for c in range(40,54))  # AN:BA
     rates=('26年预测变化率','27年预测变化率','28年预测变化率')
     dynamic=set(pe+yoy+qh+rates+('本次刷新年度预测变化',))
     errors=[];checks=0;text_format_equivalences=[]
@@ -82,11 +82,11 @@ def main():
         for h in qh:
             c=t.cell(r,ht[h]);m=re.search(r'([-+]?\d+(?:\.\d+)?)（(?:上个Q预测|锁定预测|未锁定预测)([-+]?\d+(?:\.\d+)?)）',str(c.value or ''));want='000000'
             if m:
-                actual,baseline=map(float,m.groups());ratio=(actual-baseline)/abs(baseline) if baseline else (0 if abs(actual)<=.05 else (1 if actual>0 else -1))
+                actual,baseline=map(float,m.groups())
                 want='00B050' if actual>baseline else 'C00000' if actual<baseline else '000000'
             check(rgb(c.font.color)==want,code,h,'actual font')
         for year,h in zip((2026,2027,2028),rates):
-            c=t.cell(r,ht[h]);v=number(c.value);want='000000' if not v else '00B050' if v>0 else 'C00000'
+            c=t.cell(r,ht[h]);v=number(c.value);want='000000' if v is None or abs(v)<.03 else '00B050' if v>=.03 else 'C00000'
             check(rgb(c.font.color)==want,code,h,'rate color')
             annual=number(t.cell(r,ht[f'{year}净利润(预测,亿元)']).value)
             parts=[number(t.cell(r,ht[f'{year}Q{q}净利润(亿元)']).value) for q in range(1,5)]
