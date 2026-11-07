@@ -410,7 +410,7 @@ def annual_change_color_from_text(text):
     if movement == '新增预测':
         return '#000000'
     ratio = float(movement.rstrip('%'))
-    return '#00B050' if ratio > 0 else '#C00000' if ratio < 0 else '#000000'
+    return '#00B050' if ratio >= 3 else '#C00000' if ratio <= -3 else '#000000'
 
 
 def annual_change_rates_from_text(text):
@@ -469,8 +469,8 @@ def annual_change_style_payload(values, changes=None):
         entries = by_code.get(str(row[idx['代码']]), [])
         if entries:
             ratio = min(entries, key=lambda item: item['field'])['change_ratio']
-            color = ('#000000' if ratio is None or ratio == 0 else
-                     '#00B050' if ratio > 0 else '#C00000')
+            color = ('#000000' if ratio is None or abs(ratio) < .03 else
+                     '#00B050' if ratio >= .03 else '#C00000')
         groups.setdefault(color, []).append(
             f'{TARGET}!{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}:'
             f'{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}')
@@ -574,9 +574,8 @@ def font_style_payload(values):
             color = '#000000'
             if match:
                 actual, forecast = map(float, match.groups())
-                ratio = ((actual - forecast) / abs(forecast) if forecast else
-                         (0 if abs(actual) <= .05 else math.copysign(1, actual)))
-                color = '#0070C0' if abs(ratio) <= .10 else '#00B050' if ratio > .10 else '#C00000'
+                color = ('#00B050' if actual > forecast else
+                         '#C00000' if actual < forecast else '#000000')
             add(row_number, header, color)
     styles = []
     for color, ranges in groups.items():
