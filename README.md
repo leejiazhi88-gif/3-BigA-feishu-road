@@ -179,8 +179,9 @@ values separately. This step writes the prepared values, reapplies value-based
 font colors (PE in I:L: below 30 green, above 50 red; R:U: annual
 profit forecast changes at least +3% green, at most -3% red, otherwise black;
 AN:BA: quarterly actual profit above forecast green, below forecast red,
-equal or without a comparison black), restores both note columns' colors by
-stock code, reads all values
+equal or without a comparison black), restores industry row fills by the
+current D/E industry pair while leaving B/C note fills independent, restores
+both note columns' colors by stock code, reads all values
 back, and verifies the conditional formatting count again. It stops if any
 required style input or rule is missing.
 
@@ -192,6 +193,7 @@ For the 2026-11-06 run, the command is:
   --sheet-id <new-copied-sheet-id> \\
   --payload work/refresh-all-20261106/payload.json \\
   --note-styles config/personal_note_colors_20261102.json \\
+  --industry-colors config/industry_color_map_20261102.json \\
   --expected-rules 15
 ```
 
