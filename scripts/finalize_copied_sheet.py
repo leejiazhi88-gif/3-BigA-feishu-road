@@ -5,6 +5,7 @@ its conditional formatting rules. Payload comes from refresh_all_* prepare.
 """
 import argparse
 import json
+from collections import defaultdict
 from pathlib import Path
 import sys
 
@@ -23,6 +24,8 @@ def main():
                         help='B/C font and fill styles keyed by stock code')
     parser.add_argument('--industry-colors', required=True, type=Path,
                         help='Industry pair to row fill mapping from the prior sheet')
+    parser.add_argument('--stock-name-styles', required=True, type=Path,
+                        help='A-column font color and bold keyed by stock code')
     parser.add_argument('--expected-rules', required=True, type=int)
     args = parser.parse_args()
     if args.expected_rules <= 0:
@@ -71,6 +74,27 @@ def main():
     assert industry_result['rows'] == len(codes), 'Industry fill coverage is incomplete'
     dynamic_styles = refresh.font_style_payload(visible)
     note_styles = refresh.personal_note_style_payload(visible)
+    saved_names = json.loads(args.stock_name_styles.read_text(encoding='utf-8'))['codes']
+    saved_notes_data = json.loads(args.note_styles.read_text(encoding='utf-8'))
+    saved_note_codes = saved_notes_data.get('codes', saved_notes_data)
+    assert set(codes) - set(saved_names) == set(codes) - set(saved_note_codes), (
+        'Stock name style coverage differs from previous-sheet note coverage')
+    name_groups = defaultdict(list)
+    for row_number, row in enumerate(visible[1:], 2):
+        code = str(row[code_index])
+        style = saved_names.get(code)
+        if style:
+            assert style['name'] == str(row[0]), (code, style['name'], row[0])
+            color, bold = style['foreColor'], bool(style['bold'])
+        else:
+            color, bold = '#000000', False
+        name_groups[(color, bold)].append(f'{sheet_id}!A{row_number}:A{row_number}')
+    name_styles = []
+    for (color, bold), ranges in name_groups.items():
+        for start in range(0, len(ranges), 100):
+            name_styles.append({'ranges': ranges[start:start + 100],
+                                'style': {'foreColor': color, 'font': {'bold': bold}}})
+    assert sum(len(x['ranges']) for x in name_styles) == len(codes)
     annual_styles = refresh.annual_change_style_payload(visible)
     annual_rate_styles = refresh.annual_change_rate_style_payload(visible)
     assert note_styles, 'B/C stock-specific note styles are missing'
@@ -88,7 +112,7 @@ def main():
     annual_styled = {cell for item in annual_styles + annual_rate_styles
                      for cell in item['ranges']}
     assert annual_cells <= annual_styled, 'R:U style coverage is incomplete'
-    for styles in (industry_styles, dynamic_styles, note_styles,
+    for styles in (industry_styles, name_styles, dynamic_styles, note_styles,
                    annual_styles, annual_rate_styles):
         for start in range(0, len(styles), 30):
             feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
@@ -108,6 +132,7 @@ def main():
                       'annual_change_cells_colored': len(annual_cells),
                       'quarter_cells_colored': len(quarter_cells),
                       'industry_rows_colored': industry_result['rows'],
+                      'stock_names_styled': len(codes),
                       'note_cells_colored': len(codes) * 2,
                       'conditional_format_rules': args.expected_rules},
                      ensure_ascii=False))
