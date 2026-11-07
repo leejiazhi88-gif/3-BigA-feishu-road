@@ -176,8 +176,11 @@ first. Confirm that the new copy has the same nonzero number of conditional
 formatting rules as the source. Run the date-specific `prepare` step, then
 finish the copied sheet with `finalize_copied_sheet.py` instead of writing
 values separately. This step writes the prepared values, reapplies value-based
-font colors (including PE in I:L: below 30 green, above 50 red, otherwise
-black), restores both note columns' colors by stock code, reads all values
+font colors (PE in I:L: below 30 green, above 50 red; R: nearest-year
+profit forecast change at least +3% green, at most -3% red, otherwise black;
+quarterly profit comparisons from AN onward: actual above forecast green,
+below forecast red, equal black), restores both note columns' colors by stock
+code, reads all values
 back, and verifies the conditional formatting count again. It stops if any
 required style input or rule is missing.
 
