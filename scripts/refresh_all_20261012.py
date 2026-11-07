@@ -438,8 +438,8 @@ def annual_change_rate_style_payload(values):
             if header not in idx:
                 continue
             value = number(row[idx[header]])
-            color = ('#000000' if value is None or value == 0
-                     else '#00B050' if value > 0 else '#C00000')
+            color = ('#000000' if value is None or abs(value) < .03
+                     else '#00B050' if value >= .03 else '#C00000')
             groups.setdefault(color, []).append(
                 f'{TARGET}!{column_name(idx[header] + 1)}{row_number}:'
                 f'{column_name(idx[header] + 1)}{row_number}')
@@ -543,12 +543,7 @@ def font_style_payload(values):
     pe_headers = ['PE(TTM)', '2026 PE(预测)', '2027 PE(预测)', '2028 PE(预测)']
     yoy_headers = ['2025净利润同比%(实际/预测)', '2026净利润同比%(预测)',
                    '2027净利润同比%(预测)', '2028净利润同比%(预测)']
-    actual_headers = [
-        header for header in (
-            '2026Q1净利润(亿元)', '2026Q2锁定预测(亿元)', '2026Q2净利润(亿元)',
-            q3_lock_header(idx), Q3_NORMAL_HEADER, Q4_LOCK_HEADER, Q4_NORMAL_HEADER,
-        ) if header in idx
-    ]
+    actual_headers = headers[39:53]  # AN:BA, the complete quarterly-profit area
     for row_number, row in enumerate(rows, 2):
         row = list(row) + [''] * (len(headers) - len(row))
         for header in pe_headers:
