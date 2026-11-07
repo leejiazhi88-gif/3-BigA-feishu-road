@@ -83,7 +83,7 @@ def main():
             c=t.cell(r,ht[h]);m=re.search(r'([-+]?\d+(?:\.\d+)?)（(?:上个Q预测|锁定预测|未锁定预测)([-+]?\d+(?:\.\d+)?)）',str(c.value or ''));want='000000'
             if m:
                 actual,baseline=map(float,m.groups());ratio=(actual-baseline)/abs(baseline) if baseline else (0 if abs(actual)<=.05 else (1 if actual>0 else -1))
-                want='0070C0' if abs(ratio)<=.10 else '00B050' if ratio>.10 else 'C00000'
+                want='00B050' if actual>baseline else 'C00000' if actual<baseline else '000000'
             check(rgb(c.font.color)==want,code,h,'actual font')
         for year,h in zip((2026,2027,2028),rates):
             c=t.cell(r,ht[h]);v=number(c.value);want='000000' if not v else '00B050' if v>0 else 'C00000'
@@ -96,7 +96,7 @@ def main():
                 expected=(annual-base)/abs(base) if base else None
                 check((v is None and expected is None) or (v is not None and expected is not None and abs(v-expected)<1e-10),code,year,'revision rate')
         entries=bycode.get(code,[]);delta=min(entries,key=lambda x:x['field'])['change_ratio'] if entries else None
-        want='000000' if not delta else '00B050' if delta>0 else 'C00000'
+        want='000000' if delta is None or abs(delta)<.03 else '00B050' if delta>=.03 else 'C00000'
         check(rgb(t.cell(r,ht['本次刷新年度预测变化']).font.color)==want,code,'annual change color')
         q3=number(t.cell(r,ht['2026Q3净利润(亿元)']).value);lock=t.cell(r,ht['2026 Q3净利润(亿元) 锁定比较基础']).value
         if '（锁定预测' in str(lock):check(number(lock)==q3,code,'Q3 locked actual mismatch')
