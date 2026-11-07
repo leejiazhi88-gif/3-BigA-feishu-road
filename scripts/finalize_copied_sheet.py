@@ -21,6 +21,8 @@ def main():
                         help='payload.json made by the refresh prepare step')
     parser.add_argument('--note-styles', required=True, type=Path,
                         help='B/C font and fill styles keyed by stock code')
+    parser.add_argument('--industry-colors', required=True, type=Path,
+                        help='Industry pair to row fill mapping from the prior sheet')
     parser.add_argument('--expected-rules', required=True, type=int)
     args = parser.parse_args()
     if args.expected_rules <= 0:
@@ -58,6 +60,15 @@ def main():
 
     refresh.TARGET = sheet_id
     refresh.PERSONAL_NOTE_STYLE_MAP = args.note_styles
+    note_columns = {headers.index(h) + 1 for h in (
+        '笔记（AI别刷新这部分，我自己记录）', refresh.DECISION_NOTE_HEADER)
+        if h in headers}
+    assert note_columns == {2, 3}, 'B/C note columns have moved'
+    industry_styles, industry_result = refresh.industry_style_payload(
+        visible, sheet_id, args.industry_colors, clear_to=500,
+        l1_index=headers.index('申万一级'), l2_index=headers.index('申万二级'),
+        column_count=width, excluded_columns=note_columns)
+    assert industry_result['rows'] == len(codes), 'Industry fill coverage is incomplete'
     dynamic_styles = refresh.font_style_payload(visible)
     note_styles = refresh.personal_note_style_payload(visible)
     annual_styles = refresh.annual_change_style_payload(visible)
@@ -77,7 +88,8 @@ def main():
     annual_styled = {cell for item in annual_styles + annual_rate_styles
                      for cell in item['ranges']}
     assert annual_cells <= annual_styled, 'R:U style coverage is incomplete'
-    for styles in (dynamic_styles, note_styles, annual_styles, annual_rate_styles):
+    for styles in (industry_styles, dynamic_styles, note_styles,
+                   annual_styles, annual_rate_styles):
         for start in range(0, len(styles), 30):
             feishu.api(feishu.BASE + '/styles_batch_update', token, 'PUT',
                        {'data': styles[start:start + 30]})
@@ -95,6 +107,7 @@ def main():
                       'pe_cells_colored': len(pe_cells),
                       'annual_change_cells_colored': len(annual_cells),
                       'quarter_cells_colored': len(quarter_cells),
+                      'industry_rows_colored': industry_result['rows'],
                       'note_cells_colored': len(codes) * 2,
                       'conditional_format_rules': args.expected_rules},
                      ensure_ascii=False))
