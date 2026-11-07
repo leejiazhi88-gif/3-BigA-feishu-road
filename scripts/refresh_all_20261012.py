@@ -457,20 +457,11 @@ def annual_change_style_payload(values, changes=None):
     headers = values[0]
     idx = {header: i for i, header in enumerate(headers)}
     groups = {}
-    by_code = {}
-    for change in changes or []:
-        if re.fullmatch(r'20\d{2}净利润\(预测,亿元\)', change['field']):
-            by_code.setdefault(str(change['code']), []).append(change)
     for row_number, row in enumerate(values[1:], 2):
         if not row or not row[0]:
             continue
         row = list(row) + [''] * (len(headers) - len(row))
         color = annual_change_color_from_text(row[idx[ANNUAL_CHANGE_HEADER]])
-        entries = by_code.get(str(row[idx['代码']]), [])
-        if entries:
-            ratio = min(entries, key=lambda item: item['field'])['change_ratio']
-            color = ('#000000' if ratio is None or abs(ratio) < .03 else
-                     '#00B050' if ratio >= .03 else '#C00000')
         groups.setdefault(color, []).append(
             f'{TARGET}!{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}:'
             f'{column_name(idx[ANNUAL_CHANGE_HEADER] + 1)}{row_number}')
