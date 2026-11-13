@@ -1,0 +1,8063 @@
+{
+  "source_sheet": "2026-11-06（新）",
+  "codes": {
+    "688825.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#8EE085",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#F54A45",
+        "bold": false
+      }
+    },
+    "688981.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688256.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#8EE085",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688041.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002371.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688347.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#8EE085",
+        "foreColor": "#1F2329",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688012.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688802.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688008.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": true
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603986.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#1F2329",
+        "bold": false
+      }
+    },
+    "688801.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#1F2329",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688795.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#8EE085",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#F54A45",
+        "bold": false
+      }
+    },
+    "688820.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688072.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301666.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#8EE085",
+        "foreColor": "#1F2329",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300604.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603501.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688120.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301308.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688082.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600584.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688361.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603893.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301660.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688146.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688498.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688702.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002156.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688126.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688396.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688249.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688783.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688729.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688469.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#BACEFD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#8EE085",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688525.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001309.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688002.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300661.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688521.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300223.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#F54A45",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688200.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688037.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688809.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": true
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601138.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002475.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300433.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603296.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002600.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002241.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688036.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300857.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300866.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600183.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#DC9B04",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002384.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAD355",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300408.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002463.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002916.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300476.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002938.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAD355",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001232.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603228.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688183.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002436.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FAF1D1",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001389.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFC60A",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688519.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#DC9B04",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000725.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001399.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000100.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300054.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688019.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300285.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300475.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFBA6B",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000062.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002130.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002859.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601939.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601398.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601288.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601988.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601328.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601658.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600036.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601998.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601166.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600000.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000001.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601818.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600016.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600015.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601916.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600919.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002142.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601009.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601169.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600926.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601229.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601838.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601825.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601077.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688235.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600276.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688506.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002422.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002653.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600196.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300765.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300760.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#036356",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688271.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#036356",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603259.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#64E8D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300759.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#64E8D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300015.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#036356",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002821.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#64E8D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000538.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600436.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688331.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603087.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#036356",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601607.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603939.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#04B49C",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600030.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300059.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601211.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601995.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601066.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601688.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000776.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600999.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601881.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000166.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002736.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600958.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601788.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601628.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601318.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601319.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601601.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601336.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000617.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600901.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300750.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300014.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002709.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301217.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300450.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600406.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600089.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002028.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601179.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300274.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "605117.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#AD82F7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601012.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601727.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600875.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600482.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002851.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002202.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002487.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600580.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301696.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600941.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601728.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600050.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300442.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300308.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300502.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601869.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000063.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300394.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600487.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600522.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301165.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002281.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300620.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603083.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#049FD7",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D5F6F2",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688808.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301377.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301689.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002353.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301200.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601091.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002837.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688836.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300124.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000988.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688777.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002008.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300757.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600031.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601100.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000425.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601766.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688187.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601857.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600028.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002493.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600346.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000301.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000703.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600938.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600777.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601808.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600968.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600871.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601899.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#F54A45",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603993.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002379.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601600.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600362.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000807.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601168.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000630.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000933.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600111.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001280.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000657.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600549.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601958.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600547.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600489.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600988.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000975.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002460.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002466.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603799.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#F54A45",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001246.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300748.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300811.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600900.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "003816.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600025.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601985.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600930.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001248.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600886.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001289.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600011.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600905.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600795.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000958.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601991.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600674.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600023.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600236.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600027.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600803.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "605090.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600309.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600160.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002001.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000792.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000408.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600989.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002648.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688585.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601208.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002064.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603225.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688295.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603650.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603033.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688300.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603688.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000338.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600660.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601689.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002594.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601633.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600104.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601127.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000625.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600066.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600418.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603129.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603766.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601777.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601965.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600335.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600519.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000858.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600809.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000568.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600887.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "605499.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603288.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600298.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000895.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603345.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600600.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000729.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002847.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002557.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300033.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688111.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002230.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601360.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300454.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000938.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301638.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002415.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603019.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#7EDAFB",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000977.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#037EAA",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601919.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600018.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601872.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600026.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601018.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601298.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001872.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601816.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601006.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001965.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600377.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002352.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600233.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601111.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600029.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600115.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F3FD",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600009.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "302132.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600760.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600893.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000768.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002179.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002414.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600150.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603268.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601698.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688818.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600118.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600967.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601606.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FBBFBC",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601088.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601225.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601898.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600188.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002128.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000723.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600740.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000333.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000651.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600690.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002050.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#DE7802",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600619.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002290.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002032.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688169.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603486.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600060.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002429.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603303.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603515.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301362.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002508.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603366.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300911.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002614.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603579.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601390.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601868.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601800.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601186.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601669.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600039.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601618.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601117.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601668.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600170.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600667.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600629.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601886.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002081.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002602.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300418.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601928.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601811.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002027.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300058.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300251.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600977.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300413.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603000.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600637.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600959.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002714.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300498.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300999.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600737.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002311.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000876.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600598.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601118.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600201.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300119.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000592.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002679.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600265.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300094.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600467.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000798.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002556.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300021.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#D9F5D6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600176.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301526.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603256.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002080.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600585.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600801.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000786.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002271.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001979.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600048.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001914.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000560.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#E1EAFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603195.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603816.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002831.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002701.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "003018.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002078.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603733.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603899.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "301101.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002348.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600415.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601933.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300972.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601888.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600185.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "601061.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600710.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603613.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002315.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002024.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002416.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000829.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FED4A4",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600019.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600010.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000708.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600282.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600295.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "001203.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603568.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600323.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002266.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603588.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600388.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000967.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600177.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600398.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300979.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002003.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600612.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002867.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600916.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300012.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002967.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300144.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603099.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002607.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300010.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300192.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600754.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600258.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600158.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002858.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#ECE2FE",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "603605.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300957.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300888.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "002511.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "003006.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "300896.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "920982.BJ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FFFFFF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "688363.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#FDDDEF",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "600673.SH": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    },
+    "000833.SZ": {
+      "笔记1 细分归类（AI别刷新这块）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记2 26Q3财报季（AI也别刷新）": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      },
+      "笔记3 动作": {
+        "backColor": "#EEF6C6",
+        "foreColor": "#000000",
+        "bold": false
+      }
+    }
+  }
+}

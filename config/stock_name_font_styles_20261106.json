@@ -1,0 +1,1901 @@
+{
+  "source_sheet": "2026-11-06（新）",
+  "codes": {
+    "688825.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "688981.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "688256.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "688041.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002371.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688347.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688012.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688802.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688008.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603986.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "688801.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688795.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688820.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688072.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301666.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300604.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603501.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688120.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301308.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688082.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600584.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688361.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603893.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301660.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688146.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688498.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688702.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002156.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688126.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688396.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688249.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688783.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688729.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688469.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688525.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001309.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688002.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300661.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688521.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300223.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688200.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688037.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688809.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601138.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "002475.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300433.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603296.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002600.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002241.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688036.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300857.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300866.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600183.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002384.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300408.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002463.SZ": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "002916.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300476.SZ": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "002938.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001232.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603228.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688183.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002436.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001389.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688519.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000725.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001399.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000100.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300054.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688019.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300285.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300475.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000062.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002130.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002859.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601939.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601398.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601288.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601988.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601328.SH": {
+      "foreColor": "#000000",
+      "bold": true
+    },
+    "601658.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600036.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "601998.SH": {
+      "foreColor": "#1F2329",
+      "bold": false
+    },
+    "601166.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600000.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000001.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601818.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600016.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600015.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601916.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600919.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002142.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601009.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601169.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600926.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601229.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601838.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601825.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601077.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688235.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "600276.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688506.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002422.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002653.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600196.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300765.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300760.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688271.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603259.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300759.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300015.SZ": {
+      "foreColor": "#1F2329",
+      "bold": false
+    },
+    "002821.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000538.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600436.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688331.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603087.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601607.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603939.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600030.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300059.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601211.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601995.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601066.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601688.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000776.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600999.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601881.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000166.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002736.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600958.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601788.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601628.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601318.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601319.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601601.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601336.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000617.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600901.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300750.SZ": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "300014.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002709.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301217.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300450.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600406.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600089.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002028.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601179.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300274.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "605117.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601012.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601727.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600875.SH": {
+      "foreColor": "#000000",
+      "bold": true
+    },
+    "600482.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002851.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002202.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002487.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600580.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301696.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600941.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601728.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600050.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300442.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300308.SZ": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "300502.SZ": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "601869.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000063.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300394.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600487.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600522.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301165.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002281.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300620.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603083.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688808.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301377.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301689.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002353.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301200.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601091.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002837.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688836.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300124.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000988.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688777.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002008.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300757.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600031.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601100.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000425.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601766.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688187.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601857.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600028.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002493.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600346.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000301.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000703.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600938.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600777.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601808.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600968.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600871.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601899.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "603993.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002379.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601600.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600362.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000807.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601168.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000630.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000933.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600111.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001280.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000657.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600549.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601958.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600547.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600489.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600988.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000975.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002460.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002466.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603799.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "001246.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300748.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300811.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600900.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "003816.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600025.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601985.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600930.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001248.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600886.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001289.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600011.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600905.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600795.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000958.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601991.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600674.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600023.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600236.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600027.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600803.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "605090.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600309.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600160.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002001.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000792.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000408.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600989.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002648.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688585.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601208.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002064.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603225.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688295.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603650.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603033.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688300.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603688.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000338.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600660.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601689.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002594.SZ": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "601633.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600104.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601127.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000625.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600066.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600418.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603129.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603766.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601777.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601965.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600335.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600519.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "000858.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600809.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000568.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600887.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "605499.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603288.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600298.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000895.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603345.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600600.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000729.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002847.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002557.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300033.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688111.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002230.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601360.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300454.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000938.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301638.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002415.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603019.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000977.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601919.SH": {
+      "foreColor": "#F54A45",
+      "bold": false
+    },
+    "600018.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601872.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600026.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601018.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601298.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001872.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601816.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601006.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001965.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600377.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002352.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600233.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601111.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600029.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600115.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600009.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "302132.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600760.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600893.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000768.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002179.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002414.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600150.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603268.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601698.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688818.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600118.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600967.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601606.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601088.SH": {
+      "foreColor": "#F54A45",
+      "bold": false
+    },
+    "601225.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601898.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600188.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002128.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000723.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600740.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000333.SZ": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "000651.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600690.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002050.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600619.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002290.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002032.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688169.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603486.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600060.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002429.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603303.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603515.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301362.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002508.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603366.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300911.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002614.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603579.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601390.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601868.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601800.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601186.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601669.SH": {
+      "foreColor": "#F54A45",
+      "bold": true
+    },
+    "600039.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601618.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601117.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601668.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600170.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600667.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600629.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601886.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002081.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002602.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300418.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601928.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601811.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002027.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300058.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300251.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600977.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300413.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603000.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600637.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600959.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002714.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300498.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300999.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600737.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002311.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000876.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600598.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601118.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600201.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300119.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000592.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002679.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600265.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300094.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600467.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000798.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002556.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300021.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600176.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301526.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603256.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002080.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600585.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600801.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000786.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002271.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001979.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600048.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001914.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000560.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603195.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603816.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002831.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002701.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "003018.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002078.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603733.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603899.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "301101.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002348.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600415.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601933.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300972.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601888.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600185.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "601061.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600710.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603613.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002315.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002024.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002416.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000829.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600019.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600010.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000708.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600282.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600295.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "001203.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603568.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600323.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002266.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603588.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600388.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000967.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600177.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600398.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300979.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002003.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600612.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002867.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600916.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300012.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002967.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300144.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603099.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002607.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300010.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300192.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600754.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600258.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600158.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002858.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "603605.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300957.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300888.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "002511.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "003006.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "300896.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "920982.BJ": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "688363.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "600673.SH": {
+      "foreColor": "#000000",
+      "bold": false
+    },
+    "000833.SZ": {
+      "foreColor": "#000000",
+      "bold": false
+    }
+  }
+}
