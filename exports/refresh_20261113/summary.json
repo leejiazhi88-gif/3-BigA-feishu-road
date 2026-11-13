@@ -47,8 +47,8 @@
   "q3_actual_complete": true,
   "q4_actual_count": 0,
   "q4_lock_column_inserted": true,
-  "status": "prepared_pending_ui_copy",
-  "online_written": false,
+  "status": "completed",
+  "online_written": true,
   "source_sheet": "lxu8og",
   "source_rule_count": 17,
   "annual_changes": 556,
@@ -56,6 +56,9 @@
   "annual_quarter_reconciliations": 1434,
   "personal_notes_preserved": 3,
   "q4_lock_prepared": true,
-  "q4_lock_written": false,
-  "blocker": "需要在飞书界面复制2026-11-06（新）为2026-11-13，当前会话无浏览器工具。"
+  "q4_lock_written": true,
+  "sheet_id": "b21k2z",
+  "url": "https://my.feishu.cn/wiki/DlRmwrJOgiWIVhkWZtsc6h0Bnnd?sheet=b21k2z",
+  "conditional_format_rules": 17,
+  "row_height_px": 29
 }

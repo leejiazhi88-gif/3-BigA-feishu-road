@@ -1,0 +1,51 @@
+{
+  "companies": 478,
+  "errors": [],
+  "format_differences": [
+    {
+      "code": "300192.SZ",
+      "cell": "T464",
+      "header": "本次刷新年度预测变化",
+      "expected": "0.0%",
+      "actual": "General",
+      "numeric": false
+    },
+    {
+      "code": "600754.SH",
+      "cell": "T466",
+      "header": "本次刷新年度预测变化",
+      "expected": "0.0%",
+      "actual": "General",
+      "numeric": false
+    },
+    {
+      "code": "600258.SH",
+      "cell": "T467",
+      "header": "本次刷新年度预测变化",
+      "expected": "0.0%",
+      "actual": "General",
+      "numeric": false
+    },
+    {
+      "code": "002858.SZ",
+      "cell": "T469",
+      "header": "本次刷新年度预测变化",
+      "expected": "0.0%",
+      "actual": "General",
+      "numeric": false
+    }
+  ],
+  "font_family_differences": [
+    {
+      "code": "688008.SH",
+      "cell": "C11",
+      "source_font": "Calibri",
+      "current_font": "Arial"
+    }
+  ],
+  "annual_quarter_reconciliations": 1434,
+  "row_heights": [
+    17.261904761904763
+  ],
+  "conditional_format_ranges": 14
+}
