@@ -1,0 +1,43 @@
+{
+  "asof": "2026-11-17",
+  "existing": 478,
+  "added": 2,
+  "removed": 0,
+  "final": 480,
+  "additions": [
+    {
+      "code": "688629.SH",
+      "name": "华丰科技",
+      "market_cap_yi": 425.3,
+      "sw_l1": "国防军工",
+      "sw_l2": "军工电子Ⅱ",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    },
+    {
+      "code": "601098.SH",
+      "name": "中南传媒",
+      "market_cap_yi": 206.9,
+      "sw_l1": "传媒",
+      "sw_l2": "出版",
+      "l2_rank": 2,
+      "reason": "申万二级市值前二"
+    }
+  ],
+  "forecast_changes": 902,
+  "q3_actual_count": 480,
+  "q3_actual_complete": true,
+  "q4_actual_count": 0,
+  "q4_lock_column_inserted": false,
+  "status": "prepared_pending_ui_copy",
+  "online_written": false,
+  "source_sheet": "b21k2z",
+  "source_rule_count": 17,
+  "annual_changes": 250,
+  "annual_changed_companies": 96,
+  "annual_quarter_reconciliations": 1440,
+  "personal_notes_preserved": 3,
+  "q4_lock_prepared": true,
+  "q4_lock_written": false,
+  "blocker": "浏览器复制待完成：Chrome Apple事件JavaScript关闭且系统未授予辅助访问。"
+}
