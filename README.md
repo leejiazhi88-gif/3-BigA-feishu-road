@@ -217,3 +217,14 @@ market value when those inputs are comparable. Otherwise the cell states why
 it cannot be estimated, and BE records the evidence or assumption. The
 backfill writes an audit next to its output payload. Do not treat a missing
 forecast as a zero dividend.
+
+## Verified Chrome UI copy (2026-11-17)
+
+The user authorizes automatic full-sheet copying on refresh. With Chrome Apple
+Events JavaScript enabled, use `scripts/copy_feishu_sheet_ui.py --window-id <window-id> --tab-id <id>
+--source-id <latest-sheet-id> --title <new-date>`. It operates the visible
+Feishu sheet menu, verifies values and conditional formats against the source,
+and renames the new sheet. Do not use the API copy operation as a fallback.
+The Chinese macOS menu is **显示 → 开发者 → 允许 Apple 事件中的 JavaScript**.
+Discover current tab IDs each session; do not reuse stale IDs. No additional
+confirmation is needed for the already-authorized sheet copy.
