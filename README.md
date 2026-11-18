@@ -1,5 +1,16 @@
 # Shenwan L2 Sector Radar
 
+## 飞书行业排序口径（2026-11-18起）
+
+一级行业、二级行业按表格行情日期同日的申万公布总市值
+`sw_daily.total_mv` 降序，与项目2.2全览图一致；不再汇总入选公司或
+全行业公司市值作为行业排序依据。没有同日官方行情的二级分类放在所属
+一级行业末尾，按行业代码确定顺序，不用旧报价或公司汇总替代。
+个股继续按 `daily_basic.total_mv` 降序（A股价×总股本，含H股股本），
+入选门槛、二级前二及只增不减规则沿用此公司市值。
+
+已对2026-11-17表移动整行完成重排，保留480家公司及其笔记、锁定值和格式。
+
 Local research tool for identifying Shenwan 2021 level-2 sectors that are:
 
 - starting to strengthen before they become crowded

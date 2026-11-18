@@ -638,12 +638,13 @@ def prepare():
     retained_missing_market = sorted(set(existing) - set(market.ts_code.astype(str)))
     assert not retained_missing_market, retained_missing_market
     selected = market[market.ts_code.astype(str).isin(set(existing) | set(additions))].copy()
-    l1_cap = eligible.groupby('l1_code').cap_yi.sum().to_dict()
-    l2_cap = eligible.groupby('l2_code').cap_yi.sum().to_dict()
-    selected['l1_cap_yi'] = selected.l1_code.map(l1_cap).fillna(-1)
-    selected['l2_cap_yi'] = selected.l2_code.map(l2_cap).fillna(-1)
-    selected = selected.sort_values(['l1_cap_yi', 'l2_cap_yi', 'cap_yi', 'ts_code'],
-                                    ascending=[False, False, False, True], kind='mergesort')
+    from industry_market_order import official_caps, sort_market
+    # Same-day official SW values, matching project 2.2; company sums differ
+    # especially for A/H issuers. No silent fallback for unavailable SW L2s.
+    sw_quotes = query(pro, 'sw_daily', trade_date=ASOF,
+                      fields='ts_code,trade_date,name,total_mv')
+    sw_quotes.to_csv(RAW / f'sw_daily_{ASOF}.csv', index=False)
+    selected = sort_market(selected, official_caps(sw_quotes, ASOF))
     codes = selected.ts_code.astype(str).tolist()
     assert set(codes) == set(existing) | set(additions)
 

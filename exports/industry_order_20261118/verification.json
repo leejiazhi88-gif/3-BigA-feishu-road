@@ -1,0 +1,41 @@
+{
+  "sheet_id": "sCZJ9O",
+  "date": "2026-11-17",
+  "companies": 480,
+  "order": "sw_daily L1 desc, L2 desc, daily_basic company cap desc",
+  "missing_official_l2_sort_last": [
+    {
+      "l2_code": "801961.SI",
+      "l2_name": "油气开采Ⅱ"
+    },
+    {
+      "l2_code": "801117.SI",
+      "l2_name": "其他家电Ⅱ"
+    },
+    {
+      "l2_code": "801011.SI",
+      "l2_name": "林业Ⅱ"
+    },
+    {
+      "l2_code": "801019.SI",
+      "l2_name": "农业综合Ⅱ"
+    },
+    {
+      "l2_code": "801207.SI",
+      "l2_name": "旅游零售Ⅱ"
+    },
+    {
+      "l2_code": "801216.SI",
+      "l2_name": "体育Ⅱ"
+    },
+    {
+      "l2_code": "801983.SI",
+      "l2_name": "医疗美容"
+    }
+  ],
+  "row_moves": 15,
+  "values_preserved": true,
+  "format_verified": true,
+  "verification_errors": [],
+  "conditional_rules_preserved": true
+}
